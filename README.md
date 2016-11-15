@@ -1,5 +1,5 @@
 ## Authors Index
-[*](#*) [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) [A](#a) [Ç](#Ç) [É](#É) [Ú](#Ú) 
+[*](#*) [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z) [A](#a) [Ç](#ç) [É](#é) [Ú](#ú) 
 
 ### *
 
@@ -18,16 +18,16 @@
 * [Introspection:Accelerating Neural Network Training By Learning Weight Evolution](http://openreview.net/forum?id=Hkg8bDqee), Abhishek Sinha, Aahitagni Mukherjee, Mausoom Sarkar, Balaji Krishnamurthy, "Acceleration of training by performing weight updates, using knowledge obtained from training other neural networks.", [[pdf](http://openreview.net/pdf?id=Hkg8bDqee)]
 
 #### Aaron Courville
-* [Calibrating Energy-based Generative Adversarial Networks](http://openreview.net/forum?id=SyxeqhP9ll), Zihang Dai, Amjad Almahairi, Philip Bachman, Eduard Hovy, Aaron Courville, "", [[pdf](http://openreview.net/pdf?id=SyxeqhP9ll)]
-* [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
 * [Counterpoint by Convolution](http://openreview.net/forum?id=r1Usiwcex), Cheng-Zhi Anna Huang, Tim Cooijmans, Adam Roberts, Aaron Courville, Douglas Eck, "A versatile model of musical counterpoint using deep convnets", [[pdf](http://openreview.net/pdf?id=r1Usiwcex)]
 * [Multimodal Variational Encoder-Decoders](http://openreview.net/forum?id=BJ9fZNqle), Iulian V. Serban, Alexander G. Ororbia II, Joelle Pineau, Aaron Courville, "Learning continuous multimodal latent variables in the variational auto-encoder framework for text processing applications.", [[pdf](http://openreview.net/pdf?id=BJ9fZNqle)]
-* [SampleRNN: An Unconditional End-to-End Neural Audio Generation Model](http://openreview.net/forum?id=SkxKPDv5xl), Soroush Mehri, Kundan Kumar, Ishaan Gulrajani, Rithesh Kumar, Shubham Jain, Jose Manuel Rodriguez Sotelo, Aaron Courville, Yoshua Bengio, "Novel model for unconditional audio generation task using hierarchical multi-scale RNNs and autoregressive MLP.", [[pdf](http://openreview.net/pdf?id=SkxKPDv5xl)]
 * [Recurrent Batch Normalization](http://openreview.net/forum?id=r1VdcHcxx), Tim Cooijmans, Nicolas Ballas, César Laurent, Çağlar Gülçehre, Aaron Courville, "Make batch normalization work in recurrent neural networks", [[pdf](http://openreview.net/pdf?id=r1VdcHcxx)]
+* [SampleRNN: An Unconditional End-to-End Neural Audio Generation Model](http://openreview.net/forum?id=SkxKPDv5xl), Soroush Mehri, Kundan Kumar, Ishaan Gulrajani, Rithesh Kumar, Shubham Jain, Jose Manuel Rodriguez Sotelo, Aaron Courville, Yoshua Bengio, "Novel model for unconditional audio generation task using hierarchical multi-scale RNNs and autoregressive MLP.", [[pdf](http://openreview.net/pdf?id=SkxKPDv5xl)]
 * [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
-* [PixelVAE: A Latent Variable Model for Natural Images](http://openreview.net/forum?id=BJKYvt5lg), Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville, "VAE with an autoregressive PixelCNN-based decoder with strong performance on binarized MNIST, ImageNet 64x64, and LSUN bedrooms.", [[pdf](http://openreview.net/pdf?id=BJKYvt5lg)]
-* [Generalizable Features From Unsupervised Learning](http://openreview.net/forum?id=rJ6DhP5xe), Mehdi Mirza, Aaron Courville, Yoshua Bengio, "Using generated data from a next frame predictor model to make a supervised model generalize better to unseen distributions.  ", [[pdf](http://openreview.net/pdf?id=rJ6DhP5xe)]
 * [Adversarially Learned Inference](http://openreview.net/forum?id=B1ElR4cgg), Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville, "We present and adverserially trained generative model with an inference network. Samples quality is high. Competitive semi-supervised results are achieved.", [[pdf](http://openreview.net/pdf?id=B1ElR4cgg)]
+* [Calibrating Energy-based Generative Adversarial Networks](http://openreview.net/forum?id=SyxeqhP9ll), Zihang Dai, Amjad Almahairi, Philip Bachman, Eduard Hovy, Aaron Courville, "", [[pdf](http://openreview.net/pdf?id=SyxeqhP9ll)]
+* [Generalizable Features From Unsupervised Learning](http://openreview.net/forum?id=rJ6DhP5xe), Mehdi Mirza, Aaron Courville, Yoshua Bengio, "Using generated data from a next frame predictor model to make a supervised model generalize better to unseen distributions.  ", [[pdf](http://openreview.net/pdf?id=rJ6DhP5xe)]
+* [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
+* [PixelVAE: A Latent Variable Model for Natural Images](http://openreview.net/forum?id=BJKYvt5lg), Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville, "VAE with an autoregressive PixelCNN-based decoder with strong performance on binarized MNIST, ImageNet 64x64, and LSUN bedrooms.", [[pdf](http://openreview.net/pdf?id=BJKYvt5lg)]
 
 #### Aaron Klein
 * [Learning Curve Prediction with Bayesian Neural Networks](http://openreview.net/forum?id=S11KBYclx), Aaron Klein, Stefan Falkner, Jost Tobias Springenberg, Frank Hutter, "We present a general probabilistic method based on Bayesian neural networks to predit learning curves of iterative machine learning methods.", [[pdf](http://openreview.net/pdf?id=S11KBYclx)]
@@ -64,8 +64,8 @@
 * [Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context](http://openreview.net/forum?id=HJSCGD9ex), Shyam Upadhyay, Kai-Wei Chang, James Zou, Matt Taddy, Adam Kalai, "Using multilingual context for learning multi-sense embeddings helps.", [[pdf](http://openreview.net/pdf?id=HJSCGD9ex)]
 
 #### Adam Paszke
-* [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](http://openreview.net/forum?id=HJy_5Mcll), Adam Paszke, Abhishek Chaurasia, Sangpil Kim, Eugenio Culurciello, "", [[pdf](http://openreview.net/pdf?id=HJy_5Mcll)]
 * [An Analysis of Deep Neural Network Models for Practical Applications](http://openreview.net/forum?id=Bygq-H9eg), Alfredo Canziani, Adam Paszke, Eugenio Culurciello, "Analysis of ImageNet winning architectures in terms of accuracy, memory footprint, parameters, operations count, inference time and power consumption.", [[pdf](http://openreview.net/pdf?id=Bygq-H9eg)]
+* [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](http://openreview.net/forum?id=HJy_5Mcll), Adam Paszke, Abhishek Chaurasia, Sangpil Kim, Eugenio Culurciello, "", [[pdf](http://openreview.net/pdf?id=HJy_5Mcll)]
 
 #### Adam Polyak
 * [Unsupervised Cross-Domain Image Generation](http://openreview.net/forum?id=Sk2Im59ex), Yaniv Taigman, Adam Polyak, Lior Wolf, "", [[pdf](http://openreview.net/pdf?id=Sk2Im59ex)]
@@ -80,8 +80,8 @@
 * [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](http://openreview.net/forum?id=SyOvg6jxx), Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, Pieter Abbeel, "We improve exploration in deep reinforcement learning by simply hashing states and assigning bonus rewards according to state counts.", [[pdf](http://openreview.net/pdf?id=SyOvg6jxx)]
 
 #### Adam Trischler
-* [Towards Information-Seeking Agents](http://openreview.net/forum?id=SyW2QSige), Philip Bachman, Alessandro Sordoni, Adam Trischler, "We investigate the behavior of models trained to answer questions by asking sequences of simple questions.", [[pdf](http://openreview.net/pdf?id=SyW2QSige)]
 * [NEWSQA: A MACHINE COMPREHENSION DATASET](http://openreview.net/forum?id=ry3iBFqgl), Adam Trischler, Tong Wang, Xingdi Yuan, Justin Harris, Alessandro Sordoni, Philip Bachman, Kaheer Suleman, "Crowdsourced QA dataset with natural language questions and multi-word answers", [[pdf](http://openreview.net/pdf?id=ry3iBFqgl)]
+* [Towards Information-Seeking Agents](http://openreview.net/forum?id=SyW2QSige), Philip Bachman, Alessandro Sordoni, Adam Trischler, "We investigate the behavior of models trained to answer questions by asking sequences of simple questions.", [[pdf](http://openreview.net/pdf?id=SyW2QSige)]
 
 #### Aditya Grover
 * [Boosted Generative Models](http://openreview.net/forum?id=HyY4Owjll), Aditya Grover, Stefano Ermon, "", [[pdf](http://openreview.net/pdf?id=HyY4Owjll)]
@@ -138,8 +138,8 @@
 * [Transfer of View-manifold Learning to Similarity Perception of Novel Objects](http://openreview.net/forum?id=B1gtu5ilg), Xingyu Lin, Hao Wang, Zhihao Li, Yimeng Zhang, Alan Yuille, Tai Sing Lee, "DCNN trained with multiple views of the same object can develop human-like perpetual similarity judgment that can transfer to novel objects", [[pdf](http://openreview.net/pdf?id=B1gtu5ilg)]
 
 #### Alban Desmaison
-* [Learning to superoptimize programs](http://openreview.net/forum?id=r1rz6U5lg), Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=r1rz6U5lg)]
 * [Structured Interpretation of Deep Generative Models](http://openreview.net/forum?id=HJtN5K9gx), N. Siddharth, Brooks Paige, Alban Desmaison, Jan-Willem van de Meent, Frank Wood, Noah D. Goodman, Pushmeet Kohli, Philip H.S. Torr, "", [[pdf](http://openreview.net/pdf?id=HJtN5K9gx)]
+* [Learning to superoptimize programs](http://openreview.net/forum?id=r1rz6U5lg), Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=r1rz6U5lg)]
 
 #### Alberto Delmas
 * [Bit-Pragmatic Deep Neural Network Computing](http://openreview.net/forum?id=By14kuqxx), Jorge Albericio, Patrick Judd, Alberto Delmas, Sayeh Sharify, Andreas Moshovos, "A hardware accelerator for DNNs whose execution time for convolutional layers is proportional to the number of activation *bits* that are 1.", [[pdf](http://openreview.net/pdf?id=By14kuqxx)]
@@ -154,8 +154,8 @@
 * [Is a picture worth a thousand words? A Deep Multi-Modal Fusion Architecture for Product Classification in e-commerce](http://openreview.net/forum?id=rJJ3YU5ge), Tom Zahavy, Alessandro Magnani, Abhinandan Krishnan, Shie Mannor, "", [[pdf](http://openreview.net/pdf?id=rJJ3YU5ge)]
 
 #### Alessandro Sordoni
-* [Towards Information-Seeking Agents](http://openreview.net/forum?id=SyW2QSige), Philip Bachman, Alessandro Sordoni, Adam Trischler, "We investigate the behavior of models trained to answer questions by asking sequences of simple questions.", [[pdf](http://openreview.net/pdf?id=SyW2QSige)]
 * [NEWSQA: A MACHINE COMPREHENSION DATASET](http://openreview.net/forum?id=ry3iBFqgl), Adam Trischler, Tong Wang, Xingdi Yuan, Justin Harris, Alessandro Sordoni, Philip Bachman, Kaheer Suleman, "Crowdsourced QA dataset with natural language questions and multi-word answers", [[pdf](http://openreview.net/pdf?id=ry3iBFqgl)]
+* [Towards Information-Seeking Agents](http://openreview.net/forum?id=SyW2QSige), Philip Bachman, Alessandro Sordoni, Adam Trischler, "We investigate the behavior of models trained to answer questions by asking sequences of simple questions.", [[pdf](http://openreview.net/pdf?id=SyW2QSige)]
 
 #### Alex Auvolat
 * [Diet Networks: Thin Parameters for Fat Genomics](http://openreview.net/forum?id=Sk-oDY9ge), Adriana Romero, Pierre Luc Carrier, Akram Erraqabi, Tristan Sylvain, Alex Auvolat, Etienne Dejoie, Marc-André Legault, Julie G. Hussin, Yoshua Bengio, "Drastically reducing the number of parameters, when the number of input features is orders of magnitude larger than the number of training examples, such as in genomics.", [[pdf](http://openreview.net/pdf?id=Sk-oDY9ge)]
@@ -196,8 +196,8 @@
 * [Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening](http://openreview.net/forum?id=rJ8Je4clg), Frank S.He, Yang Liu, Alexander G. Schwing, Jian Peng, "We propose a novel training algorithm for reinforcement learning which combines the strength of deep Q-learning with a constrained optimization approach to tighten optimality and encourage faster reward propagation.", [[pdf](http://openreview.net/pdf?id=rJ8Je4clg)]
 
 #### Alexander H. Miller
-* [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
 * [Dialogue Learning With Human-in-the-Loop](http://openreview.net/forum?id=HJgXCV9xx), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "we explore a reinforcement learning setting for dialogue where the bot improves its abilities using reward-based or textual feedback", [[pdf](http://openreview.net/pdf?id=HJgXCV9xx)]
+* [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
 
 #### Alexander Heitman
 * [Multilayer Recurrent Network Models of Primate Retinal Ganglion Cells](http://openreview.net/forum?id=HkEI22jeg), Eleanor Batty, Josh Merel, Nora Brackbill, Alexander Heitman, Alexander Sher, Alan Litke, E.J. Chichilnisky, Liam Paninski, "", [[pdf](http://openreview.net/pdf?id=HkEI22jeg)]
@@ -241,8 +241,8 @@
 * [Riemannian Optimization for Skip-Gram Negative Sampling](http://openreview.net/forum?id=S13wCE9xx), Alexander Fonarev, Gleb Gusev, Pavel Serdyukov, Alexey Grinchuk, Ivan Oseledets, "We train word embeddings optimizing Skip-Gram Negative Sampling objective (known by word2vec) via Riemannian low-rank optimization framework", [[pdf](http://openreview.net/pdf?id=S13wCE9xx)]
 
 #### Alexey Kurakin
-* [Adversarial Machine Learning at Scale](http://openreview.net/forum?id=BJm4T4Kgx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=BJm4T4Kgx)]
 * [Adversarial examples in the physical world](http://openreview.net/forum?id=S1OufnIlx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=S1OufnIlx)]
+* [Adversarial Machine Learning at Scale](http://openreview.net/forum?id=BJm4T4Kgx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=BJm4T4Kgx)]
 
 #### Alexey Romanov
 * [Here's My Point: Argumentation Mining with Pointer Networks](http://openreview.net/forum?id=B1KBHtcel), Peter Potash, Alexey Romanov, Anna Rumshisky, "We use a modified Pointer Network to predict 1) types of argument components; 2) links between argument components.", [[pdf](http://openreview.net/pdf?id=B1KBHtcel)]
@@ -270,8 +270,8 @@
 * [Attentive Recurrent Comparators](http://openreview.net/forum?id=BJjn-Yixl), Pranav Shyam, Ambedkar Dukkipati, "", [[pdf](http://openreview.net/pdf?id=BJjn-Yixl)]
 
 #### Ameet Talwalkar
-* [Paleo: A Performance Model for Deep Neural Networks](http://openreview.net/forum?id=SyVVJ85lg), Hang Qi, Evan R. Sparks, Ameet Talwalkar, "Paleo: An analytical performance model for exploring the space of scalable deep learning systems and quickly diagnosing their effectiveness for a given problem instance.", [[pdf](http://openreview.net/pdf?id=SyVVJ85lg)]
 * [Hyperband: Bandit-Based Configuration Evaluation for Hyperparameter Optimization](http://openreview.net/forum?id=ry18Ww5ee), Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalkar, "", [[pdf](http://openreview.net/pdf?id=ry18Ww5ee)]
+* [Paleo: A Performance Model for Deep Neural Networks](http://openreview.net/forum?id=SyVVJ85lg), Hang Qi, Evan R. Sparks, Ameet Talwalkar, "Paleo: An analytical performance model for exploring the space of scalable deep learning systems and quickly diagnosing their effectiveness for a given problem instance.", [[pdf](http://openreview.net/pdf?id=SyVVJ85lg)]
 
 #### Amit Daniely
 * [Short and Deep: Sketching and Neural Networks](http://openreview.net/forum?id=r1br_2Kge), Amit Daniely, Nevena Lazic, Yoram Singer, Kunal Talwar, "For sparse boolean inputs, Neural Networks operating on very short sketches can provably and empirically represent a large class of functions.", [[pdf](http://openreview.net/pdf?id=r1br_2Kge)]
@@ -321,8 +321,8 @@
 * [Classless Association using Neural Networks](http://openreview.net/forum?id=ryh_8f9lg), Federico Raue, Sebastian Palacio, Andreas Dengel, Marcus Liwicki, "Learning based on the relation between two instances of the same unknown class", [[pdf](http://openreview.net/pdf?id=ryh_8f9lg)]
 
 #### Andreas Moshovos
-* [Tartan: Accelerating Fully-Connected and Convolutional Layers in Deep Learning Networks by Exploiting Numerical Precision Variability](http://openreview.net/forum?id=Hy-lMNqex), Alberto Delmás Lascorz, Sayeh Sharify, Andreas Moshovos, "A hardware accelerator whose execution time for Fully-Connected and Convolutional Layers  in CNNs vary inversely proportional with the number of bits used to represent the input activations and/or weights.", [[pdf](http://openreview.net/pdf?id=Hy-lMNqex)]
 * [Bit-Pragmatic Deep Neural Network Computing](http://openreview.net/forum?id=By14kuqxx), Jorge Albericio, Patrick Judd, Alberto Delmas, Sayeh Sharify, Andreas Moshovos, "A hardware accelerator for DNNs whose execution time for convolutional layers is proportional to the number of activation *bits* that are 1.", [[pdf](http://openreview.net/pdf?id=By14kuqxx)]
+* [Tartan: Accelerating Fully-Connected and Convolutional Layers in Deep Learning Networks by Exploiting Numerical Precision Variability](http://openreview.net/forum?id=Hy-lMNqex), Alberto Delmás Lascorz, Sayeh Sharify, Andreas Moshovos, "A hardware accelerator whose execution time for Fully-Connected and Convolutional Layers  in CNNs vary inversely proportional with the number of bits used to represent the input activations and/or weights.", [[pdf](http://openreview.net/pdf?id=Hy-lMNqex)]
 
 #### Andrej Karpathy
 * [PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications](http://openreview.net/forum?id=BJrFC6ceg), Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma, Yaroslav Bulatov, "A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications", [[pdf](http://openreview.net/pdf?id=BJrFC6ceg)]
@@ -383,12 +383,12 @@
 * [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
 
 #### Anirudh Goyal
-* [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
 * [The Variational Walkback Algorithm](http://openreview.net/forum?id=rkpdnIqlx), Anirudh Goyal, Nan Rosemary Ke, Alex Lamb, Yoshua Bengio, "A new algorithm for training undirected graphical models.", [[pdf](http://openreview.net/pdf?id=rkpdnIqlx)]
+* [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
 
 #### Anitha Kannan
-* [LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation](http://openreview.net/forum?id=HJ1kmv9xx), Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh, "A layered recursive GAN for image generation, which considers the structure in images and can disentangle the foreground objects from background well in unsupervised manner.", [[pdf](http://openreview.net/pdf?id=HJ1kmv9xx)]
 * [Epitomic Variational Autoencoders](http://openreview.net/forum?id=Bk3F5Y9lx), Serena Yeung, Anitha Kannan, Yann Dauphin, Li Fei-Fei, "We introduce an extension of variational autoencoders that learns multiple shared latent subspaces to address the issue of model capacity underutilization.", [[pdf](http://openreview.net/pdf?id=Bk3F5Y9lx)]
+* [LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation](http://openreview.net/forum?id=HJ1kmv9xx), Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh, "A layered recursive GAN for image generation, which considers the structure in images and can disentangle the foreground objects from background well in unsupervised manner.", [[pdf](http://openreview.net/pdf?id=HJ1kmv9xx)]
 * [Transformation-based Models of Video Sequences](http://openreview.net/forum?id=HkxAAvcxx), Joost van Amersfoort, Anitha Kannan, Marc'Aurelio Ranzato, Arthur Szlam, Du Tran, Soumith Chintala, "Predict next frames of a video sequence by modelling transformations", [[pdf](http://openreview.net/pdf?id=HkxAAvcxx)]
 
 #### Ankur Parikh
@@ -410,8 +410,8 @@
 * [Here's My Point: Argumentation Mining with Pointer Networks](http://openreview.net/forum?id=B1KBHtcel), Peter Potash, Alexey Romanov, Anna Rumshisky, "We use a modified Pointer Network to predict 1) types of argument components; 2) links between argument components.", [[pdf](http://openreview.net/pdf?id=B1KBHtcel)]
 
 #### Antoine Bordes
-* [Learning End-to-End Goal-Oriented Dialog](http://openreview.net/forum?id=S1Bb3D5gg), Antoine Bordes, Y-Lan Boureau, Jason Weston, "A new open dataset and testbed for training and evaluating end-to-end dialog systems in goal-oriented scenarios.", [[pdf](http://openreview.net/pdf?id=S1Bb3D5gg)]
 * [Tracking the World State with Recurrent Entity Networks](http://openreview.net/forum?id=rJTKKKqeg), Mikael Henaff, Jason Weston, Arthur Szlam, Antoine Bordes, Yann LeCun, "A new memory-augmented model which learns to track the world state, obtaining SOTA on the bAbI tasks amongst other results.", [[pdf](http://openreview.net/pdf?id=rJTKKKqeg)]
+* [Learning End-to-End Goal-Oriented Dialog](http://openreview.net/forum?id=S1Bb3D5gg), Antoine Bordes, Y-Lan Boureau, Jason Weston, "A new open dataset and testbed for training and evaluating end-to-end dialog systems in goal-oriented scenarios.", [[pdf](http://openreview.net/pdf?id=S1Bb3D5gg)]
 
 #### Antonia Creswell
 * [Improving Sampling from Generative Autoencoders with Markov Chains](http://openreview.net/forum?id=ryXZmzNeg), Kai Arulkumaran, Antonia Creswell, Anil Anthony Bharath, "Iteratively encoding and decoding samples from generative autoencoders recovers samples from the true latent distribution learned by the model", [[pdf](http://openreview.net/pdf?id=ryXZmzNeg)]
@@ -451,16 +451,16 @@
 
 #### Armand Joulin
 * [Efficient Softmax Approximation for GPUs](http://openreview.net/forum?id=rkmDI85ge), Édouard Grave, Armand Joulin, Moustapha Cissé, David Grangier, Hervé Jégou, "", [[pdf](http://openreview.net/pdf?id=rkmDI85ge)]
-* [Variable Computation in Recurrent Neural Networks](http://openreview.net/forum?id=S1LVSrcge), Yacine Jernite, Edouard Grave, Armand Joulin, Tomas Mikolov, "We show that an RNN can learn to control the amount of computation it does at each time step, leading to better efficiency and performance as well as discovering time patterns of interest.", [[pdf](http://openreview.net/pdf?id=S1LVSrcge)]
 * [Improving Neural Language Models with a Continuous Cache](http://openreview.net/forum?id=B184E5qee), Edouard Grave, Armand Joulin, Nicolas Usunier, "", [[pdf](http://openreview.net/pdf?id=B184E5qee)]
+* [Variable Computation in Recurrent Neural Networks](http://openreview.net/forum?id=S1LVSrcge), Yacine Jernite, Edouard Grave, Armand Joulin, Tomas Mikolov, "We show that an RNN can learn to control the amount of computation it does at each time step, leading to better efficiency and performance as well as discovering time patterns of interest.", [[pdf](http://openreview.net/pdf?id=S1LVSrcge)]
 * [FastText.zip: Compressing text classification models](http://openreview.net/forum?id=SJc1hL5ee), Armand Joulin, Edouard Grave, Piotr Bojanowski, Matthijs Douze, Herve Jegou, Tomas Mikolov, "Compressing text classification models", [[pdf](http://openreview.net/pdf?id=SJc1hL5ee)]
 
 #### Armando Solar-Lezama
 * [Learning Approximate Distribution-Sensitive Data Structures](http://openreview.net/forum?id=BJVEEF9lx), Zenna Tavares, Armando Solar-Lezama, "We model mental representations as abstract distribution-sensitive data types and synthesize concrete implementations using deep networks from specification", [[pdf](http://openreview.net/pdf?id=BJVEEF9lx)]
 
 #### Armen Aghajanyan
-* [SoftTarget Regularization: An Effective Technique to Reduce Over-Fitting in Neural Networks](http://openreview.net/forum?id=BkCPyXm1l), Armen Aghajanyan, "", [[pdf](http://openreview.net/pdf?id=BkCPyXm1l)]
 * [Charged Point Normalization: An Efficient Solution to the Saddle Point Problem](http://openreview.net/forum?id=B1jnyXXJx), Armen Aghajanyan, "", [[pdf](http://openreview.net/pdf?id=B1jnyXXJx)]
+* [SoftTarget Regularization: An Effective Technique to Reduce Over-Fitting in Neural Networks](http://openreview.net/forum?id=BkCPyXm1l), Armen Aghajanyan, "", [[pdf](http://openreview.net/pdf?id=BkCPyXm1l)]
 
 #### Artem Yankov
 * [Beyond Fine Tuning: A Modular Approach to Learning on Small Data](http://openreview.net/forum?id=ryZqPN5xe), Aryk Anderson, Kyle Shaffer, Artem Yankov, Court Corley, Nathan Hodas, "A better way to do deep learning with small amounts of training data", [[pdf](http://openreview.net/pdf?id=ryZqPN5xe)]
@@ -477,8 +477,8 @@
 * [Tracking the World State with Recurrent Entity Networks](http://openreview.net/forum?id=rJTKKKqeg), Mikael Henaff, Jason Weston, Arthur Szlam, Antoine Bordes, Yann LeCun, "A new memory-augmented model which learns to track the world state, obtaining SOTA on the bAbI tasks amongst other results.", [[pdf](http://openreview.net/pdf?id=rJTKKKqeg)]
 
 #### Arvind Neelakantan
-* [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 * [LEARNING A NATURAL LANGUAGE INTERFACE WITH NEURAL PROGRAMMER](http://openreview.net/forum?id=ry2YOrcge), Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, Dario Amodei, "To our knowledge, this paper presents the first weakly supervised, end-to-end neural network model to induce programs on a real-world  dataset.", [[pdf](http://openreview.net/pdf?id=ry2YOrcge)]
+* [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 
 #### Aryk Anderson
 * [Beyond Fine Tuning: A Modular Approach to Learning on Small Data](http://openreview.net/forum?id=ryZqPN5xe), Aryk Anderson, Kyle Shaffer, Artem Yankov, Court Corley, Nathan Hodas, "A better way to do deep learning with small amounts of training data", [[pdf](http://openreview.net/pdf?id=ryZqPN5xe)]
@@ -529,10 +529,10 @@
 * [Learning in Implicit Generative Models](http://openreview.net/forum?id=B16Jem9xe), Shakir Mohamed, Balaji Lakshminarayanan, "Showing connections between GANs, ABC, ratio estimation and other approaches for learning in deep generative models.", [[pdf](http://openreview.net/pdf?id=B16Jem9xe)]
 
 #### Balaraman Ravindran
-* [Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain](http://openreview.net/forum?id=Sy6iJDqlx), Janarthanan Rajendran, Aravind Lakshminarayanan, Mitesh M. Khapra, Prasanna P, Balaraman Ravindran, "We propose a general architecture for transfer that can avoid negative transfer and transfer selectively from multiple source tasks in the same domain.", [[pdf](http://openreview.net/pdf?id=Sy6iJDqlx)]
-* [EPOpt: Learning Robust Neural Network Policies Using Model Ensembles](http://openreview.net/forum?id=SyWvgP5el), Aravind Rajeswaran, Sarvjeet Ghotra, Balaraman Ravindran, Sergey Levine, "An ensemble optimization approach to help transfer neural network policies from simulated domains to real-world target domains.", [[pdf](http://openreview.net/pdf?id=SyWvgP5el)]
-* [Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning](http://openreview.net/forum?id=B1GOWV5eg), Sahil Sharma, Aravind S. Lakshminarayanan, Balaraman Ravindran, "Framework for temporal abstractions in policy space by learning to repeat actions", [[pdf](http://openreview.net/pdf?id=B1GOWV5eg)]
 * [DyVEDeep: Dynamic Variable Effort Deep Neural Networks](http://openreview.net/forum?id=BJmCKBqgl), Sanjay Ganapathy, Swagath Venkataramani, Balaraman Ravindran, Anand Raghunathan, "", [[pdf](http://openreview.net/pdf?id=BJmCKBqgl)]
+* [Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain](http://openreview.net/forum?id=Sy6iJDqlx), Janarthanan Rajendran, Aravind Lakshminarayanan, Mitesh M. Khapra, Prasanna P, Balaraman Ravindran, "We propose a general architecture for transfer that can avoid negative transfer and transfer selectively from multiple source tasks in the same domain.", [[pdf](http://openreview.net/pdf?id=Sy6iJDqlx)]
+* [Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning](http://openreview.net/forum?id=B1GOWV5eg), Sahil Sharma, Aravind S. Lakshminarayanan, Balaraman Ravindran, "Framework for temporal abstractions in policy space by learning to repeat actions", [[pdf](http://openreview.net/pdf?id=B1GOWV5eg)]
+* [EPOpt: Learning Robust Neural Network Policies Using Model Ensembles](http://openreview.net/forum?id=SyWvgP5el), Aravind Rajeswaran, Sarvjeet Ghotra, Balaraman Ravindran, Sergey Levine, "An ensemble optimization approach to help transfer neural network policies from simulated domains to real-world target domains.", [[pdf](http://openreview.net/pdf?id=SyWvgP5el)]
 
 #### Balázs Kégl
 * [Out-of-class novelty generation: an experimental foundation](http://openreview.net/forum?id=ByEPMj5el), Mehdi Cherti, Balázs Kégl, Akın Kazakçı, "", [[pdf](http://openreview.net/pdf?id=ByEPMj5el)]
@@ -560,9 +560,9 @@
 * [Multiplicative LSTM for sequence modelling](http://openreview.net/forum?id=Hk4kQHceg), Ben Krause, Iain Murray, Steve Renals, Liang Lu, "Combines LSTM and multiplicative RNN architectures; achieves 1.19 bits/character on Hutter prize dataset with dynamic evaluation.", [[pdf](http://openreview.net/pdf?id=Hk4kQHceg)]
 
 #### Ben Poole
-* [Unrolled Generative Adversarial Networks](http://openreview.net/forum?id=BydrOIcle), Luke Metz, Ben Poole, David Pfau, Jascha Sohl-Dickstein, "We introduce a method to stabilize Generative Adversarial Networks by defining the generator objective with respect to an unrolled optimization of the discriminator. ", [[pdf](http://openreview.net/pdf?id=BydrOIcle)]
-* [On the Expressive Power of Deep Neural Networks](http://openreview.net/forum?id=B1TTpYKgx), Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein, "Derives and explains the exponential depth sensitivity of different expressivity measures for deep neural networks, and explores consequences during and after training. ", [[pdf](http://openreview.net/pdf?id=B1TTpYKgx)]
 * [Categorical Reparameterization with Gumbel-Softmax](http://openreview.net/forum?id=rkE3y85ee), Eric Jang, Shixiang Gu, Ben Poole, "Simple, differentiable sampling mechanism for categorical variables that can be trained in neural nets via standard backprop.", [[pdf](http://openreview.net/pdf?id=rkE3y85ee)]
+* [On the Expressive Power of Deep Neural Networks](http://openreview.net/forum?id=B1TTpYKgx), Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein, "Derives and explains the exponential depth sensitivity of different expressivity measures for deep neural networks, and explores consequences during and after training. ", [[pdf](http://openreview.net/pdf?id=B1TTpYKgx)]
+* [Unrolled Generative Adversarial Networks](http://openreview.net/forum?id=BydrOIcle), Luke Metz, Ben Poole, David Pfau, Jascha Sohl-Dickstein, "We introduce a method to stabilize Generative Adversarial Networks by defining the generator objective with respect to an unrolled optimization of the discriminator. ", [[pdf](http://openreview.net/pdf?id=BydrOIcle)]
 * [Adversarially Learned Inference](http://openreview.net/forum?id=B1ElR4cgg), Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville, "We present and adverserially trained generative model with an inference network. Samples quality is high. Competitive semi-supervised results are achieved.", [[pdf](http://openreview.net/pdf?id=B1ElR4cgg)]
 
 #### Benjamin Piwowarski
@@ -588,9 +588,9 @@
 * [Deep Generalized Canonical Correlation Analysis](http://openreview.net/forum?id=HycUbvcge), Adrian Benton, Huda Khayrallah, Biman Gujral, Drew Reisinger, Sheng Zhang, Raman Arora, "A multiview representation learning technique that can learn nonlinear mappings from arbitrarily many views to a shared semantic space -- Deep Generalized Canonical Correlation Analysis.", [[pdf](http://openreview.net/pdf?id=HycUbvcge)]
 
 #### Bing Xiang
-* [End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension](http://openreview.net/forum?id=r1te3Fqel), Yang Yu, Wei Zhang, Bowen Zhou, Kazi Hasan, Mo Yu, Bing Xiang, "", [[pdf](http://openreview.net/pdf?id=r1te3Fqel)]
 * [Group Sparse CNNs for Question Sentence Classification with Answer Sets](http://openreview.net/forum?id=BJFG8Yqxl), Mingbo Ma, Liang Huang, Bing Xiang, Bowen Zhou, "", [[pdf](http://openreview.net/pdf?id=BJFG8Yqxl)]
 * [A SELF-ATTENTIVE SENTENCE EMBEDDING](http://openreview.net/forum?id=BJC_jUqxe), Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio, "a new model for extracting an interpretable sentence embedding by introducing self-attention.", [[pdf](http://openreview.net/pdf?id=BJC_jUqxe)]
+* [End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension](http://openreview.net/forum?id=r1te3Fqel), Yang Yu, Wei Zhang, Bowen Zhou, Kazi Hasan, Mo Yu, Bing Xiang, "", [[pdf](http://openreview.net/pdf?id=r1te3Fqel)]
 
 #### Bo Dai
 * [Recurrent Hidden Semi-Markov Model](http://openreview.net/forum?id=HJGODLqgx), Hanjun Dai, Bo Dai, Yan-Ming Zhang, Shuang Li, Le Song, "We propose to incorporate the RNN to model the generative process in Hidden Semi-Markov Model for unsupervised segmentation and labeling.", [[pdf](http://openreview.net/pdf?id=HJGODLqgx)]
@@ -611,9 +611,9 @@
 * [Designing Neural Network Architectures using Reinforcement Learning](http://openreview.net/forum?id=S1c2cvqee), Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar, "", [[pdf](http://openreview.net/pdf?id=S1c2cvqee)]
 
 #### Bowen Zhou
-* [End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension](http://openreview.net/forum?id=r1te3Fqel), Yang Yu, Wei Zhang, Bowen Zhou, Kazi Hasan, Mo Yu, Bing Xiang, "", [[pdf](http://openreview.net/pdf?id=r1te3Fqel)]
 * [Group Sparse CNNs for Question Sentence Classification with Answer Sets](http://openreview.net/forum?id=BJFG8Yqxl), Mingbo Ma, Liang Huang, Bing Xiang, Bowen Zhou, "", [[pdf](http://openreview.net/pdf?id=BJFG8Yqxl)]
 * [A SELF-ATTENTIVE SENTENCE EMBEDDING](http://openreview.net/forum?id=BJC_jUqxe), Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio, "a new model for extracting an interpretable sentence embedding by introducing self-attention.", [[pdf](http://openreview.net/pdf?id=BJC_jUqxe)]
+* [End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension](http://openreview.net/forum?id=r1te3Fqel), Yang Yu, Wei Zhang, Bowen Zhou, Kazi Hasan, Mo Yu, Bing Xiang, "", [[pdf](http://openreview.net/pdf?id=r1te3Fqel)]
 
 #### Bowen Zhou and Mingbo Ma
 * [Classify or Select: Neural Architectures for Extractive Document Summarization](http://openreview.net/forum?id=Hk6a8N5xe), Ramesh Nallapati, Bowen Zhou and Mingbo Ma, "This paper presents two different neural architectures for extractive document summarization whose predictions are very interpretable, and show that they reach or outperform state-of-the-art supervised models.", [[pdf](http://openreview.net/pdf?id=Hk6a8N5xe)]
@@ -664,11 +664,11 @@
 * [Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes](http://openreview.net/forum?id=BkSmc8qll), Caglar Gulcehre, Sarath Chandar, Kyunghyun Cho, Yoshua Bengio, "We propose a new type of Neural Turing Machine, which is simpler than the original model and achieves better results than the baselines on non-trivial tasks. ", [[pdf](http://openreview.net/pdf?id=BkSmc8qll)]
 
 #### Caiming Xiong
-* [Dynamic Coattention Networks For Question Answering](http://openreview.net/forum?id=rJeKjwvclx), Caiming Xiong, Victor Zhong, Richard Socher, "An end-to-end dynamic neural network model for question answering that achieves the state of the art and best leaderboard performance on the Stanford QA dataset.", [[pdf](http://openreview.net/pdf?id=rJeKjwvclx)]
-* [Pointer Sentinel Mixture Models](http://openreview.net/forum?id=Byj72udxe), Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher, "Pointer sentinel mixture models provide a method to combine a traditional vocabulary softmax with a pointer network, providing state of the art results in language modeling on PTB and the newly introduced WikiText with few extra parameters.", [[pdf](http://openreview.net/pdf?id=Byj72udxe)]
-* [Quasi-Recurrent Neural Networks](http://openreview.net/forum?id=H1zJ-v5xl), James Bradbury, Stephen Merity, Caiming Xiong, Richard Socher, "QRNNs, composed of convolutions and a recurrent pooling function, outperform LSTMs on a variety of sequence tasks and are up to 16 times faster.", [[pdf](http://openreview.net/pdf?id=H1zJ-v5xl)]
 * [A Way out of the Odyssey: Analyzing and Combining Recent Insights for LSTMs](http://openreview.net/forum?id=rJsiFTYex), Shayne Longpre, Sabeek Pradhan, Caiming Xiong, Richard Socher, "Relatively simple augmentations to the LSTM, such as Monte Carlo test time averaging, deep vector averaging, and residual connections, can yield massive accuracy improvements on text classification datasets.", [[pdf](http://openreview.net/pdf?id=rJsiFTYex)]
+* [Pointer Sentinel Mixture Models](http://openreview.net/forum?id=Byj72udxe), Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher, "Pointer sentinel mixture models provide a method to combine a traditional vocabulary softmax with a pointer network, providing state of the art results in language modeling on PTB and the newly introduced WikiText with few extra parameters.", [[pdf](http://openreview.net/pdf?id=Byj72udxe)]
 * [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](http://openreview.net/forum?id=SJZAb5cel), Kazuma Hashimoto, Caiming Xiong, Yoshimasa Tsuruoka, Richard Socher, "A single deep multi-task learning model for five different NLP tasks.", [[pdf](http://openreview.net/pdf?id=SJZAb5cel)]
+* [Quasi-Recurrent Neural Networks](http://openreview.net/forum?id=H1zJ-v5xl), James Bradbury, Stephen Merity, Caiming Xiong, Richard Socher, "QRNNs, composed of convolutions and a recurrent pooling function, outperform LSTMs on a variety of sequence tasks and are up to 16 times faster.", [[pdf](http://openreview.net/pdf?id=H1zJ-v5xl)]
+* [Dynamic Coattention Networks For Question Answering](http://openreview.net/forum?id=rJeKjwvclx), Caiming Xiong, Victor Zhong, Richard Socher, "An end-to-end dynamic neural network model for question answering that achieves the state of the art and best leaderboard performance on the Stanford QA dataset.", [[pdf](http://openreview.net/pdf?id=rJeKjwvclx)]
 
 #### Carl Denton
 * [Structured Attention Networks](http://openreview.net/forum?id=HkE0Nvqlg), Yoon Kim, Carl Denton, Luong Hoang, Alexander M. Rush, "Use a graphical model as a hidden layer to perform attention over latent structures", [[pdf](http://openreview.net/pdf?id=HkE0Nvqlg)]
@@ -689,8 +689,8 @@
 * [HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](http://openreview.net/forum?id=ryuxYmvel), Cezary Kaliszyk, François Chollet, Christian Szegedy, "", [[pdf](http://openreview.net/pdf?id=ryuxYmvel)]
 
 #### Chang Liu
-* [Neural Code Completion](http://openreview.net/forum?id=rJbPBt9lg), Xin Wang, Chang Liu, Richard Shin, Joseph E. Gonzalez, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=rJbPBt9lg)]
 * [Delving into Transferable Adversarial Examples and Black-box Attacks](http://openreview.net/forum?id=Sys6GJqxl), Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=Sys6GJqxl)]
+* [Neural Code Completion](http://openreview.net/forum?id=rJbPBt9lg), Xin Wang, Chang Liu, Richard Shin, Joseph E. Gonzalez, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=rJbPBt9lg)]
 
 #### Chang Wen Chen
 * [Modularized Morphing of Neural Networks](http://openreview.net/forum?id=BJRIA3Fgg), Tao Wei, Changhu Wang, Chang Wen Chen, "", [[pdf](http://openreview.net/pdf?id=BJRIA3Fgg)]
@@ -708,8 +708,8 @@
 * [Leveraging Asynchronicity in Gradient Descent for Scalable Deep Learning](http://openreview.net/forum?id=rkFd2P5gl), Jeff Daily, Abhinav Vishnu, Charles Siegel, "Overlapping communication and computation for distributed gradient descent.", [[pdf](http://openreview.net/pdf?id=rkFd2P5gl)]
 
 #### Charles Sutton
-* [Neural Variational Inference For Topic Models](http://openreview.net/forum?id=BybtVK9lg), Akash Srivastava, Charles Sutton, "We got neural variational inference to work for latent Dirichlet  allocation using one weird trick. The new inference method then made it  easy to make a new topic model that works even better than LDA.", [[pdf](http://openreview.net/pdf?id=BybtVK9lg)]
 * [Learning Continuous Semantic Representations of Symbolic Expressions](http://openreview.net/forum?id=B1vRTeqxg), Miltiadis Allamanis, Pankajan Chanthirasegaran, Pushmeet Kohli, Charles Sutton, "Assign continuous vectors to logical and algebraic symbolic expressions in such a way that semantically equivalent, but syntactically diverse expressions are assigned to identical (or highly similar) continuous vectors.", [[pdf](http://openreview.net/pdf?id=B1vRTeqxg)]
+* [Neural Variational Inference For Topic Models](http://openreview.net/forum?id=BybtVK9lg), Akash Srivastava, Charles Sutton, "We got neural variational inference to work for latent Dirichlet  allocation using one weird trick. The new inference method then made it  easy to make a new topic model that works even better than LDA.", [[pdf](http://openreview.net/pdf?id=BybtVK9lg)]
 
 #### Charless C. Fowlkes
 * [Energy-Based Spherical Sparse Coding](http://openreview.net/forum?id=HkNEuToge), Bailey Kong, Charless C. Fowlkes, "", [[pdf](http://openreview.net/pdf?id=HkNEuToge)]
@@ -748,9 +748,9 @@
 * [Generative Adversarial Parallelization](http://openreview.net/forum?id=Sk8J83oee), Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim, Graham Taylor, "Creating Synergy with Multiple Generative Adversarial Networks", [[pdf](http://openreview.net/pdf?id=Sk8J83oee)]
 
 #### Chris Dyer
-* [Learning to Compose Words into Sentences with Reinforcement Learning](http://openreview.net/forum?id=Skvgqgqxe), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling, "", [[pdf](http://openreview.net/pdf?id=Skvgqgqxe)]
 * [Reference-Aware Language Models](http://openreview.net/forum?id=ByG8A7cee), Zichao Yang, Phil Blunsom, Chris Dyer, Wang Ling, "reference-aware language models", [[pdf](http://openreview.net/pdf?id=ByG8A7cee)]
 * [The Neural Noisy Channel](http://openreview.net/forum?id=SJ25-B5eg), Lei Yu, Phil Blunsom, Chris Dyer, Edward Grefenstette, Tomas Kocisky, "We formulate sequence to sequence transduction as a noisy channel decoding  problem and use recurrent neural networks to parameterise the source and channel  models.", [[pdf](http://openreview.net/pdf?id=SJ25-B5eg)]
+* [Learning to Compose Words into Sentences with Reinforcement Learning](http://openreview.net/forum?id=Skvgqgqxe), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling, "", [[pdf](http://openreview.net/pdf?id=Skvgqgqxe)]
 
 #### Chris J. Maddison
 * [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](http://openreview.net/forum?id=S1jE5L5gl), Chris J. Maddison, Andriy Mnih, Yee Whye Teh, "Relaxed reparameterization trick for discrete stochastic units.", [[pdf](http://openreview.net/pdf?id=S1jE5L5gl)]
@@ -786,8 +786,8 @@
 * [Conditional Image Synthesis With Auxiliary Classifier GANs](http://openreview.net/forum?id=rJXTf9Bxg), Augustus Odena, Christopher Olah, Jonathon Shlens, "We introduce a special GAN architecture that results in high quality 128x128 ImageNet samples; we introduce 2 new quantitative metrics of sample quality.", [[pdf](http://openreview.net/pdf?id=rJXTf9Bxg)]
 
 #### Christopher Pal
-* [Semi-Supervised Detection of Extreme Weather Events in Large Climate Datasets](http://openreview.net/forum?id=SJ_QCYqle), Evan Racah, Christopher Beckham, Tegan Maharaj, Prabhat, Christopher Pal, "Semi-supervised 3D CNN's improve bounding box detection of weather events in climate simulations compared to supervised approaches.", [[pdf](http://openreview.net/pdf?id=SJ_QCYqle)]
 * [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
+* [Semi-Supervised Detection of Extreme Weather Events in Large Climate Datasets](http://openreview.net/forum?id=SJ_QCYqle), Evan Racah, Christopher Beckham, Tegan Maharaj, Prabhat, Christopher Pal, "Semi-supervised 3D CNN's improve bounding box detection of weather events in climate simulations compared to supervised approaches.", [[pdf](http://openreview.net/pdf?id=SJ_QCYqle)]
 
 #### Christopher Tensmeyer
 * [Improving Invariance and Equivariance Properties of Convolutional Neural Networks](http://openreview.net/forum?id=Syfkm6cgx), Christopher Tensmeyer, Tony Martinez, "Data augmentation shapes internal network representation and makes predictions robust to input transformations.", [[pdf](http://openreview.net/pdf?id=Syfkm6cgx)]
@@ -814,8 +814,8 @@
 * [Beyond Fine Tuning: A Modular Approach to Learning on Small Data](http://openreview.net/forum?id=ryZqPN5xe), Aryk Anderson, Kyle Shaffer, Artem Yankov, Court Corley, Nathan Hodas, "A better way to do deep learning with small amounts of training data", [[pdf](http://openreview.net/pdf?id=ryZqPN5xe)]
 
 #### César Laurent
-* [Recurrent Batch Normalization](http://openreview.net/forum?id=r1VdcHcxx), Tim Cooijmans, Nicolas Ballas, César Laurent, Çağlar Gülçehre, Aaron Courville, "Make batch normalization work in recurrent neural networks", [[pdf](http://openreview.net/pdf?id=r1VdcHcxx)]
 * [Recurrent Normalization Propagation](http://openreview.net/forum?id=r1GKzP5xx), César Laurent, Nicolas Ballas, Pascal Vincent, "Extension of Normalization Propagation to the LSTM.", [[pdf](http://openreview.net/pdf?id=r1GKzP5xx)]
+* [Recurrent Batch Normalization](http://openreview.net/forum?id=r1VdcHcxx), Tim Cooijmans, Nicolas Ballas, César Laurent, Çağlar Gülçehre, Aaron Courville, "Make batch normalization work in recurrent neural networks", [[pdf](http://openreview.net/pdf?id=r1VdcHcxx)]
 
 ### D
 
@@ -826,8 +826,8 @@
 * [Recurrent Environment Simulators](http://openreview.net/forum?id=B1s6xvqlx), Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed, "", [[pdf](http://openreview.net/pdf?id=B1s6xvqlx)]
 
 #### Dae-Ki Kang
-* [(F)SPCD: Fast Regularization of PCD by Optimizing Stochastic ML Approximation under Gaussian Noise](http://openreview.net/forum?id=S1rqh3Yge), Prima Sanjaya, Dae-Ki Kang, "We propose a sparse persistent contrastive divergence (SPCD) and further fast SPCD (FSPCD) in restricted Boltzmann machine (RBM) training for regularizing deep belief networks (DBN).", [[pdf](http://openreview.net/pdf?id=S1rqh3Yge)]
 * [Crossmap Dropout : A Generalization of Dropout Regularization in Convolution Level](http://openreview.net/forum?id=H1y35ntex), Alvin Poernomo, Dae-Ki Kang, "We introduce a novel generalization of Dropout regularization in convolution level.", [[pdf](http://openreview.net/pdf?id=H1y35ntex)]
+* [(F)SPCD: Fast Regularization of PCD by Optimizing Stochastic ML Approximation under Gaussian Noise](http://openreview.net/forum?id=S1rqh3Yge), Prima Sanjaya, Dae-Ki Kang, "We propose a sparse persistent contrastive divergence (SPCD) and further fast SPCD (FSPCD) in restricted Boltzmann machine (RBM) training for regularizing deep belief networks (DBN).", [[pdf](http://openreview.net/pdf?id=S1rqh3Yge)]
 
 #### Dahua Lin
 * [Collaborative Deep Embedding via Dual Networks](http://openreview.net/forum?id=r1w7Jdqxl), Yilei Xiong, Dahua Lin, Haoying Niu, JIefeng Cheng, Zhenguo Li, "", [[pdf](http://openreview.net/pdf?id=r1w7Jdqxl)]
@@ -839,9 +839,9 @@
 * [Improving Policy Gradient by Exploring Under-appreciated Rewards](http://openreview.net/forum?id=ryT4pvqll), Ofir Nachum, Mohammad Norouzi, Dale Schuurmans, "We present a novel form of policy gradient for model-free reinforcement learning with improved exploration properties.", [[pdf](http://openreview.net/pdf?id=ryT4pvqll)]
 
 #### Dan Hendrycks
+* [Adjusting for Dropout Variance in Batch Normalization and Weight Initialization](http://openreview.net/forum?id=r1BJLw9ex), Dan Hendrycks, Kevin Gimpel, "Batch Norm Incorrectly Estimates Variance When Dropout Is On", [[pdf](http://openreview.net/pdf?id=r1BJLw9ex)]
 * [Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units](http://openreview.net/forum?id=Bk0MRI5lg), Dan Hendrycks, Kevin Gimpel, "A Competitor of ReLUs and ELUs with a Probabilistic Underpinning", [[pdf](http://openreview.net/pdf?id=Bk0MRI5lg)]
 * [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](http://openreview.net/forum?id=Hkg4TI9xl), Dan Hendrycks, Kevin Gimpel, "Methods to Detect When a Network Is Wrong", [[pdf](http://openreview.net/pdf?id=Hkg4TI9xl)]
-* [Adjusting for Dropout Variance in Batch Normalization and Weight Initialization](http://openreview.net/forum?id=r1BJLw9ex), Dan Hendrycks, Kevin Gimpel, "Batch Norm Incorrectly Estimates Variance When Dropout Is On", [[pdf](http://openreview.net/pdf?id=r1BJLw9ex)]
 
 #### Dan Jurafsky
 * [Data Noising as Smoothing in Neural Network Language Models](http://openreview.net/forum?id=H1VyHY9gg), Ziang Xie, Sida I. Wang, Jiwei Li, Daniel Lévy, Aiming Nie, Dan Jurafsky, Andrew Y. Ng, "Derive data noising schemes for neural network language models corresponding to techniques in n-gram smoothing.", [[pdf](http://openreview.net/pdf?id=H1VyHY9gg)]
@@ -862,16 +862,16 @@
 * [Learning Graphical State Transitions](http://openreview.net/forum?id=HJ0NvFzxl), Daniel D. Johnson, "I introduce a set of differentiable graph transformations, and use them to build a model with a graphical internal state that can extract structured data from text and use it to answer queries.", [[pdf](http://openreview.net/pdf?id=HJ0NvFzxl)]
 
 #### Daniel Jiwoong Im
-* [An Empirical Analysis of Deep Network Loss Surfaces](http://openreview.net/forum?id=rkuDV6iex), Daniel Jiwoong Im, Michael Tao, Kristin Branson, "Analyzing the loss surface of deep neural network trained with different optimization methods", [[pdf](http://openreview.net/pdf?id=rkuDV6iex)]
 * [Generative Adversarial Parallelization](http://openreview.net/forum?id=Sk8J83oee), Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim, Graham Taylor, "Creating Synergy with Multiple Generative Adversarial Networks", [[pdf](http://openreview.net/pdf?id=Sk8J83oee)]
+* [An Empirical Analysis of Deep Network Loss Surfaces](http://openreview.net/forum?id=rkuDV6iex), Daniel Jiwoong Im, Michael Tao, Kristin Branson, "Analyzing the loss surface of deep neural network trained with different optimization methods", [[pdf](http://openreview.net/pdf?id=rkuDV6iex)]
 
 #### Daniel Lévy
 * [Data Noising as Smoothing in Neural Network Language Models](http://openreview.net/forum?id=H1VyHY9gg), Ziang Xie, Sida I. Wang, Jiwei Li, Daniel Lévy, Aiming Nie, Dan Jurafsky, Andrew Y. Ng, "Derive data noising schemes for neural network language models corresponding to techniques in n-gram smoothing.", [[pdf](http://openreview.net/pdf?id=H1VyHY9gg)]
 
 #### Daniel Tarlow
-* [Batch Policy Gradient  Methods for  Improving Neural Conversation Models](http://openreview.net/forum?id=rJfMusFll), Kirthevasan Kandasamy, Yoram Bachrach, Ryota Tomioka, Daniel Tarlow, David Carter, "", [[pdf](http://openreview.net/pdf?id=rJfMusFll)]
 * [DeepCoder: Learning to Write Programs](http://openreview.net/forum?id=ByldLrqlx), Matej Balog, Alexander L. Gaunt, Marc Brockschmidt, Sebastian Nowozin, Daniel Tarlow, "", [[pdf](http://openreview.net/pdf?id=ByldLrqlx)]
 * [Neural Program Lattices](http://openreview.net/forum?id=HJjiFK5gx), Chengtao Li, Daniel Tarlow, Alex Gaunt, Marc Brockschmidt, Nate Kushman, "", [[pdf](http://openreview.net/pdf?id=HJjiFK5gx)]
+* [Batch Policy Gradient  Methods for  Improving Neural Conversation Models](http://openreview.net/forum?id=rJfMusFll), Kirthevasan Kandasamy, Yoram Bachrach, Ryota Tomioka, Daniel Tarlow, David Carter, "", [[pdf](http://openreview.net/pdf?id=rJfMusFll)]
 * [Neural Functional Programming](http://openreview.net/forum?id=HkpLeH9el), John K. Feser, Marc Brockschmidt, Alexander L. Gaunt, Daniel Tarlow, "A differentiable functional programming language for learning programs from input-output examples.", [[pdf](http://openreview.net/pdf?id=HkpLeH9el)]
 * [Lifelong Perceptual Programming By Example](http://openreview.net/forum?id=HJStZKqel), Alexander L. Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow, "Combination of differentiable interpreters and neural networks for lifelong learning of a model composed of neural and source code functions", [[pdf](http://openreview.net/pdf?id=HJStZKqel)]
 
@@ -906,9 +906,9 @@
 * [Learning to Protect Communications with Adversarial Neural Cryptography](http://openreview.net/forum?id=S1HEBe_Jl), Martín Abadi, David G. Andersen, "Adversarial training of neural networks to learn rudimentary forms of encryption with no pre-specified algorithms", [[pdf](http://openreview.net/pdf?id=S1HEBe_Jl)]
 
 #### David Grangier
+* [A Convolutional Encoder Model for Neural Machine Translation](http://openreview.net/forum?id=BJAA4wKxg), Jonas Gehring, Michael Auli, David Grangier, Yann N. Dauphin, "Investigate encoder models for translation and demonstrate that convolutions can outperform LSTMs as encoders.", [[pdf](http://openreview.net/pdf?id=BJAA4wKxg)]
 * [Efficient Softmax Approximation for GPUs](http://openreview.net/forum?id=rkmDI85ge), Édouard Grave, Armand Joulin, Moustapha Cissé, David Grangier, Hervé Jégou, "", [[pdf](http://openreview.net/pdf?id=rkmDI85ge)]
 * [Iterative Refinement for Machine Translation](http://openreview.net/forum?id=r1y1aawlg), Roman Novak, Michael Auli, David Grangier, "We propose of novel decoding strategy for MT, after producing a full sentence the model can revisit its choice and substitute words; multiple words can iteratively be edited.", [[pdf](http://openreview.net/pdf?id=r1y1aawlg)]
-* [A Convolutional Encoder Model for Neural Machine Translation](http://openreview.net/forum?id=BJAA4wKxg), Jonas Gehring, Michael Auli, David Grangier, Yann N. Dauphin, "Investigate encoder models for translation and demonstrate that convolutions can outperform LSTMs as encoders.", [[pdf](http://openreview.net/pdf?id=BJAA4wKxg)]
 * [Vocabulary Selection Strategies for Neural Machine Translation](http://openreview.net/forum?id=Bk8N0RLxx), Gurvan L'Hostis, David Grangier, Michael Auli, "Neural machine translation can reach same accuracy with a 10x speedup by pruning the vocabulary prior to decoding.", [[pdf](http://openreview.net/pdf?id=Bk8N0RLxx)]
 
 #### David H. P. Turban
@@ -942,15 +942,15 @@
 * [The Predictron: End-To-End Learning and Planning](http://openreview.net/forum?id=BkJsCIcgl), David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, Thomas Degris, "", [[pdf](http://openreview.net/pdf?id=BkJsCIcgl)]
 
 #### David Silver
-* [The Predictron: End-To-End Learning and Planning](http://openreview.net/forum?id=BkJsCIcgl), David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, Thomas Degris, "", [[pdf](http://openreview.net/pdf?id=BkJsCIcgl)]
 * [Reinforcement Learning with Unsupervised Auxiliary Tasks](http://openreview.net/forum?id=SJ6yPD5xg), Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu, "", [[pdf](http://openreview.net/pdf?id=SJ6yPD5xg)]
+* [The Predictron: End-To-End Learning and Planning](http://openreview.net/forum?id=BkJsCIcgl), David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, Thomas Degris, "", [[pdf](http://openreview.net/pdf?id=BkJsCIcgl)]
 
 #### David Sontag
 * [Recurrent Neural Networks for Multivariate Time Series with Missing Values](http://openreview.net/forum?id=BJC8LF9ex), Zhengping Che, Sanjay Purushotham, Kyunghyun Cho, David Sontag, Yan Liu, "", [[pdf](http://openreview.net/pdf?id=BJC8LF9ex)]
 
 #### David Sussillo
-* [Intelligible Language Modeling with Input Switched Affine Networks](http://openreview.net/forum?id=H1MjAnqxg), Jakob Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-dickstein, David Sussillo, "Input Switched Affine Networks combine intelligibility with performance for character level language modeling. ", [[pdf](http://openreview.net/pdf?id=H1MjAnqxg)]
 * [Capacity and Learnability in Recurrent Neural Networks](http://openreview.net/forum?id=BydARw9ex), Jasmine Collins, Jascha Sohl-Dickstein, David Sussillo, "", [[pdf](http://openreview.net/pdf?id=BydARw9ex)]
+* [Intelligible Language Modeling with Input Switched Affine Networks](http://openreview.net/forum?id=H1MjAnqxg), Jakob Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-dickstein, David Sussillo, "Input Switched Affine Networks combine intelligibility with performance for character level language modeling. ", [[pdf](http://openreview.net/pdf?id=H1MjAnqxg)]
 
 #### David Vazquez
 * [PixelVAE: A Latent Variable Model for Natural Images](http://openreview.net/forum?id=BJKYvt5lg), Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville, "VAE with an autoregressive PixelCNN-based decoder with strong performance on binarized MNIST, ImageNet 64x64, and LSUN bedrooms.", [[pdf](http://openreview.net/pdf?id=BJKYvt5lg)]
@@ -971,11 +971,11 @@
 * [DeepRebirth: A General Approach for Accelerating Deep Neural Network Execution on Mobile Devices](http://openreview.net/forum?id=SkwSJ99ex), Dawei Li, Xiaolong Wang, Deguang Kong, Mooi Choo Chuah, "", [[pdf](http://openreview.net/pdf?id=SkwSJ99ex)]
 
 #### Dawn Song
+* [Making Neural Programming Architectures Generalize via Recursion](http://openreview.net/forum?id=BkbY4psgg), Jonathon Cai, Richard Shin, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=BkbY4psgg)]
+* [Delving into Transferable Adversarial Examples and Black-box Attacks](http://openreview.net/forum?id=Sys6GJqxl), Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=Sys6GJqxl)]
 * [Adversarial examples for generative models](http://openreview.net/forum?id=SJk01vogl), Jernej Kos, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=SJk01vogl)]
 * [Exploring the Application of Deep Learning for Supervised Learning Problems](http://openreview.net/forum?id=Byx5BTilg), Jose Rozanec, Gilad Katz, Eui Chul Richard Shin, Dawn Song, "We explore the multiple DNN architectures on a large set of general supervised datasets. We also propose a meta-learning approach for DNN performance prediciton and ranking", [[pdf](http://openreview.net/pdf?id=Byx5BTilg)]
 * [Neural Code Completion](http://openreview.net/forum?id=rJbPBt9lg), Xin Wang, Chang Liu, Richard Shin, Joseph E. Gonzalez, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=rJbPBt9lg)]
-* [Delving into Transferable Adversarial Examples and Black-box Attacks](http://openreview.net/forum?id=Sys6GJqxl), Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=Sys6GJqxl)]
-* [Making Neural Programming Architectures Generalize via Recursion](http://openreview.net/forum?id=BkbY4psgg), Jonathon Cai, Richard Shin, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=BkbY4psgg)]
 
 #### DeLesley Hutchins
 * [Deep Learning with Dynamic Computation Graphs](http://openreview.net/forum?id=ryrGawqex), Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, Peter Norvig, "We make batching effective and easy to use for neural nets where every input may have a different shape (e.g. TreeRNNs).", [[pdf](http://openreview.net/pdf?id=ryrGawqex)]
@@ -1013,8 +1013,8 @@
 * [Hierarchical compositional feature learning](http://openreview.net/forum?id=HJeqWztlg), Miguel Lazaro-Gredilla, Yi Liu, D. Scott Phoenix, Dileep George, "We show that max-product message passing with an appropriate schedule can be used to perform inference and learning in a directed multilayer generative model, thus recovering interpretable features from binary images.", [[pdf](http://openreview.net/pdf?id=HJeqWztlg)]
 
 #### Dilin Wang
-* [Two Methods for Wild Variational Inference](http://openreview.net/forum?id=Sy4tzwqxe), Yihao Feng, Dilin Wang, Qiang Liu, "", [[pdf](http://openreview.net/pdf?id=Sy4tzwqxe)]
 * [Learning to Draw Samples: With Application to Amortized MLE for Generative Adversarial Learning](http://openreview.net/forum?id=H1oRQDqlg), Dilin Wang, Qiang Liu, "", [[pdf](http://openreview.net/pdf?id=H1oRQDqlg)]
+* [Two Methods for Wild Variational Inference](http://openreview.net/forum?id=Sy4tzwqxe), Yihao Feng, Dilin Wang, Qiang Liu, "", [[pdf](http://openreview.net/pdf?id=Sy4tzwqxe)]
 
 #### Dimitrios C. Gklezakos
 * [Transformational Sparse Coding](http://openreview.net/forum?id=rky3QW9le), Dimitrios C. Gklezakos, Rajesh P. N. Rao, "We extend sparse coding to include general affine transformations. We present a novel technical approach to circumvent inference intractability.", [[pdf](http://openreview.net/pdf?id=rky3QW9le)]
@@ -1071,8 +1071,8 @@
 * [Online Bayesian Transfer Learning for Sequential Data Modeling](http://openreview.net/forum?id=ByqiJIqxg), Priyank Jaini, Zhitang Chen, Pablo Carbajal, Edith Law, Laura Middleton, Kayla Regan, Mike Schaekermann, James Tung, Pascal Poupart, "", [[pdf](http://openreview.net/pdf?id=ByqiJIqxg)]
 
 #### Edouard Grave
-* [Variable Computation in Recurrent Neural Networks](http://openreview.net/forum?id=S1LVSrcge), Yacine Jernite, Edouard Grave, Armand Joulin, Tomas Mikolov, "We show that an RNN can learn to control the amount of computation it does at each time step, leading to better efficiency and performance as well as discovering time patterns of interest.", [[pdf](http://openreview.net/pdf?id=S1LVSrcge)]
 * [Improving Neural Language Models with a Continuous Cache](http://openreview.net/forum?id=B184E5qee), Edouard Grave, Armand Joulin, Nicolas Usunier, "", [[pdf](http://openreview.net/pdf?id=B184E5qee)]
+* [Variable Computation in Recurrent Neural Networks](http://openreview.net/forum?id=S1LVSrcge), Yacine Jernite, Edouard Grave, Armand Joulin, Tomas Mikolov, "We show that an RNN can learn to control the amount of computation it does at each time step, leading to better efficiency and performance as well as discovering time patterns of interest.", [[pdf](http://openreview.net/pdf?id=S1LVSrcge)]
 * [FastText.zip: Compressing text classification models](http://openreview.net/forum?id=SJc1hL5ee), Armand Joulin, Edouard Grave, Piotr Bojanowski, Matthijs Douze, Herve Jegou, Tomas Mikolov, "Compressing text classification models", [[pdf](http://openreview.net/pdf?id=SJc1hL5ee)]
 
 #### Edouard Oyallon
@@ -1087,8 +1087,8 @@
 * [GRAM: Graph-based Attention Model for Healthcare Representation Learning](http://openreview.net/forum?id=SkgewU5ll), Edward Choi, Mohammad Taha Bahadori, Le Song, Walter F. Stewart, Jimeng Sun, "We propose a novel attention mechanism on graphs to learn representations for medical concepts from both data and medical ontologies to cope with insufficient data volume.", [[pdf](http://openreview.net/pdf?id=SkgewU5ll)]
 
 #### Edward Grefenstette
-* [Learning to Compose Words into Sentences with Reinforcement Learning](http://openreview.net/forum?id=Skvgqgqxe), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling, "", [[pdf](http://openreview.net/pdf?id=Skvgqgqxe)]
 * [The Neural Noisy Channel](http://openreview.net/forum?id=SJ25-B5eg), Lei Yu, Phil Blunsom, Chris Dyer, Edward Grefenstette, Tomas Kocisky, "We formulate sequence to sequence transduction as a noisy channel decoding  problem and use recurrent neural networks to parameterise the source and channel  models.", [[pdf](http://openreview.net/pdf?id=SJ25-B5eg)]
+* [Learning to Compose Words into Sentences with Reinforcement Learning](http://openreview.net/forum?id=Skvgqgqxe), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling, "", [[pdf](http://openreview.net/pdf?id=Skvgqgqxe)]
 
 #### Edward Meeds
 * [Soft Weight-Sharing for Neural Network Compression](http://openreview.net/forum?id=HJGwcKclx), Karen Ullrich, Edward Meeds, Max Welling, "We use soft weight-sharing to compress neural network weights.", [[pdf](http://openreview.net/pdf?id=HJGwcKclx)]
@@ -1162,8 +1162,8 @@
 * [On orthogonality and learning recurrent networks with long term dependencies](http://openreview.net/forum?id=HkuVu3ige), Eugene Vorontsov, Chiheb Trabelsi, Samuel Kadoury, Chris Pal, "While orthogonal matrices improve neural network stability during training, deviating from orthogonality may improve model convergence speed and performance.", [[pdf](http://openreview.net/pdf?id=HkuVu3ige)]
 
 #### Eugenio Culurciello
-* [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](http://openreview.net/forum?id=HJy_5Mcll), Adam Paszke, Abhishek Chaurasia, Sangpil Kim, Eugenio Culurciello, "", [[pdf](http://openreview.net/pdf?id=HJy_5Mcll)]
 * [An Analysis of Deep Neural Network Models for Practical Applications](http://openreview.net/forum?id=Bygq-H9eg), Alfredo Canziani, Adam Paszke, Eugenio Culurciello, "Analysis of ImageNet winning architectures in terms of accuracy, memory footprint, parameters, operations count, inference time and power consumption.", [[pdf](http://openreview.net/pdf?id=Bygq-H9eg)]
+* [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](http://openreview.net/forum?id=HJy_5Mcll), Adam Paszke, Abhishek Chaurasia, Sangpil Kim, Eugenio Culurciello, "", [[pdf](http://openreview.net/pdf?id=HJy_5Mcll)]
 
 #### Eui Chul Richard Shin
 * [Exploring the Application of Deep Learning for Supervised Learning Problems](http://openreview.net/forum?id=Byx5BTilg), Jose Rozanec, Gilad Katz, Eui Chul Richard Shin, Dawn Song, "We explore the multiple DNN architectures on a large set of general supervised datasets. We also propose a meta-learning approach for DNN performance prediciton and ranking", [[pdf](http://openreview.net/pdf?id=Byx5BTilg)]
@@ -1296,8 +1296,8 @@
 * [Regularizing Neural Networks by Penalizing Confident Output Distributions](http://openreview.net/forum?id=HkCjNI5ex), Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, Geoffrey Hinton, "We show that penalizing low entropy output distributions, which has been shown to improve exploration in reinforcement learning, acts as a strong regularizer in supervised learning.", [[pdf](http://openreview.net/pdf?id=HkCjNI5ex)]
 
 #### Gabriel Synnaeve
-* [Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement](http://openreview.net/forum?id=r1LXit5ee), Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, Soumith Chintala, "We propose a new reinforcement learning algorithm based on zero order optimization, that we evaluate on StarCraft micromanagement scenarios.", [[pdf](http://openreview.net/pdf?id=r1LXit5ee)]
 * [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System](http://openreview.net/forum?id=BkUDvt5gg), Ronan Collobert, Christian Puhrsch, Gabriel Synnaeve, "We propose convnet models and new sequence criterions for training end-to-end letter-based speech systems.", [[pdf](http://openreview.net/pdf?id=BkUDvt5gg)]
+* [Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement](http://openreview.net/forum?id=r1LXit5ee), Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, Soumith Chintala, "We propose a new reinforcement learning algorithm based on zero order optimization, that we evaluate on StarCraft micromanagement scenarios.", [[pdf](http://openreview.net/pdf?id=r1LXit5ee)]
 
 #### Gael Varoquaux
 * [Learning to Discover Sparse Graphical Models](http://openreview.net/forum?id=HJOZBvcel), Eugene Belilovsky, Kyle Kastner, Gael Varoquaux, Matthew B. Blaschko, "Sparse graphical model structure estimators make restrictive assumptions.  We show that empirical risk minimization can yield SOTA estimators for edge prediction across a wide range of graph structure distributions.  ", [[pdf](http://openreview.net/pdf?id=HJOZBvcel)]
@@ -1511,8 +1511,8 @@
 * [FastText.zip: Compressing text classification models](http://openreview.net/forum?id=SJc1hL5ee), Armand Joulin, Edouard Grave, Piotr Bojanowski, Matthijs Douze, Herve Jegou, Tomas Mikolov, "Compressing text classification models", [[pdf](http://openreview.net/pdf?id=SJc1hL5ee)]
 
 #### Hervé Glotin
-* [BIOACOUSTIC SOUND SCENE REPRESENTATION BY HIERARCHICAL DIRICHLET PROCESS FOR HIDDEN MARKOV MODEL](http://openreview.net/forum?id=Hk1l9Xqxe), Vincent Roger, Marius Bartcus, Faicel Chamroukhi, Hervé Glotin, "", [[pdf](http://openreview.net/pdf?id=Hk1l9Xqxe)]
 * [Cortical-Inspired Open-Bigram Representation for Handwritten Word Recognition](http://openreview.net/forum?id=BkXMikqxx), Théodore Bluche, Christopher Kermorvant, Claude Touzet, Hervé Glotin, "We propose an handwritten word recognition method based on an open-bigram representation of words, inspired from the research in cognitive psychology", [[pdf](http://openreview.net/pdf?id=BkXMikqxx)]
+* [BIOACOUSTIC SOUND SCENE REPRESENTATION BY HIERARCHICAL DIRICHLET PROCESS FOR HIDDEN MARKOV MODEL](http://openreview.net/forum?id=Hk1l9Xqxe), Vincent Roger, Marius Bartcus, Faicel Chamroukhi, Hervé Glotin, "", [[pdf](http://openreview.net/pdf?id=Hk1l9Xqxe)]
 
 #### Hervé Jégou
 * [Efficient Softmax Approximation for GPUs](http://openreview.net/forum?id=rkmDI85ge), Édouard Grave, Armand Joulin, Moustapha Cissé, David Grangier, Hervé Jégou, "", [[pdf](http://openreview.net/pdf?id=rkmDI85ge)]
@@ -1539,11 +1539,11 @@
 * [Reasoning with Memory Augmented Neural Networks for Language Comprehension](http://openreview.net/forum?id=Hk8TGSKlg), Tsendsuren Munkhdalai, Hong Yu, "", [[pdf](http://openreview.net/pdf?id=Hk8TGSKlg)]
 
 #### Honglak Lee
-* [Sentence Ordering using Recurrent Neural Networks](http://openreview.net/forum?id=S1AG8zYeg), Lajanugen Logeswaran, Honglak Lee, Dragomir Radev, "We consider the problem of organizing a given collection of sentences into a coherent order.", [[pdf](http://openreview.net/pdf?id=S1AG8zYeg)]
-* [Towards Understanding the Invertibility of Convolutional Neural Networks](http://openreview.net/forum?id=B1mAJI9gl), Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee, "", [[pdf](http://openreview.net/pdf?id=B1mAJI9gl)]
-* [Communicating Hierarchical Neural Controllers for Learning Zero-shot Task Generalization](http://openreview.net/forum?id=SJttqw5ge), Junhyuk Oh, Satinder Singh, Honglak Lee, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=SJttqw5ge)]
 * [Decomposing Motion and Content for Natural Video Sequence Prediction](http://openreview.net/forum?id=rkEFLFqee), Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin, Honglak Lee, "", [[pdf](http://openreview.net/pdf?id=rkEFLFqee)]
 * [Deep Variational Canonical Correlation Analysis](http://openreview.net/forum?id=H1Heentlx), Weiran Wang, Xinchen Yan, Honglak Lee, Karen Livescu, "A deep generative model for multi-view representation learning", [[pdf](http://openreview.net/pdf?id=H1Heentlx)]
+* [Communicating Hierarchical Neural Controllers for Learning Zero-shot Task Generalization](http://openreview.net/forum?id=SJttqw5ge), Junhyuk Oh, Satinder Singh, Honglak Lee, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=SJttqw5ge)]
+* [Towards Understanding the Invertibility of Convolutional Neural Networks](http://openreview.net/forum?id=B1mAJI9gl), Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee, "", [[pdf](http://openreview.net/pdf?id=B1mAJI9gl)]
+* [Sentence Ordering using Recurrent Neural Networks](http://openreview.net/forum?id=S1AG8zYeg), Lajanugen Logeswaran, Honglak Lee, Dragomir Radev, "We consider the problem of organizing a given collection of sentences into a coherent order.", [[pdf](http://openreview.net/pdf?id=S1AG8zYeg)]
 
 #### Hossein Azizpour
 * [The Preimage of Rectifier Network Activities](http://openreview.net/forum?id=HJcLcw9xg), Stefan Carlsson, Hossein Azizpour, Ali Razavian, "", [[pdf](http://openreview.net/pdf?id=HJcLcw9xg)]
@@ -1567,9 +1567,9 @@
 * [Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders](http://openreview.net/forum?id=SJx7Jrtgl), Nat Dilokthanakul, Pedro A. M. Mediano, Marta Garnelo, Matthew C.H. Lee, Hugh Salimbeni, Kai Arulkumaran, Murray Shanahan, "We study a variant of the variational autoencoder model with a Gaussian mixture as prior distribution and information-theoretic regularisation, and discuss its capabilities for unsupervised clustering.", [[pdf](http://openreview.net/pdf?id=SJx7Jrtgl)]
 
 #### Hugo Larochelle
-* [Hierarchical Memory Networks](http://openreview.net/forum?id=BJ0Ee8cxx), Sarath Chandar, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, Yoshua Bengio, "We propose a hierarchical memory organization strategy for efficient memory access in memory networks with large memory.", [[pdf](http://openreview.net/pdf?id=BJ0Ee8cxx)]
-* [Optimization as a Model for Few-Shot Learning](http://openreview.net/forum?id=rJY0-Kcll), Sachin Ravi, Hugo Larochelle, "We propose an LSTM-based meta-learner model to learn the exact optimization algorithm used to train another learner neural network in the few-shot regime", [[pdf](http://openreview.net/pdf?id=rJY0-Kcll)]
 * [Recurrent Mixture Density Network for Spatiotemporal Visual Attention](http://openreview.net/forum?id=SJRpRfKxx), Loris Bazzani, Hugo Larochelle, Lorenzo Torresani, "", [[pdf](http://openreview.net/pdf?id=SJRpRfKxx)]
+* [Optimization as a Model for Few-Shot Learning](http://openreview.net/forum?id=rJY0-Kcll), Sachin Ravi, Hugo Larochelle, "We propose an LSTM-based meta-learner model to learn the exact optimization algorithm used to train another learner neural network in the few-shot regime", [[pdf](http://openreview.net/pdf?id=rJY0-Kcll)]
+* [Hierarchical Memory Networks](http://openreview.net/forum?id=BJ0Ee8cxx), Sarath Chandar, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, Yoshua Bengio, "We propose a hierarchical memory organization strategy for efficient memory access in memory networks with large memory.", [[pdf](http://openreview.net/pdf?id=BJ0Ee8cxx)]
 
 #### Hui Jiang
 * [Higher Order Recurrent Neural Networks](http://openreview.net/forum?id=ByZvfijeg), Rohollah Soltani, Hui Jiang, "we study novel neural network structures to better model long term dependency in sequential data", [[pdf](http://openreview.net/pdf?id=ByZvfijeg)]
@@ -1603,8 +1603,8 @@
 * [Adversarial Training Methods for Semi-Supervised Text Classification](http://openreview.net/forum?id=r1X3g2_xl), Takeru Miyato, Andrew M. Dai, Ian Goodfellow, "", [[pdf](http://openreview.net/pdf?id=r1X3g2_xl)]
 
 #### Ian J. Goodfellow
-* [Adversarial Machine Learning at Scale](http://openreview.net/forum?id=BJm4T4Kgx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=BJm4T4Kgx)]
 * [Adversarial examples in the physical world](http://openreview.net/forum?id=S1OufnIlx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=S1OufnIlx)]
+* [Adversarial Machine Learning at Scale](http://openreview.net/forum?id=BJm4T4Kgx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=BJm4T4Kgx)]
 
 #### Ian Reid
 * [Non-linear Dimensionality Regularizer for Solving Inverse Problems](http://openreview.net/forum?id=Sk2iistgg), Ravi Garg, Anders Eriksson, Ian Reid, "Predicting causal factors of an inverse problem which lie near unknown low-dimensional non-linear manifold defined by a mercer kernel.", [[pdf](http://openreview.net/pdf?id=Sk2iistgg)]
@@ -1617,10 +1617,10 @@
 
 #### Ilya Sutskever
 * [Third Person Imitation Learning](http://openreview.net/forum?id=B16dGcqlx), Bradly C Stadie, Pieter Abbeel, Ilya Sutskever, "No", [[pdf](http://openreview.net/pdf?id=B16dGcqlx)]
+* [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](http://openreview.net/forum?id=HkLXCE9lx), Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel, "We propose to learn a “fast” reinforcement learning algorithm using standard, off-the-shelf (“slow”) reinforcement learning algorithms, where the “fast” version is represented as an RNN, and fast RL happens inside its activations.", [[pdf](http://openreview.net/pdf?id=HkLXCE9lx)]
 * [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 * [Extensions and Limitations of the Neural GPU](http://openreview.net/forum?id=ryjp1c9xg), Eric Price, Wojciech Zaremba, Ilya Sutskever, "", [[pdf](http://openreview.net/pdf?id=ryjp1c9xg)]
 * [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
-* [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](http://openreview.net/forum?id=HkLXCE9lx), Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel, "We propose to learn a “fast” reinforcement learning algorithm using standard, off-the-shelf (“slow”) reinforcement learning algorithms, where the “fast” version is represented as an RNN, and fast RL happens inside its activations.", [[pdf](http://openreview.net/pdf?id=HkLXCE9lx)]
 
 #### Irina Higgins
 * [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](http://openreview.net/forum?id=Sy2fzU9gl), Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner, "We introduce beta-VAE, a new state-of-the-art framework for automated discovery of interpretable factorised latent representations from raw image data in a completely unsupervised manner.", [[pdf](http://openreview.net/pdf?id=Sy2fzU9gl)]
@@ -1705,8 +1705,8 @@
 * [Quasi-Recurrent Neural Networks](http://openreview.net/forum?id=H1zJ-v5xl), James Bradbury, Stephen Merity, Caiming Xiong, Richard Socher, "QRNNs, composed of convolutions and a recurrent pooling function, outperform LSTMs on a variety of sequence tasks and are up to 16 times faster.", [[pdf](http://openreview.net/pdf?id=H1zJ-v5xl)]
 
 #### James Martens
-* [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 * [Distributed Second-Order Optimization using Kronecker-Factored Approximations](http://openreview.net/forum?id=SkkTMpjex), Jimmy Ba, Roger Grosse, James Martens, "Distributed K-FAC provides 2x speed up to training the state-of-the-art ImageNet models.", [[pdf](http://openreview.net/pdf?id=SkkTMpjex)]
+* [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 
 #### James R. Glass
 * [Learning Word-Like Units from Joint Audio-Visual Analylsis](http://openreview.net/forum?id=Bkbc-Vqeg), David Harwath, James R. Glass, "", [[pdf](http://openreview.net/pdf?id=Bkbc-Vqeg)]
@@ -1724,8 +1724,8 @@
 * [A recurrent neural network without chaos](http://openreview.net/forum?id=S1dIzvclg), Thomas Laurent, James von Brecht, "", [[pdf](http://openreview.net/pdf?id=S1dIzvclg)]
 
 #### Jan Chorowski
-* [Intelligible Language Modeling with Input Switched Affine Networks](http://openreview.net/forum?id=H1MjAnqxg), Jakob Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-dickstein, David Sussillo, "Input Switched Affine Networks combine intelligibility with performance for character level language modeling. ", [[pdf](http://openreview.net/pdf?id=H1MjAnqxg)]
 * [Regularizing Neural Networks by Penalizing Confident Output Distributions](http://openreview.net/forum?id=HkCjNI5ex), Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, Geoffrey Hinton, "We show that penalizing low entropy output distributions, which has been shown to improve exploration in reinforcement learning, acts as a strong regularizer in supervised learning.", [[pdf](http://openreview.net/pdf?id=HkCjNI5ex)]
+* [Intelligible Language Modeling with Input Switched Affine Networks](http://openreview.net/forum?id=H1MjAnqxg), Jakob Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-dickstein, David Sussillo, "Input Switched Affine Networks combine intelligibility with performance for character level language modeling. ", [[pdf](http://openreview.net/pdf?id=H1MjAnqxg)]
 
 #### Jan Hendrik Metzen
 * [On Detecting Adversarial Perturbations](http://openreview.net/forum?id=SJzCSf9xg), Jan Hendrik Metzen, Tim Genewein, Volker Fischer, Bastian Bischoff, "We present and evaluate an approach for detecting adversarial perturbations in images based on attaching a small subnetwork to a deep neural network that is trained specifically to detect adversarial perturbations.", [[pdf](http://openreview.net/pdf?id=SJzCSf9xg)]
@@ -1753,10 +1753,10 @@
 * [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
 
 #### Jascha Sohl-Dickstein
-* [Unrolled Generative Adversarial Networks](http://openreview.net/forum?id=BydrOIcle), Luke Metz, Ben Poole, David Pfau, Jascha Sohl-Dickstein, "We introduce a method to stabilize Generative Adversarial Networks by defining the generator objective with respect to an unrolled optimization of the discriminator. ", [[pdf](http://openreview.net/pdf?id=BydrOIcle)]
 * [On the Expressive Power of Deep Neural Networks](http://openreview.net/forum?id=B1TTpYKgx), Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein, "Derives and explains the exponential depth sensitivity of different expressivity measures for deep neural networks, and explores consequences during and after training. ", [[pdf](http://openreview.net/pdf?id=B1TTpYKgx)]
-* [Capacity and Learnability in Recurrent Neural Networks](http://openreview.net/forum?id=BydARw9ex), Jasmine Collins, Jascha Sohl-Dickstein, David Sussillo, "", [[pdf](http://openreview.net/pdf?id=BydARw9ex)]
 * [Deep Information Propagation](http://openreview.net/forum?id=H1W1UN9gg), Samuel S. Schoenholz, Justin Gilmer, Surya Ganguli, Jascha Sohl-Dickstein, "We predict whether randomly initialized neural networks can be trained by studying whether or not information can travel through them.", [[pdf](http://openreview.net/pdf?id=H1W1UN9gg)]
+* [Unrolled Generative Adversarial Networks](http://openreview.net/forum?id=BydrOIcle), Luke Metz, Ben Poole, David Pfau, Jascha Sohl-Dickstein, "We introduce a method to stabilize Generative Adversarial Networks by defining the generator objective with respect to an unrolled optimization of the discriminator. ", [[pdf](http://openreview.net/pdf?id=BydrOIcle)]
+* [Capacity and Learnability in Recurrent Neural Networks](http://openreview.net/forum?id=BydARw9ex), Jasmine Collins, Jascha Sohl-Dickstein, David Sussillo, "", [[pdf](http://openreview.net/pdf?id=BydARw9ex)]
 * [Density estimation using Real NVP](http://openreview.net/forum?id=HkpbnH9lx), Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio, "Efficient invertible neural networks for density estimation and generation", [[pdf](http://openreview.net/pdf?id=HkpbnH9lx)]
 
 #### Jascha Sohl-dickstein
@@ -1766,8 +1766,8 @@
 * [Capacity and Learnability in Recurrent Neural Networks](http://openreview.net/forum?id=BydARw9ex), Jasmine Collins, Jascha Sohl-Dickstein, David Sussillo, "", [[pdf](http://openreview.net/pdf?id=BydARw9ex)]
 
 #### Jason Clemons
-* [Training Long Short-Term Memory With Sparsified Stochastic Gradient Descent](http://openreview.net/forum?id=HJWzXsKxx), Maohua Zhu, Minsoo Rhu, Jason Clemons, Stephen W. Keckler, Yuan Xie, "A simple yet effective technique to induce considerable amount of sparsity in LSTM training", [[pdf](http://openreview.net/pdf?id=HJWzXsKxx)]
 * [Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](http://openreview.net/forum?id=r1VGvBcxl), Mohammad Babaeizadeh, Iuri Frosio, Stephen Tyree, Jason Clemons, Jan Kautz, "Implementation and analysis of the computational aspect of a GPU version of the Asynchronous Advantage Actor-Critic (A3C) algorithm", [[pdf](http://openreview.net/pdf?id=r1VGvBcxl)]
+* [Training Long Short-Term Memory With Sparsified Stochastic Gradient Descent](http://openreview.net/forum?id=HJWzXsKxx), Maohua Zhu, Minsoo Rhu, Jason Clemons, Stephen W. Keckler, Yuan Xie, "A simple yet effective technique to induce considerable amount of sparsity in LSTM training", [[pdf](http://openreview.net/pdf?id=HJWzXsKxx)]
 
 #### Jason Mars
 * [Rethinking Numerical Representations for Deep Neural Networks](http://openreview.net/forum?id=BJ_MGwqlg), Parker Hill, Babak Zamirai, Shengshuo Lu, Yu-Wei Chao, Michael Laurenzano, Mehrzad Samadi, Marios Papaefthymiou, Scott Mahlke, Thomas Wenisch, Jia Deng, Lingjia Tang, Jason Mars, "We find that the optimal numerical representation for large-scale DNNs is very different than the small-scale ones that are used in current DNN hardware research.", [[pdf](http://openreview.net/pdf?id=BJ_MGwqlg)]
@@ -1779,10 +1779,10 @@
 * [Discrete Variational Autoencoders](http://openreview.net/forum?id=ryMxXPFex), Jason Tyler Rolfe, "We present a novel method to train a class of probabilistic models with discrete latent variables using the variational autoencoder framework, including backpropagation through the discrete latent variables.", [[pdf](http://openreview.net/pdf?id=ryMxXPFex)]
 
 #### Jason Weston
-* [Learning End-to-End Goal-Oriented Dialog](http://openreview.net/forum?id=S1Bb3D5gg), Antoine Bordes, Y-Lan Boureau, Jason Weston, "A new open dataset and testbed for training and evaluating end-to-end dialog systems in goal-oriented scenarios.", [[pdf](http://openreview.net/pdf?id=S1Bb3D5gg)]
-* [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
 * [Dialogue Learning With Human-in-the-Loop](http://openreview.net/forum?id=HJgXCV9xx), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "we explore a reinforcement learning setting for dialogue where the bot improves its abilities using reward-based or textual feedback", [[pdf](http://openreview.net/pdf?id=HJgXCV9xx)]
 * [Tracking the World State with Recurrent Entity Networks](http://openreview.net/forum?id=rJTKKKqeg), Mikael Henaff, Jason Weston, Arthur Szlam, Antoine Bordes, Yann LeCun, "A new memory-augmented model which learns to track the world state, obtaining SOTA on the bAbI tasks amongst other results.", [[pdf](http://openreview.net/pdf?id=rJTKKKqeg)]
+* [Learning End-to-End Goal-Oriented Dialog](http://openreview.net/forum?id=S1Bb3D5gg), Antoine Bordes, Y-Lan Boureau, Jason Weston, "A new open dataset and testbed for training and evaluating end-to-end dialog systems in goal-oriented scenarios.", [[pdf](http://openreview.net/pdf?id=S1Bb3D5gg)]
+* [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
 
 #### Jay Yoon Lee
 * [Enforcing constraints on outputs with unconstrained inference](http://openreview.net/forum?id=S1Jhfftgx), Jay Yoon Lee, Michael L. Wick, Jean-Baptiste Tristan, "An inference method for enforcing hard constraints on the outputs of neural networks without combinatorial search, with applications in NLP and structured prediction.", [[pdf](http://openreview.net/pdf?id=S1Jhfftgx)]
@@ -1794,8 +1794,8 @@
 * [Investigating Recurrence and Eligibility Traces in Deep Q-Networks](http://openreview.net/forum?id=HJrDIpiee), Jean Harb, Doina Precup, "Analyze the effects of using eligibility traces different optimizations in Deep Recurrent Q-Networks", [[pdf](http://openreview.net/pdf?id=HJrDIpiee)]
 
 #### Jean-Baptiste Tristan
-* [Learning a Static Analyzer: A Case Study on a Toy Language](http://openreview.net/forum?id=ry54RWtxx), Manzil Zaheer, Jean-Baptiste Tristan, Michael L. Wick, Guy L. Steele Jr., "", [[pdf](http://openreview.net/pdf?id=ry54RWtxx)]
 * [Enforcing constraints on outputs with unconstrained inference](http://openreview.net/forum?id=S1Jhfftgx), Jay Yoon Lee, Michael L. Wick, Jean-Baptiste Tristan, "An inference method for enforcing hard constraints on the outputs of neural networks without combinatorial search, with applications in NLP and structured prediction.", [[pdf](http://openreview.net/pdf?id=S1Jhfftgx)]
+* [Learning a Static Analyzer: A Case Study on a Toy Language](http://openreview.net/forum?id=ry54RWtxx), Manzil Zaheer, Jean-Baptiste Tristan, Michael L. Wick, Guy L. Steele Jr., "", [[pdf](http://openreview.net/pdf?id=ry54RWtxx)]
 
 #### Jeff Bilmes
 * [Training Compressed Fully-Connected Networks with a Density-Diversity Penalty](http://openreview.net/forum?id=Hku9NK5lx), Shengjie Wang, Haoran Cai, Jeff Bilmes, William Noble, "We propose a new ''density-diversity penalty'' to fully-connected layers to get significantly high sparsity and low diversity trained matrices, while keeping the performance the same.", [[pdf](http://openreview.net/pdf?id=Hku9NK5lx)]
@@ -1844,10 +1844,10 @@
 
 #### Jianfeng Gao
 * [Implicit ReasoNet: Modeling Large-Scale Structured Relationships with Shared Memory](http://openreview.net/forum?id=r1PRvK9el), Yelong Shen*, Po-Sen Huang*, Ming-Wei Chang, Jianfeng Gao, "", [[pdf](http://openreview.net/pdf?id=r1PRvK9el)]
-* [ReasoNet: Learning to Stop Reading in Machine Comprehension](http://openreview.net/forum?id=BJlxmAKlg), Yelong Shen, Po-Sen Huang, Jianfeng Gao, Weizhu Chen, "ReasoNet Reader for machine reading and comprehension", [[pdf](http://openreview.net/pdf?id=BJlxmAKlg)]
-* [Combating Deep Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](http://openreview.net/forum?id=r1tHvHKge), Zachary C. Lipton, Jianfeng Gao, Lihong Li, Jianshu Chen, Li Deng, "Owing to function approximation, DRL agents eventually forget about dangerous transitions once they learn to avoid them, putting them at risk of perpetually repeating mistakes. We propose techniques to avert catastrophic outcomes.", [[pdf](http://openreview.net/pdf?id=r1tHvHKge)]
 * [TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency](http://openreview.net/forum?id=rJbbOLcex), Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley, "", [[pdf](http://openreview.net/pdf?id=rJbbOLcex)]
+* [Combating Deep Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](http://openreview.net/forum?id=r1tHvHKge), Zachary C. Lipton, Jianfeng Gao, Lihong Li, Jianshu Chen, Li Deng, "Owing to function approximation, DRL agents eventually forget about dangerous transitions once they learn to avoid them, putting them at risk of perpetually repeating mistakes. We propose techniques to avert catastrophic outcomes.", [[pdf](http://openreview.net/pdf?id=r1tHvHKge)]
 * [MS MARCO: A Human-Generated MAchine Reading COmprehension Dataset](http://openreview.net/forum?id=Hk1iOLcle), Tri Nguyen, Mir Rosenberg, Xia Song, Jianfeng Gao, Saurabh Tiwary, Rangan Majumder and Li Deng, "A large scale human annotated data set for web-based reading comprehension along with baselines.", [[pdf](http://openreview.net/pdf?id=Hk1iOLcle)]
+* [ReasoNet: Learning to Stop Reading in Machine Comprehension](http://openreview.net/forum?id=BJlxmAKlg), Yelong Shen, Po-Sen Huang, Jianfeng Gao, Weizhu Chen, "ReasoNet Reader for machine reading and comprehension", [[pdf](http://openreview.net/pdf?id=BJlxmAKlg)]
 
 #### Jianmin Chen
 * [Revisiting Distributed Synchronous SGD](http://openreview.net/forum?id=HyAddcLge), Jianmin Chen, Xinghao Pan, Rajat Monga, Samy Bengio, Rafal Jozefowicz, "We proposed distributed synchronous stochastic optimization with backup workers, and show that it converge faster and to better test accuracies.", [[pdf](http://openreview.net/pdf?id=HyAddcLge)]
@@ -1910,13 +1910,13 @@
 
 #### Jiwei Li
 * [Data Noising as Smoothing in Neural Network Language Models](http://openreview.net/forum?id=H1VyHY9gg), Ziang Xie, Sida I. Wang, Jiwei Li, Daniel Lévy, Aiming Nie, Dan Jurafsky, Andrew Y. Ng, "Derive data noising schemes for neural network language models corresponding to techniques in n-gram smoothing.", [[pdf](http://openreview.net/pdf?id=H1VyHY9gg)]
-* [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
 * [Dialogue Learning With Human-in-the-Loop](http://openreview.net/forum?id=HJgXCV9xx), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "we explore a reinforcement learning setting for dialogue where the bot improves its abilities using reward-based or textual feedback", [[pdf](http://openreview.net/pdf?id=HJgXCV9xx)]
+* [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
 
 #### Joan Bruna
 * [Divide and Conquer with Neural Networks](http://openreview.net/forum?id=Hy3_KuYxg), Alex Nowak, Joan Bruna, "learn dynamic programming with neural networks", [[pdf](http://openreview.net/pdf?id=Hy3_KuYxg)]
-* [Understanding Neural Sparse Coding with Matrix Factorization](http://openreview.net/forum?id=SJGPL9Dex), Thomas Moreau, Joan Bruna, "We analyse the mechanisms which permit to accelerate sparse coding resolution using the problem structure, as it is the case in LISTA.", [[pdf](http://openreview.net/pdf?id=SJGPL9Dex)]
 * [Topology and Geometry of Deep Rectified Network Optimization Landscapes](http://openreview.net/forum?id=Bk0FWVcgx), C. Daniel Freeman, Joan Bruna, "We provide theoretical, algorithmical and experimental results concerning the optimization landscape of deep neural networks", [[pdf](http://openreview.net/pdf?id=Bk0FWVcgx)]
+* [Understanding Neural Sparse Coding with Matrix Factorization](http://openreview.net/forum?id=SJGPL9Dex), Thomas Moreau, Joan Bruna, "We analyse the mechanisms which permit to accelerate sparse coding resolution using the problem structure, as it is the case in LISTA.", [[pdf](http://openreview.net/pdf?id=SJGPL9Dex)]
 
 #### Joan Serrà
 * [Compact Embedding of Binary-coded Inputs and Outputs using Bloom Filters](http://openreview.net/forum?id=rkKCdAdgx), Joan Serrà, Alexandros Karatzoglou, "Bloom embeddings compactly represent sparse high-dimensional binary-coded instances without compromising accuracy", [[pdf](http://openreview.net/pdf?id=rkKCdAdgx)]
@@ -1932,8 +1932,8 @@
 
 #### Joelle Pineau
 * [Towards an automatic Turing test: Learning to evaluate dialogue responses](http://openreview.net/forum?id=HJ5PIaseg), Ryan Lowe, Michael Noseworthy, Iulian V. Serban, Nicolas Angelard-Gontier, Yoshua Bengio, Joelle Pineau, "We propose a model for evaluating dialogue responses that correlates significantly with human judgement at the utterance-level and system-level.", [[pdf](http://openreview.net/pdf?id=HJ5PIaseg)]
-* [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
 * [Multimodal Variational Encoder-Decoders](http://openreview.net/forum?id=BJ9fZNqle), Iulian V. Serban, Alexander G. Ororbia II, Joelle Pineau, Aaron Courville, "Learning continuous multimodal latent variables in the variational auto-encoder framework for text processing applications.", [[pdf](http://openreview.net/pdf?id=BJ9fZNqle)]
+* [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
 
 #### Johannes Ballé
 * [End-to-end Optimized Image Compression](http://openreview.net/forum?id=rJxdQ3jeg), Johannes Ballé, Valero Laparra, Eero P. Simoncelli, "", [[pdf](http://openreview.net/pdf?id=rJxdQ3jeg)]
@@ -1948,8 +1948,8 @@
 * [Skip-graph: Learning graph embeddings with an encoder-decoder model](http://openreview.net/forum?id=BkSqjHqxg), John Boaz Lee, Xiangnan Kong, "An unsupervised method for generating graph feature representations based on the encoder-decoder model.", [[pdf](http://openreview.net/pdf?id=BkSqjHqxg)]
 
 #### John E. Hopcroft
-* [Deep Neural Networks and the Tree of Life](http://openreview.net/forum?id=r17RD2oxe), Yan Wang, Kun He, John E. Hopcroft, Yu Sun, "Provideing a potential solution to the important problem of constructing a biology evolutionary tree; Giving insight into the representations produced by deep neural networks", [[pdf](http://openreview.net/pdf?id=r17RD2oxe)]
 * [Snapshot Ensembles: Train 1, Get M for Free](http://openreview.net/forum?id=BJYwwY9ll), Gao Huang, Yixuan Li, Geoff Pleiss, Zhuang Liu, John E. Hopcroft, Kilian Q. Weinberger, "", [[pdf](http://openreview.net/pdf?id=BJYwwY9ll)]
+* [Deep Neural Networks and the Tree of Life](http://openreview.net/forum?id=r17RD2oxe), Yan Wang, Kun He, John E. Hopcroft, Yu Sun, "Provideing a potential solution to the important problem of constructing a biology evolutionary tree; Giving insight into the representations produced by deep neural networks", [[pdf](http://openreview.net/pdf?id=r17RD2oxe)]
 
 #### John G. Breslin
 * [Knowledge Adaptation: Teaching to Adapt](http://openreview.net/forum?id=rJRhzzKxl), Sebastian Ruder, Parsa Ghaffari, John G. Breslin, "We propose a teacher-student framework for domain adaptation together with a novel confidence measure that achieves state-of-the-art results on single-source and multi-source adaptation on a standard sentiment analysis benchmark.", [[pdf](http://openreview.net/pdf?id=rJRhzzKxl)]
@@ -1968,8 +1968,8 @@
 
 #### John Schulman
 * [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](http://openreview.net/forum?id=SyOvg6jxx), Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, Pieter Abbeel, "We improve exploration in deep reinforcement learning by simply hashing states and assigning bonus rewards according to state counts.", [[pdf](http://openreview.net/pdf?id=SyOvg6jxx)]
-* [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
 * [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](http://openreview.net/forum?id=HkLXCE9lx), Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel, "We propose to learn a “fast” reinforcement learning algorithm using standard, off-the-shelf (“slow”) reinforcement learning algorithms, where the “fast” version is represented as an RNN, and fast RL happens inside its activations.", [[pdf](http://openreview.net/pdf?id=HkLXCE9lx)]
+* [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
 
 #### John Thickstun
 * [Learning Features of Music From Scratch](http://openreview.net/forum?id=rkFBJv9gg), John Thickstun, Zaid Harchaoui, Sham Kakade, "We introduce a new large-scale music dataset, define a multi-label classification task, and benchmark machine learning architectures on this task.", [[pdf](http://openreview.net/pdf?id=rkFBJv9gg)]
@@ -2104,8 +2104,8 @@
 * [Generalizing Skills with Semi-Supervised Reinforcement Learning](http://openreview.net/forum?id=ryHlUtqge), Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine, "We propose an algorithm for generalizing a deep neural network policy using "unlabeled" experience collected in MDPs where rewards are not available.", [[pdf](http://openreview.net/pdf?id=ryHlUtqge)]
 
 #### Justin Gilmer
-* [Intelligible Language Modeling with Input Switched Affine Networks](http://openreview.net/forum?id=H1MjAnqxg), Jakob Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-dickstein, David Sussillo, "Input Switched Affine Networks combine intelligibility with performance for character level language modeling. ", [[pdf](http://openreview.net/pdf?id=H1MjAnqxg)]
 * [Deep Information Propagation](http://openreview.net/forum?id=H1W1UN9gg), Samuel S. Schoenholz, Justin Gilmer, Surya Ganguli, Jascha Sohl-Dickstein, "We predict whether randomly initialized neural networks can be trained by studying whether or not information can travel through them.", [[pdf](http://openreview.net/pdf?id=H1W1UN9gg)]
+* [Intelligible Language Modeling with Input Switched Affine Networks](http://openreview.net/forum?id=H1MjAnqxg), Jakob Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-dickstein, David Sussillo, "Input Switched Affine Networks combine intelligibility with performance for character level language modeling. ", [[pdf](http://openreview.net/pdf?id=H1MjAnqxg)]
 
 #### Justin Harris
 * [NEWSQA: A MACHINE COMPREHENSION DATASET](http://openreview.net/forum?id=ry3iBFqgl), Adam Trischler, Tong Wang, Xingdi Yuan, Justin Harris, Alessandro Sordoni, Philip Bachman, Kaheer Suleman, "Crowdsourced QA dataset with natural language questions and multi-word answers", [[pdf](http://openreview.net/pdf?id=ry3iBFqgl)]
@@ -2122,8 +2122,8 @@
 * [NEWSQA: A MACHINE COMPREHENSION DATASET](http://openreview.net/forum?id=ry3iBFqgl), Adam Trischler, Tong Wang, Xingdi Yuan, Justin Harris, Alessandro Sordoni, Philip Bachman, Kaheer Suleman, "Crowdsourced QA dataset with natural language questions and multi-word answers", [[pdf](http://openreview.net/pdf?id=ry3iBFqgl)]
 
 #### Kai Arulkumaran
-* [Improving Sampling from Generative Autoencoders with Markov Chains](http://openreview.net/forum?id=ryXZmzNeg), Kai Arulkumaran, Antonia Creswell, Anil Anthony Bharath, "Iteratively encoding and decoding samples from generative autoencoders recovers samples from the true latent distribution learned by the model", [[pdf](http://openreview.net/pdf?id=ryXZmzNeg)]
 * [Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders](http://openreview.net/forum?id=SJx7Jrtgl), Nat Dilokthanakul, Pedro A. M. Mediano, Marta Garnelo, Matthew C.H. Lee, Hugh Salimbeni, Kai Arulkumaran, Murray Shanahan, "We study a variant of the variational autoencoder model with a Gaussian mixture as prior distribution and information-theoretic regularisation, and discuss its capabilities for unsupervised clustering.", [[pdf](http://openreview.net/pdf?id=SJx7Jrtgl)]
+* [Improving Sampling from Generative Autoencoders with Markov Chains](http://openreview.net/forum?id=ryXZmzNeg), Kai Arulkumaran, Antonia Creswell, Anil Anthony Bharath, "Iteratively encoding and decoding samples from generative autoencoders recovers samples from the true latent distribution learned by the model", [[pdf](http://openreview.net/pdf?id=ryXZmzNeg)]
 
 #### Kai-Wei Chang
 * [Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context](http://openreview.net/forum?id=HJSCGD9ex), Shyam Upadhyay, Kai-Wei Chang, James Zou, Matt Taddy, Adam Kalai, "Using multilingual context for learning multi-sense embeddings helps.", [[pdf](http://openreview.net/pdf?id=HJSCGD9ex)]
@@ -2132,8 +2132,8 @@
 * [Surprisal-Driven Feedback in Recurrent Networks](http://openreview.net/forum?id=S1J0E-71l), Kamil Rocki, "In this paper, we add surprisal as additional input to RNN , which take into account past error information when making new predictions. We extend SOTA on character-level language modelling, achieving 1.37 bits/char on wikipedia dataset.", [[pdf](http://openreview.net/pdf?id=S1J0E-71l)]
 
 #### Karen Livescu
-* [Multi-view Recurrent Neural Acoustic Word Embeddings](http://openreview.net/forum?id=rJxDkvqee), Wanjia He, Weiran Wang, Karen Livescu, "", [[pdf](http://openreview.net/pdf?id=rJxDkvqee)]
 * [Deep Variational Canonical Correlation Analysis](http://openreview.net/forum?id=H1Heentlx), Weiran Wang, Xinchen Yan, Honglak Lee, Karen Livescu, "A deep generative model for multi-view representation learning", [[pdf](http://openreview.net/pdf?id=H1Heentlx)]
+* [Multi-view Recurrent Neural Acoustic Word Embeddings](http://openreview.net/forum?id=rJxDkvqee), Wanjia He, Weiran Wang, Karen Livescu, "", [[pdf](http://openreview.net/pdf?id=rJxDkvqee)]
 
 #### Karen Ullrich
 * [Soft Weight-Sharing for Neural Network Compression](http://openreview.net/forum?id=HJGwcKclx), Karen Ullrich, Edward Meeds, Max Welling, "We use soft weight-sharing to compress neural network weights.", [[pdf](http://openreview.net/pdf?id=HJGwcKclx)]
@@ -2145,8 +2145,8 @@
 * [Binary Paragraph Vectors](http://openreview.net/forum?id=HJhcg6Fxg), Karol Grzegorczyk, Marcin Kurdziel, "Learning short codes for text documents with Binary Paragraph Vectors.", [[pdf](http://openreview.net/pdf?id=HJhcg6Fxg)]
 
 #### Karol Kurach
-* [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 * [Learning Efficient Algorithms with Hierarchical Attentive Memory](http://openreview.net/forum?id=BkfiXiUlg), Marcin Andrychowicz, Karol Kurach, "fast attention in O(log n); learned sorting algorithm that generalizes", [[pdf](http://openreview.net/pdf?id=BkfiXiUlg)]
+* [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 
 #### Kartik Talamadupula
 * [Learning to Query, Reason, and Answer Questions On Ambiguous Texts](http://openreview.net/forum?id=rJ0-tY5xe), Xiaoxiao Guo, Tim Klinger, Clemens Rosenbaum, Joseph P. Bigus, Murray Campbell, Ban Kawas, Kartik Talamadupula, Gerry Tesauro, Satinder   Singh, "A new dataset QRAQ of ambiguous stories in which an Agent must learn to reason and interact with a User to obtain important missing information needed to answer a challenge question.", [[pdf](http://openreview.net/pdf?id=rJ0-tY5xe)]
@@ -2183,17 +2183,17 @@
 * [Learning Recurrent Span Representations for Extractive Question Answering](http://openreview.net/forum?id=HkIQH7qel), Kenton Lee, Tom Kwiatkowksi, Ankur Parikh, Dipanjan Das, "We present a globally normalized architecture for extractive question answering that contains explicit representations of all possible answer spans.", [[pdf](http://openreview.net/pdf?id=HkIQH7qel)]
 
 #### Kevin Gimpel
+* [Adjusting for Dropout Variance in Batch Normalization and Weight Initialization](http://openreview.net/forum?id=r1BJLw9ex), Dan Hendrycks, Kevin Gimpel, "Batch Norm Incorrectly Estimates Variance When Dropout Is On", [[pdf](http://openreview.net/pdf?id=r1BJLw9ex)]
+* [Emergent Logical Structure in Vector Representations of Neural Readers](http://openreview.net/forum?id=ryWKREqxx), Hai Wang, Takeshi Onishi, Kevin Gimpel, David McAllester, "Provide some novel insights on reading comprehension models and boost the performance of those models", [[pdf](http://openreview.net/pdf?id=ryWKREqxx)]
 * [Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units](http://openreview.net/forum?id=Bk0MRI5lg), Dan Hendrycks, Kevin Gimpel, "A Competitor of ReLUs and ELUs with a Probabilistic Underpinning", [[pdf](http://openreview.net/pdf?id=Bk0MRI5lg)]
 * [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](http://openreview.net/forum?id=Hkg4TI9xl), Dan Hendrycks, Kevin Gimpel, "Methods to Detect When a Network Is Wrong", [[pdf](http://openreview.net/pdf?id=Hkg4TI9xl)]
-* [Emergent Logical Structure in Vector Representations of Neural Readers](http://openreview.net/forum?id=ryWKREqxx), Hai Wang, Takeshi Onishi, Kevin Gimpel, David McAllester, "Provide some novel insights on reading comprehension models and boost the performance of those models", [[pdf](http://openreview.net/pdf?id=ryWKREqxx)]
-* [Adjusting for Dropout Variance in Batch Normalization and Weight Initialization](http://openreview.net/forum?id=r1BJLw9ex), Dan Hendrycks, Kevin Gimpel, "Batch Norm Incorrectly Estimates Variance When Dropout Is On", [[pdf](http://openreview.net/pdf?id=r1BJLw9ex)]
 
 #### Kevin Jamieson
 * [Hyperband: Bandit-Based Configuration Evaluation for Hyperparameter Optimization](http://openreview.net/forum?id=ry18Ww5ee), Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalkar, "", [[pdf](http://openreview.net/pdf?id=ry18Ww5ee)]
 
 #### Kevin Murphy
-* [Deep Variational Information Bottleneck](http://openreview.net/forum?id=HyxQzBceg), Alexander A. Alemi, Ian Fischer, Joshua V. Dillon, Kevin Murphy, "Applying the information bottleneck to deep networks using the variational lower bound and reparameterization trick.", [[pdf](http://openreview.net/pdf?id=HyxQzBceg)]
 * [Deep Probabilistic Programming](http://openreview.net/forum?id=Hy6b4Pqee), Dustin Tran, Matthew D. Hoffman, Rif A. Saurous, Eugene Brevdo, Kevin Murphy, David M. Blei, "", [[pdf](http://openreview.net/pdf?id=Hy6b4Pqee)]
+* [Deep Variational Information Bottleneck](http://openreview.net/forum?id=HyxQzBceg), Alexander A. Alemi, Ian Fischer, Joshua V. Dillon, Kevin Murphy, "Applying the information bottleneck to deep networks using the variational lower bound and reparameterization trick.", [[pdf](http://openreview.net/pdf?id=HyxQzBceg)]
 
 #### Kevin Swersky
 * [Prototypical Networks for Few-shot Learning](http://openreview.net/forum?id=B1-Hhnslg), Jake Snell, Kevin Swersky, Richard Zemel, "We learn a metric space in which few-shot classification can be performed by computing Euclidean distances to a single prototype representative of each class.", [[pdf](http://openreview.net/pdf?id=B1-Hhnslg)]
@@ -2226,15 +2226,15 @@
 * [Learning similarity preserving representations with neural similarity and context encoders](http://openreview.net/forum?id=SkBsEQYll), Franziska Horn, Klaus-Robert Müller, "Neural network way of doing kernel PCA and an extension of word2vec to compute out-of-vocabulary embeddings and distinguish between multiple meanings of a word based on its local context.", [[pdf](http://openreview.net/pdf?id=SkBsEQYll)]
 
 #### Koray Kavukcuoglu
-* [PGQ: Combining policy gradient and Q-learning](http://openreview.net/forum?id=B1kJ6H9ex), Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih, "We combine a policy gradient style update with a Q-learning style update into a single RL algorithm we call PGQ.", [[pdf](http://openreview.net/pdf?id=B1kJ6H9ex)]
+* [Reinforcement Learning with Unsupervised Auxiliary Tasks](http://openreview.net/forum?id=SJ6yPD5xg), Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu, "", [[pdf](http://openreview.net/pdf?id=SJ6yPD5xg)]
 * [Sample Efficient Actor-Critic with  Experience Replay](http://openreview.net/forum?id=HyM25Mqel), Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas, "Prepared for ICLR 2017.", [[pdf](http://openreview.net/pdf?id=HyM25Mqel)]
 * [Learning to Navigate in Complex Environments](http://openreview.net/forum?id=SJMGPrcle), Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, Raia Hadsell, "We proposed a deep RL method, augmented with memory and auxiliary learning targets, for training agents to navigate within large and visually rich environments that include frequently changing start and goal locations", [[pdf](http://openreview.net/pdf?id=SJMGPrcle)]
-* [Reinforcement Learning with Unsupervised Auxiliary Tasks](http://openreview.net/forum?id=SJ6yPD5xg), Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu, "", [[pdf](http://openreview.net/pdf?id=SJ6yPD5xg)]
+* [PGQ: Combining policy gradient and Q-learning](http://openreview.net/forum?id=B1kJ6H9ex), Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih, "We combine a policy gradient style update with a Q-learning style update into a single RL algorithm we call PGQ.", [[pdf](http://openreview.net/pdf?id=B1kJ6H9ex)]
 
 #### Kotaro Nakayama
-* [Joint Multimodal Learning with Deep Generative Models](http://openreview.net/forum?id=Hk8rlUqge), Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=Hk8rlUqge)]
 * [Multiagent System for Layer Free Network](http://openreview.net/forum?id=B1PA8fqeg), Hiroki Kurotaki, Kotaro Nakayama, Yutaka Matsuo, "We propose a multiagent system that have feed-forward networks as its subset but free from layer scheme.", [[pdf](http://openreview.net/pdf?id=B1PA8fqeg)]
 * [b-GAN: Unified Framework of Generative Adversarial Networks](http://openreview.net/forum?id=S1JG13oee), Masatosi Uehara, Issei Sato, Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "New Unified Framework of Generative Adversarial Networks using Bregman divergence beyond f-GAN", [[pdf](http://openreview.net/pdf?id=S1JG13oee)]
+* [Joint Multimodal Learning with Deep Generative Models](http://openreview.net/forum?id=Hk8rlUqge), Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=Hk8rlUqge)]
 * [Neural Machine Translation with Latent Semantic of Image and Text](http://openreview.net/forum?id=B1G9tvcgx), Joji Toyama, Masanori Misono, Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=B1G9tvcgx)]
 
 #### Kris M. Kitani
@@ -2257,8 +2257,8 @@
 * [Deep Neural Networks and the Tree of Life](http://openreview.net/forum?id=r17RD2oxe), Yan Wang, Kun He, John E. Hopcroft, Yu Sun, "Provideing a potential solution to the important problem of constructing a biology evolutionary tree; Giving insight into the representations produced by deep neural networks", [[pdf](http://openreview.net/pdf?id=r17RD2oxe)]
 
 #### Kunal Talwar
-* [Short and Deep: Sketching and Neural Networks](http://openreview.net/forum?id=r1br_2Kge), Amit Daniely, Nevena Lazic, Yoram Singer, Kunal Talwar, "For sparse boolean inputs, Neural Networks operating on very short sketches can provably and empirically represent a large class of functions.", [[pdf](http://openreview.net/pdf?id=r1br_2Kge)]
 * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](http://openreview.net/forum?id=HkwoSDPgg), Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar, "Semi-supervised learning of a privacy-preserving student model with GANs by knowledge transfer from an ensemble of teachers trained on partitions of private data.", [[pdf](http://openreview.net/pdf?id=HkwoSDPgg)]
+* [Short and Deep: Sketching and Neural Networks](http://openreview.net/forum?id=r1br_2Kge), Amit Daniely, Nevena Lazic, Yoram Singer, Kunal Talwar, "For sparse boolean inputs, Neural Networks operating on very short sketches can provably and empirically represent a large class of functions.", [[pdf](http://openreview.net/pdf?id=r1br_2Kge)]
 
 #### Kundan Kumar
 * [SampleRNN: An Unconditional End-to-End Neural Audio Generation Model](http://openreview.net/forum?id=SkxKPDv5xl), Soroush Mehri, Kundan Kumar, Ishaan Gulrajani, Rithesh Kumar, Shubham Jain, Jose Manuel Rodriguez Sotelo, Aaron Courville, Yoshua Bengio, "Novel model for unconditional audio generation task using hierarchical multi-scale RNNs and autoregressive MLP.", [[pdf](http://openreview.net/pdf?id=SkxKPDv5xl)]
@@ -2313,8 +2313,8 @@
 * [The Neural Noisy Channel](http://openreview.net/forum?id=SJ25-B5eg), Lei Yu, Phil Blunsom, Chris Dyer, Edward Grefenstette, Tomas Kocisky, "We formulate sequence to sequence transduction as a noisy channel decoding  problem and use recurrent neural networks to parameterise the source and channel  models.", [[pdf](http://openreview.net/pdf?id=SJ25-B5eg)]
 
 #### Leon Bottou
-* [Singularity of the Hessian in Deep Learning](http://openreview.net/forum?id=B186cP9gx), Levent Sagun, Leon Bottou, Yann LeCun, "The eigenvalues of the Hessian of loss functions in deep learning are singular, extremely singular.", [[pdf](http://openreview.net/pdf?id=B186cP9gx)]
 * [Towards Principled Methods for Training Generative Adversarial Networks](http://openreview.net/forum?id=Hk4_qw5xe), Martin Arjovsky, Leon Bottou, "We introduce a theory about generative adversarial networks and their issues.", [[pdf](http://openreview.net/pdf?id=Hk4_qw5xe)]
+* [Singularity of the Hessian in Deep Learning](http://openreview.net/forum?id=B186cP9gx), Levent Sagun, Leon Bottou, Yann LeCun, "The eigenvalues of the Hessian of loss functions in deep learning are singular, extremely singular.", [[pdf](http://openreview.net/pdf?id=B186cP9gx)]
 
 #### Leon Gatys
 * [What does it take to generate natural textures?](http://openreview.net/forum?id=BJhZeLsxx), Ivan Ustyuzhaninov *, Wieland Brendel *, Leon Gatys, Matthias Bethge, "Natural textures of high perceptual quality can be generated from networks with only a single layer, no pooling and random filters.", [[pdf](http://openreview.net/pdf?id=BJhZeLsxx)]
@@ -2351,8 +2351,8 @@
 * [Multiplicative LSTM for sequence modelling](http://openreview.net/forum?id=Hk4kQHceg), Ben Krause, Iain Murray, Steve Renals, Liang Lu, "Combines LSTM and multiplicative RNN architectures; achieves 1.19 bits/character on Hutter prize dataset with dynamic evaluation.", [[pdf](http://openreview.net/pdf?id=Hk4kQHceg)]
 
 #### Lihong Li
-* [Neuro-Symbolic Program Synthesis](http://openreview.net/forum?id=rJ0JwFcex), Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli, "A neural architecture for learning programs in a domain-specific language that are consistent with a given set of input-output examples", [[pdf](http://openreview.net/pdf?id=rJ0JwFcex)]
 * [Combating Deep Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](http://openreview.net/forum?id=r1tHvHKge), Zachary C. Lipton, Jianfeng Gao, Lihong Li, Jianshu Chen, Li Deng, "Owing to function approximation, DRL agents eventually forget about dangerous transitions once they learn to avoid them, putting them at risk of perpetually repeating mistakes. We propose techniques to avert catastrophic outcomes.", [[pdf](http://openreview.net/pdf?id=r1tHvHKge)]
+* [Neuro-Symbolic Program Synthesis](http://openreview.net/forum?id=rJ0JwFcex), Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli, "A neural architecture for learning programs in a domain-specific language that are consistent with a given set of input-output examples", [[pdf](http://openreview.net/pdf?id=rJ0JwFcex)]
 
 #### Lin Xu
 * [Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights](http://openreview.net/forum?id=HyQJ-mclg), Aojun Zhou, Anbang Yao, Yiwen Guo, Lin Xu, Yurong Chen, "This paper presents INQ, targeting to efficiently transform any pre-trained full-precision convolutional neural network (CNN) model into a low-precision version whose connection weights are constrained to be either powers of two or zero.", [[pdf](http://openreview.net/pdf?id=HyQJ-mclg)]
@@ -2367,8 +2367,8 @@
 * [Efficient Communications in Training Large Scale Neural Networks](http://openreview.net/forum?id=HkzuKpLgg), Linnan Wang, Wei Wu, George Bosilca, Richard Vuduc, Zenglin Xu, "Tackle the communications in the parallel training of neural networks", [[pdf](http://openreview.net/pdf?id=HkzuKpLgg)]
 
 #### Lior Wolf
-* [Using the Output Embedding to Improve Language Models](http://openreview.net/forum?id=SyBin3sxg), Ofir Press, Lior Wolf, "", [[pdf](http://openreview.net/pdf?id=SyBin3sxg)]
 * [Unsupervised Cross-Domain Image Generation](http://openreview.net/forum?id=Sk2Im59ex), Yaniv Taigman, Adam Polyak, Lior Wolf, "", [[pdf](http://openreview.net/pdf?id=Sk2Im59ex)]
+* [Using the Output Embedding to Improve Language Models](http://openreview.net/forum?id=SyBin3sxg), Ofir Press, Lior Wolf, "", [[pdf](http://openreview.net/pdf?id=SyBin3sxg)]
 * [The loss surface of residual networks: Ensembles and the role of batch normalization](http://openreview.net/forum?id=Sk8csP5ex), Etai Littwin, Lior Wolf, "Residual nets are dynamic ensembles", [[pdf](http://openreview.net/pdf?id=Sk8csP5ex)]
 
 #### Liping Jing
@@ -2403,9 +2403,9 @@
 * [Lossy Image Compression with Compressive Autoencoders](http://openreview.net/forum?id=rJiNwv9gg), Lucas Theis, Wenzhe Shi, Andrew Cunningham, Ferenc Huszár, "A simple approach to train autoencoders to compress images as well or better than JPEG 2000.", [[pdf](http://openreview.net/pdf?id=rJiNwv9gg)]
 
 #### Ludovic Denoyer
-* [Options Discovery with Budgeted Reinforcement Learning](http://openreview.net/forum?id=H1eLE8qlx), Aurelia Léon, Ludovic Denoyer, "The article describes a new learning model called Budgeted Option Neural Network (BONN) able to discover options based on a budgeted learning objective, and a new RL learning framework called Bi-POMDP.", [[pdf](http://openreview.net/pdf?id=H1eLE8qlx)]
-* [Multi-view Generative Adversarial Networks](http://openreview.net/forum?id=SJgWQPcxl), Mickaël Chen, Ludovic Denoyer, "We describe the MV-BiGAN model able to perform density estimation from multiple views, and to update its prediction when additional views are provided", [[pdf](http://openreview.net/pdf?id=SJgWQPcxl)]
 * [Modelling Relational Time Series using Gaussian Embeddings](http://openreview.net/forum?id=HJ7O61Yxe), Ludovic Dos Santos, Ali Ziat, Ludovic Denoyer, Benjamin Piwowarski, Patrick Gallinari, "We learn latent gaussian distributions for modelling correlated series.", [[pdf](http://openreview.net/pdf?id=HJ7O61Yxe)]
+* [Multi-view Generative Adversarial Networks](http://openreview.net/forum?id=SJgWQPcxl), Mickaël Chen, Ludovic Denoyer, "We describe the MV-BiGAN model able to perform density estimation from multiple views, and to update its prediction when additional views are provided", [[pdf](http://openreview.net/pdf?id=SJgWQPcxl)]
+* [Options Discovery with Budgeted Reinforcement Learning](http://openreview.net/forum?id=H1eLE8qlx), Aurelia Léon, Ludovic Denoyer, "The article describes a new learning model called Budgeted Option Neural Network (BONN) able to discover options based on a budgeted learning objective, and a new RL learning framework called Bi-POMDP.", [[pdf](http://openreview.net/pdf?id=H1eLE8qlx)]
 
 #### Ludovic Dos Santos
 * [Modelling Relational Time Series using Gaussian Embeddings](http://openreview.net/forum?id=HJ7O61Yxe), Ludovic Dos Santos, Ali Ziat, Ludovic Denoyer, Benjamin Piwowarski, Patrick Gallinari, "We learn latent gaussian distributions for modelling correlated series.", [[pdf](http://openreview.net/pdf?id=HJ7O61Yxe)]
@@ -2423,9 +2423,9 @@
 * [The Incredible Shrinking Neural Network: New Perspectives on Learning Representations Through The Lens of Pruning](http://openreview.net/forum?id=BkV4VS9ll), Nikolas Wolfe, Aditya Sharma, Lukas Drude, Bhiksha Raj, "", [[pdf](http://openreview.net/pdf?id=BkV4VS9ll)]
 
 #### Lukasz Kaiser
+* [Learning to Remember Rare Events](http://openreview.net/forum?id=SJTQLdqlg), Lukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio, "We introduce a memory module for life-long learning that adds one-shot learning capability to any supervised neural network.", [[pdf](http://openreview.net/pdf?id=SJTQLdqlg)]
 * [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 * [Regularizing Neural Networks by Penalizing Confident Output Distributions](http://openreview.net/forum?id=HkCjNI5ex), Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, Geoffrey Hinton, "We show that penalizing low entropy output distributions, which has been shown to improve exploration in reinforcement learning, acts as a strong regularizer in supervised learning.", [[pdf](http://openreview.net/pdf?id=HkCjNI5ex)]
-* [Learning to Remember Rare Events](http://openreview.net/forum?id=SJTQLdqlg), Lukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio, "We introduce a memory module for life-long learning that adds one-shot learning capability to any supervised neural network.", [[pdf](http://openreview.net/pdf?id=SJTQLdqlg)]
 
 #### Luke Metz
 * [Unrolled Generative Adversarial Networks](http://openreview.net/forum?id=BydrOIcle), Luke Metz, Ben Poole, David Pfau, Jascha Sohl-Dickstein, "We introduce a method to stabilize Generative Adversarial Networks by defining the generator objective with respect to an unrolled optimization of the discriminator. ", [[pdf](http://openreview.net/pdf?id=BydrOIcle)]
@@ -2488,9 +2488,9 @@
 * [Filling in the details: Perceiving from low fidelity visual input](http://openreview.net/forum?id=Sk36NgFeg), Farahnaz A. Wick, Michael L. Wick, Marc Pomplun, "Using generative models to create images from impoverished input similar to those received by our visual cortex", [[pdf](http://openreview.net/pdf?id=Sk36NgFeg)]
 
 #### Marc'Aurelio Ranzato
+* [Dialogue Learning With Human-in-the-Loop](http://openreview.net/forum?id=HJgXCV9xx), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "we explore a reinforcement learning setting for dialogue where the bot improves its abilities using reward-based or textual feedback", [[pdf](http://openreview.net/pdf?id=HJgXCV9xx)]
 * [Transformation-based Models of Video Sequences](http://openreview.net/forum?id=HkxAAvcxx), Joost van Amersfoort, Anitha Kannan, Marc'Aurelio Ranzato, Arthur Szlam, Du Tran, Soumith Chintala, "Predict next frames of a video sequence by modelling transformations", [[pdf](http://openreview.net/pdf?id=HkxAAvcxx)]
 * [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
-* [Dialogue Learning With Human-in-the-Loop](http://openreview.net/forum?id=HJgXCV9xx), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "we explore a reinforcement learning setting for dialogue where the bot improves its abilities using reward-based or textual feedback", [[pdf](http://openreview.net/pdf?id=HJgXCV9xx)]
 
 #### Marc-André Legault
 * [Diet Networks: Thin Parameters for Fat Genomics](http://openreview.net/forum?id=Sk-oDY9ge), Adriana Romero, Pierre Luc Carrier, Akram Erraqabi, Tristan Sylvain, Alex Auvolat, Etienne Dejoie, Marc-André Legault, Julie G. Hussin, Yoshua Bengio, "Drastically reducing the number of parameters, when the number of input features is orders of magnitude larger than the number of training examples, such as in genomics.", [[pdf](http://openreview.net/pdf?id=Sk-oDY9ge)]
@@ -2542,8 +2542,8 @@
 * [Adversarially Learned Inference](http://openreview.net/forum?id=B1ElR4cgg), Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville, "We present and adverserially trained generative model with an inference network. Samples quality is high. Competitive semi-supervised results are achieved.", [[pdf](http://openreview.net/pdf?id=B1ElR4cgg)]
 
 #### Martin Renqiang Min
-* [Adaptive Feature Abstraction for Translating Video to Language](http://openreview.net/forum?id=ByG4hz5le), Yunchen Pu, Martin Renqiang Min, Zhe Gan, Lawrence Carin, "", [[pdf](http://openreview.net/pdf?id=ByG4hz5le)]
 * [A Context-aware Attention Network for Interactive Question Answering](http://openreview.net/forum?id=SkyQWDcex), Huayu Li, Martin Renqiang Min, Yong Ge, Asim Kadav, "A self-adaptive QA model aware of what it knows and what it does not know for interactive question answering.", [[pdf](http://openreview.net/pdf?id=SkyQWDcex)]
+* [Adaptive Feature Abstraction for Translating Video to Language](http://openreview.net/forum?id=ByG4hz5le), Yunchen Pu, Martin Renqiang Min, Zhe Gan, Lawrence Carin, "", [[pdf](http://openreview.net/pdf?id=ByG4hz5le)]
 
 #### Martin Vechev
 * [Program Synthesis for Character Level Language Modeling](http://openreview.net/forum?id=ry_sjFqgx), Pavol Bielik, Veselin Raychev, Martin Vechev, "", [[pdf](http://openreview.net/pdf?id=ry_sjFqgx)]
@@ -2556,8 +2556,8 @@
 * [Fuzzy paraphrases in learning word representations with a corpus and a lexicon](http://openreview.net/forum?id=r1osyr_xg), Yuanzhi Ke, Masafumi Hagiwara, "For joint learning word representations using a lexicon and a corpus, we treat the paraphrases as fuzzy members of the lexicon to alleviate the deterioration of word representations caused by the words that have multiple meanings.", [[pdf](http://openreview.net/pdf?id=r1osyr_xg)]
 
 #### Masahiro Suzuki
-* [Joint Multimodal Learning with Deep Generative Models](http://openreview.net/forum?id=Hk8rlUqge), Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=Hk8rlUqge)]
 * [b-GAN: Unified Framework of Generative Adversarial Networks](http://openreview.net/forum?id=S1JG13oee), Masatosi Uehara, Issei Sato, Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "New Unified Framework of Generative Adversarial Networks using Bregman divergence beyond f-GAN", [[pdf](http://openreview.net/pdf?id=S1JG13oee)]
+* [Joint Multimodal Learning with Deep Generative Models](http://openreview.net/forum?id=Hk8rlUqge), Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=Hk8rlUqge)]
 * [Neural Machine Translation with Latent Semantic of Image and Text](http://openreview.net/forum?id=B1G9tvcgx), Joji Toyama, Masanori Misono, Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=B1G9tvcgx)]
 
 #### Masanori Misono
@@ -2636,12 +2636,12 @@
 * [Reinforcement Learning with Unsupervised Auxiliary Tasks](http://openreview.net/forum?id=SJ6yPD5xg), Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu, "", [[pdf](http://openreview.net/pdf?id=SJ6yPD5xg)]
 
 #### Max Welling
-* [Visualizing Deep Neural Network Decisions: Prediction Difference Analysis](http://openreview.net/forum?id=BJ5UeU9xx), Luisa M Zintgraf, Taco S Cohen, Tameem Adel, Max Welling, "Method for visualizing evidence for and against deep convolutional neural network classification decisions in a given input image.", [[pdf](http://openreview.net/pdf?id=BJ5UeU9xx)]
-* [Steerable CNNs](http://openreview.net/forum?id=rJQKYt5ll), Taco S. Cohen, Max Welling, "", [[pdf](http://openreview.net/pdf?id=rJQKYt5ll)]
-* [Recurrent Inference Machines for Solving Inverse Problems](http://openreview.net/forum?id=HkSOlP9lg), Patrick Putzky, Max Welling, "", [[pdf](http://openreview.net/pdf?id=HkSOlP9lg)]
-* [Semi-Supervised Classification with Graph Convolutional Networks](http://openreview.net/forum?id=SJU4ayYgl), Thomas N. Kipf, Max Welling, "Semi-supervised classification with a CNN model for graphs. State-of-the-art results on a number of citation network datasets.", [[pdf](http://openreview.net/pdf?id=SJU4ayYgl)]
-* [Soft Weight-Sharing for Neural Network Compression](http://openreview.net/forum?id=HJGwcKclx), Karen Ullrich, Edward Meeds, Max Welling, "We use soft weight-sharing to compress neural network weights.", [[pdf](http://openreview.net/pdf?id=HJGwcKclx)]
 * [Sigma Delta Quantized Networks](http://openreview.net/forum?id=HkNRsU5ge), Peter O'Connor, Max Welling, "A deep neural network that saves computation on temporal data by using neurons that only communicate their changes in activation", [[pdf](http://openreview.net/pdf?id=HkNRsU5ge)]
+* [Visualizing Deep Neural Network Decisions: Prediction Difference Analysis](http://openreview.net/forum?id=BJ5UeU9xx), Luisa M Zintgraf, Taco S Cohen, Tameem Adel, Max Welling, "Method for visualizing evidence for and against deep convolutional neural network classification decisions in a given input image.", [[pdf](http://openreview.net/pdf?id=BJ5UeU9xx)]
+* [Semi-Supervised Classification with Graph Convolutional Networks](http://openreview.net/forum?id=SJU4ayYgl), Thomas N. Kipf, Max Welling, "Semi-supervised classification with a CNN model for graphs. State-of-the-art results on a number of citation network datasets.", [[pdf](http://openreview.net/pdf?id=SJU4ayYgl)]
+* [Steerable CNNs](http://openreview.net/forum?id=rJQKYt5ll), Taco S. Cohen, Max Welling, "", [[pdf](http://openreview.net/pdf?id=rJQKYt5ll)]
+* [Soft Weight-Sharing for Neural Network Compression](http://openreview.net/forum?id=HJGwcKclx), Karen Ullrich, Edward Meeds, Max Welling, "We use soft weight-sharing to compress neural network weights.", [[pdf](http://openreview.net/pdf?id=HJGwcKclx)]
+* [Recurrent Inference Machines for Solving Inverse Problems](http://openreview.net/forum?id=HkSOlP9lg), Patrick Putzky, Max Welling, "", [[pdf](http://openreview.net/pdf?id=HkSOlP9lg)]
 
 #### Maxime Oquab
 * [Revisiting Classifier Two-Sample Tests](http://openreview.net/forum?id=SJkXfE5xx), David Lopez-Paz, Maxime Oquab, "Modern binary classifiers can be easily turned into powerful two-sample tests, and used to evaluate generative models.", [[pdf](http://openreview.net/pdf?id=SJkXfE5xx)]
@@ -2686,8 +2686,8 @@
 * [Multi-label learning with semantic embeddings](http://openreview.net/forum?id=ryAe2WBee), Liping Jing, MiaoMiao Cheng, Liu Yang, Alex Gittens, Michael W. Mahoney, "The SEM approach to multi-label learning models labels using multinomial distributions parametrized by nonlinear functions of the instance features, is scalable and outperforms current state-of-the-art algorithms", [[pdf](http://openreview.net/pdf?id=ryAe2WBee)]
 
 #### Michael Auli
-* [Iterative Refinement for Machine Translation](http://openreview.net/forum?id=r1y1aawlg), Roman Novak, Michael Auli, David Grangier, "We propose of novel decoding strategy for MT, after producing a full sentence the model can revisit its choice and substitute words; multiple words can iteratively be edited.", [[pdf](http://openreview.net/pdf?id=r1y1aawlg)]
 * [A Convolutional Encoder Model for Neural Machine Translation](http://openreview.net/forum?id=BJAA4wKxg), Jonas Gehring, Michael Auli, David Grangier, Yann N. Dauphin, "Investigate encoder models for translation and demonstrate that convolutions can outperform LSTMs as encoders.", [[pdf](http://openreview.net/pdf?id=BJAA4wKxg)]
+* [Iterative Refinement for Machine Translation](http://openreview.net/forum?id=r1y1aawlg), Roman Novak, Michael Auli, David Grangier, "We propose of novel decoding strategy for MT, after producing a full sentence the model can revisit its choice and substitute words; multiple words can iteratively be edited.", [[pdf](http://openreview.net/pdf?id=r1y1aawlg)]
 * [Vocabulary Selection Strategies for Neural Machine Translation](http://openreview.net/forum?id=Bk8N0RLxx), Gurvan L'Hostis, David Grangier, Michael Auli, "Neural machine translation can reach same accuracy with a 10x speedup by pruning the vocabulary prior to decoding.", [[pdf](http://openreview.net/pdf?id=Bk8N0RLxx)]
 
 #### Michael Chang
@@ -2697,9 +2697,9 @@
 * [Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models](http://openreview.net/forum?id=HJV1zP5xg), Ashwin K Vijayakumar, Michael Cogswell, Ramprasaath R. Selvaraju, Qing Sun, Stefan Lee, David Crandall, Dhruv Batra, "We introduce a novel, diversity promoting beam search algorithm that results in significantly improved diversity between decoded sequences as evaluated on multiple sequence generation tasks.", [[pdf](http://openreview.net/pdf?id=HJV1zP5xg)]
 
 #### Michael L. Wick
+* [Enforcing constraints on outputs with unconstrained inference](http://openreview.net/forum?id=S1Jhfftgx), Jay Yoon Lee, Michael L. Wick, Jean-Baptiste Tristan, "An inference method for enforcing hard constraints on the outputs of neural networks without combinatorial search, with applications in NLP and structured prediction.", [[pdf](http://openreview.net/pdf?id=S1Jhfftgx)]
 * [Filling in the details: Perceiving from low fidelity visual input](http://openreview.net/forum?id=Sk36NgFeg), Farahnaz A. Wick, Michael L. Wick, Marc Pomplun, "Using generative models to create images from impoverished input similar to those received by our visual cortex", [[pdf](http://openreview.net/pdf?id=Sk36NgFeg)]
 * [Learning a Static Analyzer: A Case Study on a Toy Language](http://openreview.net/forum?id=ry54RWtxx), Manzil Zaheer, Jean-Baptiste Tristan, Michael L. Wick, Guy L. Steele Jr., "", [[pdf](http://openreview.net/pdf?id=ry54RWtxx)]
-* [Enforcing constraints on outputs with unconstrained inference](http://openreview.net/forum?id=S1Jhfftgx), Jay Yoon Lee, Michael L. Wick, Jean-Baptiste Tristan, "An inference method for enforcing hard constraints on the outputs of neural networks without combinatorial search, with applications in NLP and structured prediction.", [[pdf](http://openreview.net/pdf?id=S1Jhfftgx)]
 
 #### Michael Laurenzano
 * [Rethinking Numerical Representations for Deep Neural Networks](http://openreview.net/forum?id=BJ_MGwqlg), Parker Hill, Babak Zamirai, Shengshuo Lu, Yu-Wei Chao, Michael Laurenzano, Mehrzad Samadi, Marios Papaefthymiou, Scott Mahlke, Thomas Wenisch, Jia Deng, Lingjia Tang, Jason Mars, "We find that the optimal numerical representation for large-scale DNNs is very different than the small-scale ones that are used in current DNN hardware research.", [[pdf](http://openreview.net/pdf?id=BJ_MGwqlg)]
@@ -2794,8 +2794,8 @@
 * [Ternary Weight Decomposition and Binary Activation Encoding for Fast and Compact Neural Network](http://openreview.net/forum?id=ByOK0rwlx), Mitsuru Ambai, Takuya Matsumoto, Takayoshi Yamashita, Hironobu Fujiyoshi, "", [[pdf](http://openreview.net/pdf?id=ByOK0rwlx)]
 
 #### Mo Yu
-* [End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension](http://openreview.net/forum?id=r1te3Fqel), Yang Yu, Wei Zhang, Bowen Zhou, Kazi Hasan, Mo Yu, Bing Xiang, "", [[pdf](http://openreview.net/pdf?id=r1te3Fqel)]
 * [A SELF-ATTENTIVE SENTENCE EMBEDDING](http://openreview.net/forum?id=BJC_jUqxe), Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio, "a new model for extracting an interpretable sentence embedding by introducing self-attention.", [[pdf](http://openreview.net/pdf?id=BJC_jUqxe)]
+* [End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension](http://openreview.net/forum?id=r1te3Fqel), Yang Yu, Wei Zhang, Bowen Zhou, Kazi Hasan, Mo Yu, Bing Xiang, "", [[pdf](http://openreview.net/pdf?id=r1te3Fqel)]
 
 #### Mohak Shah
 * [Deep Symbolic Representation Learning for Heterogeneous Time-series Classification](http://openreview.net/forum?id=Hy8X3aKee), Shengdong Zhang, Soheil Bahrampour, Naveen Ramakrishnan, Mohak Shah, "", [[pdf](http://openreview.net/pdf?id=Hy8X3aKee)]
@@ -2804,12 +2804,12 @@
 * [New Learning Approach By Genetic Algorithm In A Convolutional Neural Network For Pattern Recognition](http://openreview.net/forum?id=SJqaCVLxx), Mohammad Ali Mehrolhassani, Majid Mohammadi, "Implement new approach without exerting backpropagation in learning of CNN is useful for parallel processing Like GPU.", [[pdf](http://openreview.net/pdf?id=SJqaCVLxx)]
 
 #### Mohammad Babaeizadeh
-* [A Simple yet Effective Method to Prune Dense Layers of Neural Networks](http://openreview.net/forum?id=HJIY0E9ge), Mohammad Babaeizadeh, Paris Smaragdis, Roy H. Campbell, "Pruning neural networks by adding output neurons with fully random targets and removing strongly correlated neurons.", [[pdf](http://openreview.net/pdf?id=HJIY0E9ge)]
 * [Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](http://openreview.net/forum?id=r1VGvBcxl), Mohammad Babaeizadeh, Iuri Frosio, Stephen Tyree, Jason Clemons, Jan Kautz, "Implementation and analysis of the computational aspect of a GPU version of the Asynchronous Advantage Actor-Critic (A3C) algorithm", [[pdf](http://openreview.net/pdf?id=r1VGvBcxl)]
+* [A Simple yet Effective Method to Prune Dense Layers of Neural Networks](http://openreview.net/forum?id=HJIY0E9ge), Mohammad Babaeizadeh, Paris Smaragdis, Roy H. Campbell, "Pruning neural networks by adding output neurons with fully random targets and removing strongly correlated neurons.", [[pdf](http://openreview.net/pdf?id=HJIY0E9ge)]
 
 #### Mohammad Norouzi
-* [Improving Policy Gradient by Exploring Under-appreciated Rewards](http://openreview.net/forum?id=ryT4pvqll), Ofir Nachum, Mohammad Norouzi, Dale Schuurmans, "We present a novel form of policy gradient for model-free reinforcement learning with improved exploration properties.", [[pdf](http://openreview.net/pdf?id=ryT4pvqll)]
 * [Neural Combinatorial Optimization](http://openreview.net/forum?id=rJY3vK9eg), Irwan Bello*, Hieu Pham*, Quoc V. Le, Mohammad Norouzi, Samy Bengio, "This paper presents a framework to tackle combinatorial optimization problems using neural networks and reinforcement learning.", [[pdf](http://openreview.net/pdf?id=rJY3vK9eg)]
+* [Improving Policy Gradient by Exploring Under-appreciated Rewards](http://openreview.net/forum?id=ryT4pvqll), Ofir Nachum, Mohammad Norouzi, Dale Schuurmans, "We present a novel form of policy gradient for model-free reinforcement learning with improved exploration properties.", [[pdf](http://openreview.net/pdf?id=ryT4pvqll)]
 
 #### Mohammad Pezeshki
 * [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
@@ -2825,8 +2825,8 @@
 * [DeepRebirth: A General Approach for Accelerating Deep Neural Network Execution on Mobile Devices](http://openreview.net/forum?id=SkwSJ99ex), Dawei Li, Xiaolong Wang, Deguang Kong, Mooi Choo Chuah, "", [[pdf](http://openreview.net/pdf?id=SkwSJ99ex)]
 
 #### Moritz Hardt
-* [Identity Matters in Deep Learning](http://openreview.net/forum?id=ryxB0Rtxx), Moritz Hardt, Tengyu Ma, "Emerging theory explaining residual networks alongside new empirical progress", [[pdf](http://openreview.net/pdf?id=ryxB0Rtxx)]
 * [Understanding deep learning requires rethinking generalization](http://openreview.net/forum?id=Sy8gdB9xx), Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals, "Through extensive systematic experiments, we show how the traditional approaches fail to explain why large neural networks generalize well in practice, and why understanding deep learning requires rethinking generalization.", [[pdf](http://openreview.net/pdf?id=Sy8gdB9xx)]
+* [Identity Matters in Deep Learning](http://openreview.net/forum?id=ryxB0Rtxx), Moritz Hardt, Tengyu Ma, "Emerging theory explaining residual networks alongside new empirical progress", [[pdf](http://openreview.net/pdf?id=ryxB0Rtxx)]
 
 #### Moshe Looks
 * [Deep Learning with Dynamic Computation Graphs](http://openreview.net/forum?id=ryrGawqex), Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, Peter Norvig, "We make batching effective and easy to use for neural nets where every input may have a different shape (e.g. TreeRNNs).", [[pdf](http://openreview.net/pdf?id=ryrGawqex)]
@@ -2868,14 +2868,14 @@
 * [Statistical Analysis of Simulation Outputs from Parallel Computing](http://openreview.net/forum?id=Sk_JHmqxl), Chen Zhang, Nan Chen, "", [[pdf](http://openreview.net/pdf?id=Sk_JHmqxl)]
 
 #### Nan Rosemary Ke
-* [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
 * [The Variational Walkback Algorithm](http://openreview.net/forum?id=rkpdnIqlx), Anirudh Goyal, Nan Rosemary Ke, Alex Lamb, Yoshua Bengio, "A new algorithm for training undirected graphical models.", [[pdf](http://openreview.net/pdf?id=rkpdnIqlx)]
+* [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
 
 #### Nando de Freitas
-* [Learning to Perform Physics Experiments via Deep Reinforcement Learning](http://openreview.net/forum?id=r1nTpv9eg), Misha Denil, Pulkit Agrawal, Tejas D Kulkarni, Tom Erez, Peter Battaglia, Nando de Freitas, "We train agents to conduct experiments in interactive simulated physical environments.", [[pdf](http://openreview.net/pdf?id=r1nTpv9eg)]
+* [Generating Interpretable Images with Controllable Structure](http://openreview.net/forum?id=Hyvw0L9el), Scott Reed, Aäron van den Oord, Nal Kalchbrenner, Victor Bapst, Matt Botvinick, Nando de Freitas, "Autoregressive text-to-image synthesis with controllable spatial structure.", [[pdf](http://openreview.net/pdf?id=Hyvw0L9el)]
 * [LipNet: Sentence-level Lipreading](http://openreview.net/forum?id=BkjLkSqxg), Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, Nando de Freitas, "LipNet is the first lipreading model to operate at sentence-level, using a single end-to-end speaker-independent deep model to simultaneously learn spatiotemporal visual features and a sequence model.", [[pdf](http://openreview.net/pdf?id=BkjLkSqxg)]
 * [Sample Efficient Actor-Critic with  Experience Replay](http://openreview.net/forum?id=HyM25Mqel), Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas, "Prepared for ICLR 2017.", [[pdf](http://openreview.net/pdf?id=HyM25Mqel)]
-* [Generating Interpretable Images with Controllable Structure](http://openreview.net/forum?id=Hyvw0L9el), Scott Reed, Aäron van den Oord, Nal Kalchbrenner, Victor Bapst, Matt Botvinick, Nando de Freitas, "Autoregressive text-to-image synthesis with controllable spatial structure.", [[pdf](http://openreview.net/pdf?id=Hyvw0L9el)]
+* [Learning to Perform Physics Experiments via Deep Reinforcement Learning](http://openreview.net/forum?id=r1nTpv9eg), Misha Denil, Pulkit Agrawal, Tejas D Kulkarni, Tom Erez, Peter Battaglia, Nando de Freitas, "We train agents to conduct experiments in interactive simulated physical environments.", [[pdf](http://openreview.net/pdf?id=r1nTpv9eg)]
 
 #### Naruhiro Ikeda
 * [CAN AI GENERATE LOVE ADVICE?: TOWARD NEURAL ANSWER GENERATION FOR NON-FACTOID QUESTIONS](http://openreview.net/forum?id=ryQbbFile), Makoto Nakatsuji, Hisashi Ito, Naruhiro Ikeda, Shota Sahara, Akihisa Fujita, "", [[pdf](http://openreview.net/pdf?id=ryQbbFile)]
@@ -2919,24 +2919,24 @@
 * [Towards an automatic Turing test: Learning to evaluate dialogue responses](http://openreview.net/forum?id=HJ5PIaseg), Ryan Lowe, Michael Noseworthy, Iulian V. Serban, Nicolas Angelard-Gontier, Yoshua Bengio, Joelle Pineau, "We propose a model for evaluating dialogue responses that correlates significantly with human judgement at the utterance-level and system-level.", [[pdf](http://openreview.net/pdf?id=HJ5PIaseg)]
 
 #### Nicolas Ballas
+* [Recurrent Normalization Propagation](http://openreview.net/forum?id=r1GKzP5xx), César Laurent, Nicolas Ballas, Pascal Vincent, "Extension of Normalization Propagation to the LSTM.", [[pdf](http://openreview.net/pdf?id=r1GKzP5xx)]
 * [Recurrent Batch Normalization](http://openreview.net/forum?id=r1VdcHcxx), Tim Cooijmans, Nicolas Ballas, César Laurent, Çağlar Gülçehre, Aaron Courville, "Make batch normalization work in recurrent neural networks", [[pdf](http://openreview.net/pdf?id=r1VdcHcxx)]
 * [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
-* [Recurrent Normalization Propagation](http://openreview.net/forum?id=r1GKzP5xx), César Laurent, Nicolas Ballas, Pascal Vincent, "Extension of Normalization Propagation to the LSTM.", [[pdf](http://openreview.net/pdf?id=r1GKzP5xx)]
 
 #### Nicolas Heess
-* [Metacontrol for Adaptive Imagination-Based Optimization](http://openreview.net/forum?id=Bk8BvDqex), Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia, "We present a "metacontroller" neural architecture which can adaptively decide how long to run an model-based online optimization procedure for, and which models to use during the optimization.", [[pdf](http://openreview.net/pdf?id=Bk8BvDqex)]
 * [Sample Efficient Actor-Critic with  Experience Replay](http://openreview.net/forum?id=HyM25Mqel), Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas, "Prepared for ICLR 2017.", [[pdf](http://openreview.net/pdf?id=HyM25Mqel)]
+* [Metacontrol for Adaptive Imagination-Based Optimization](http://openreview.net/forum?id=Bk8BvDqex), Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia, "We present a "metacontroller" neural architecture which can adaptively decide how long to run an model-based online optimization procedure for, and which models to use during the optimization.", [[pdf](http://openreview.net/pdf?id=Bk8BvDqex)]
 
 #### Nicolas Le Roux
-* [Tighter bounds lead to improved classifiers](http://openreview.net/forum?id=HyAbMKwxe), Nicolas Le Roux, "", [[pdf](http://openreview.net/pdf?id=HyAbMKwxe)]
 * [Efficient iterative policy optimization](http://openreview.net/forum?id=SJ-uGHcee), Nicolas Le Roux, "", [[pdf](http://openreview.net/pdf?id=SJ-uGHcee)]
+* [Tighter bounds lead to improved classifiers](http://openreview.net/forum?id=HyAbMKwxe), Nicolas Le Roux, "", [[pdf](http://openreview.net/pdf?id=HyAbMKwxe)]
 
 #### Nicolas Papernot
 * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](http://openreview.net/forum?id=HkwoSDPgg), Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar, "Semi-supervised learning of a privacy-preserving student model with GANs by knowledge transfer from an ensemble of teachers trained on partitions of private data.", [[pdf](http://openreview.net/pdf?id=HkwoSDPgg)]
 
 #### Nicolas Usunier
-* [Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement](http://openreview.net/forum?id=r1LXit5ee), Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, Soumith Chintala, "We propose a new reinforcement learning algorithm based on zero order optimization, that we evaluate on StarCraft micromanagement scenarios.", [[pdf](http://openreview.net/pdf?id=r1LXit5ee)]
 * [Improving Neural Language Models with a Continuous Cache](http://openreview.net/forum?id=B184E5qee), Edouard Grave, Armand Joulin, Nicolas Usunier, "", [[pdf](http://openreview.net/pdf?id=B184E5qee)]
+* [Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement](http://openreview.net/forum?id=r1LXit5ee), Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, Soumith Chintala, "We propose a new reinforcement learning algorithm based on zero order optimization, that we evaluate on StarCraft micromanagement scenarios.", [[pdf](http://openreview.net/pdf?id=r1LXit5ee)]
 
 #### Nigel Duffy
 * [L-SR1: A Second Order Optimization Method for Deep Learning](http://openreview.net/forum?id=By1snw5gl), Vivek Ramamurthy, Nigel Duffy, "We describe L-SR1, a new second order method to train deep neural networks.", [[pdf](http://openreview.net/pdf?id=By1snw5gl)]
@@ -2984,8 +2984,8 @@
 * [Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](http://openreview.net/forum?id=BJh6Ztuxl), Yossi Adi, Einat Kermany, Yonatan Belinkov, Ofer Lavi, Yoav Goldberg, "A method for analyzing sentence embeddings on a fine-grained level using auxiliary prediction tasks", [[pdf](http://openreview.net/pdf?id=BJh6Ztuxl)]
 
 #### Ofir Nachum
-* [Improving Policy Gradient by Exploring Under-appreciated Rewards](http://openreview.net/forum?id=ryT4pvqll), Ofir Nachum, Mohammad Norouzi, Dale Schuurmans, "We present a novel form of policy gradient for model-free reinforcement learning with improved exploration properties.", [[pdf](http://openreview.net/pdf?id=ryT4pvqll)]
 * [Learning to Remember Rare Events](http://openreview.net/forum?id=SJTQLdqlg), Lukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio, "We introduce a memory module for life-long learning that adds one-shot learning capability to any supervised neural network.", [[pdf](http://openreview.net/pdf?id=SJTQLdqlg)]
+* [Improving Policy Gradient by Exploring Under-appreciated Rewards](http://openreview.net/forum?id=ryT4pvqll), Ofir Nachum, Mohammad Norouzi, Dale Schuurmans, "We present a novel form of policy gradient for model-free reinforcement learning with improved exploration properties.", [[pdf](http://openreview.net/pdf?id=ryT4pvqll)]
 
 #### Ofir Press
 * [Using the Output Embedding to Improve Language Models](http://openreview.net/forum?id=SyBin3sxg), Ofir Press, Lior Wolf, "", [[pdf](http://openreview.net/pdf?id=SyBin3sxg)]
@@ -3007,8 +3007,8 @@
 * [Tensorial Mixture Models](http://openreview.net/forum?id=BJluGHcee), Or Sharir, Ronen Tamari, Nadav Cohen, Amnon Shashua, "A generative model realized through convolutional networks, which has the unique property of having both tractable inference and marginalization, showing state-of-the-art results on classification with missing data.", [[pdf](http://openreview.net/pdf?id=BJluGHcee)]
 
 #### Oriol Vinyals
-* [Metacontrol for Adaptive Imagination-Based Optimization](http://openreview.net/forum?id=Bk8BvDqex), Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia, "We present a "metacontroller" neural architecture which can adaptively decide how long to run an model-based online optimization procedure for, and which models to use during the optimization.", [[pdf](http://openreview.net/pdf?id=Bk8BvDqex)]
 * [Understanding deep learning requires rethinking generalization](http://openreview.net/forum?id=Sy8gdB9xx), Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals, "Through extensive systematic experiments, we show how the traditional approaches fail to explain why large neural networks generalize well in practice, and why understanding deep learning requires rethinking generalization.", [[pdf](http://openreview.net/pdf?id=Sy8gdB9xx)]
+* [Metacontrol for Adaptive Imagination-Based Optimization](http://openreview.net/forum?id=Bk8BvDqex), Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia, "We present a "metacontroller" neural architecture which can adaptively decide how long to run an model-based online optimization procedure for, and which models to use during the optimization.", [[pdf](http://openreview.net/pdf?id=Bk8BvDqex)]
 * [Tree-Structured Variational Autoencoder](http://openreview.net/forum?id=Hy0L4t5el), Richard Shin, Alexander A. Alemi, Geoffrey Irving, Oriol Vinyals, "", [[pdf](http://openreview.net/pdf?id=Hy0L4t5el)]
 
 #### Otkrist Gupta
@@ -3041,13 +3041,13 @@
 * [Knowledge Adaptation: Teaching to Adapt](http://openreview.net/forum?id=rJRhzzKxl), Sebastian Ruder, Parsa Ghaffari, John G. Breslin, "We propose a teacher-student framework for domain adaptation together with a novel confidence measure that achieves state-of-the-art results on single-source and multi-source adaptation on a standard sentiment analysis benchmark.", [[pdf](http://openreview.net/pdf?id=rJRhzzKxl)]
 
 #### Pascal Poupart
-* [Online Structure Learning for Sum-Product Networks](http://openreview.net/forum?id=S1QefL5ge), Wilson Hsu, Agastya Kalra, Pascal Poupart, "This paper describes the first online structure learning technique for continuous SPNs with Gaussian leaves.", [[pdf](http://openreview.net/pdf?id=S1QefL5ge)]
 * [Online Bayesian Transfer Learning for Sequential Data Modeling](http://openreview.net/forum?id=ByqiJIqxg), Priyank Jaini, Zhitang Chen, Pablo Carbajal, Edith Law, Laura Middleton, Kayla Regan, Mike Schaekermann, James Tung, Pascal Poupart, "", [[pdf](http://openreview.net/pdf?id=ByqiJIqxg)]
+* [Online Structure Learning for Sum-Product Networks](http://openreview.net/forum?id=S1QefL5ge), Wilson Hsu, Agastya Kalra, Pascal Poupart, "This paper describes the first online structure learning technique for continuous SPNs with Gaussian leaves.", [[pdf](http://openreview.net/pdf?id=S1QefL5ge)]
 
 #### Pascal Vincent
-* [Hierarchical Memory Networks](http://openreview.net/forum?id=BJ0Ee8cxx), Sarath Chandar, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, Yoshua Bengio, "We propose a hierarchical memory organization strategy for efficient memory access in memory networks with large memory.", [[pdf](http://openreview.net/pdf?id=BJ0Ee8cxx)]
 * [Learning to Generate Samples from Noise through Infusion Training](http://openreview.net/forum?id=BJAFbaolg), Florian Bordes, Sina Honari, Pascal Vincent, "We learn a markov transition operator acting on inputspace, to denoise random noise into a target distribution. We use a novel target injection technique to guide the training.", [[pdf](http://openreview.net/pdf?id=BJAFbaolg)]
 * [Recurrent Normalization Propagation](http://openreview.net/forum?id=r1GKzP5xx), César Laurent, Nicolas Ballas, Pascal Vincent, "Extension of Normalization Propagation to the LSTM.", [[pdf](http://openreview.net/pdf?id=r1GKzP5xx)]
+* [Hierarchical Memory Networks](http://openreview.net/forum?id=BJ0Ee8cxx), Sarath Chandar, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, Yoshua Bengio, "We propose a hierarchical memory organization strategy for efficient memory access in memory networks with large memory.", [[pdf](http://openreview.net/pdf?id=BJ0Ee8cxx)]
 
 #### Patrick Gallinari
 * [Modelling Relational Time Series using Gaussian Embeddings](http://openreview.net/forum?id=HJ7O61Yxe), Ludovic Dos Santos, Ali Ziat, Ludovic Denoyer, Benjamin Piwowarski, Patrick Gallinari, "We learn latent gaussian distributions for modelling correlated series.", [[pdf](http://openreview.net/pdf?id=HJ7O61Yxe)]
@@ -3093,8 +3093,8 @@
 * [Deep Error-Correcting Output Codes](http://openreview.net/forum?id=Hkz6aNqle), Guoqiang Zhong, Yuchen Zheng, Peng Zhang, Mengqi Li, Junyu Dong, "", [[pdf](http://openreview.net/pdf?id=Hkz6aNqle)]
 
 #### Peter Battaglia
-* [Learning to Perform Physics Experiments via Deep Reinforcement Learning](http://openreview.net/forum?id=r1nTpv9eg), Misha Denil, Pulkit Agrawal, Tejas D Kulkarni, Tom Erez, Peter Battaglia, Nando de Freitas, "We train agents to conduct experiments in interactive simulated physical environments.", [[pdf](http://openreview.net/pdf?id=r1nTpv9eg)]
 * [Discovering objects and their relations from entangled scene representations](http://openreview.net/forum?id=Bk2TqVcxe), David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, Peter Battaglia, "", [[pdf](http://openreview.net/pdf?id=Bk2TqVcxe)]
+* [Learning to Perform Physics Experiments via Deep Reinforcement Learning](http://openreview.net/forum?id=r1nTpv9eg), Misha Denil, Pulkit Agrawal, Tejas D Kulkarni, Tom Erez, Peter Battaglia, Nando de Freitas, "We train agents to conduct experiments in interactive simulated physical environments.", [[pdf](http://openreview.net/pdf?id=r1nTpv9eg)]
 
 #### Peter Hrincar
 * [Finding a Jack-of-All-Trades: An Examination of Semi-supervised Learning in Reading Comprehension](http://openreview.net/forum?id=rJM69B5xx), Rudolf Kadlec, Ondřej Bajgar, Peter Hrincar, Jan Kleindienst, "We examine effect of transfer learning in AS Reader model from two source domains (CNN/DM and BookTest) to two target domains (bAbI and SQuAD).", [[pdf](http://openreview.net/pdf?id=rJM69B5xx)]
@@ -3121,24 +3121,24 @@
 * [Metacontrol for Adaptive Imagination-Based Optimization](http://openreview.net/forum?id=Bk8BvDqex), Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia, "We present a "metacontroller" neural architecture which can adaptively decide how long to run an model-based online optimization procedure for, and which models to use during the optimization.", [[pdf](http://openreview.net/pdf?id=Bk8BvDqex)]
 
 #### Phil Blunsom
-* [Learning to Compose Words into Sentences with Reinforcement Learning](http://openreview.net/forum?id=Skvgqgqxe), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling, "", [[pdf](http://openreview.net/pdf?id=Skvgqgqxe)]
 * [Reference-Aware Language Models](http://openreview.net/forum?id=ByG8A7cee), Zichao Yang, Phil Blunsom, Chris Dyer, Wang Ling, "reference-aware language models", [[pdf](http://openreview.net/pdf?id=ByG8A7cee)]
 * [The Neural Noisy Channel](http://openreview.net/forum?id=SJ25-B5eg), Lei Yu, Phil Blunsom, Chris Dyer, Edward Grefenstette, Tomas Kocisky, "We formulate sequence to sequence transduction as a noisy channel decoding  problem and use recurrent neural networks to parameterise the source and channel  models.", [[pdf](http://openreview.net/pdf?id=SJ25-B5eg)]
+* [Learning to Compose Words into Sentences with Reinforcement Learning](http://openreview.net/forum?id=Skvgqgqxe), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling, "", [[pdf](http://openreview.net/pdf?id=Skvgqgqxe)]
 
 #### Philemon Brakel
 * [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
 
 #### Philip Bachman
+* [NEWSQA: A MACHINE COMPREHENSION DATASET](http://openreview.net/forum?id=ry3iBFqgl), Adam Trischler, Tong Wang, Xingdi Yuan, Justin Harris, Alessandro Sordoni, Philip Bachman, Kaheer Suleman, "Crowdsourced QA dataset with natural language questions and multi-word answers", [[pdf](http://openreview.net/pdf?id=ry3iBFqgl)]
 * [Calibrating Energy-based Generative Adversarial Networks](http://openreview.net/forum?id=SyxeqhP9ll), Zihang Dai, Amjad Almahairi, Philip Bachman, Eduard Hovy, Aaron Courville, "", [[pdf](http://openreview.net/pdf?id=SyxeqhP9ll)]
 * [Towards Information-Seeking Agents](http://openreview.net/forum?id=SyW2QSige), Philip Bachman, Alessandro Sordoni, Adam Trischler, "We investigate the behavior of models trained to answer questions by asking sequences of simple questions.", [[pdf](http://openreview.net/pdf?id=SyW2QSige)]
-* [NEWSQA: A MACHINE COMPREHENSION DATASET](http://openreview.net/forum?id=ry3iBFqgl), Adam Trischler, Tong Wang, Xingdi Yuan, Justin Harris, Alessandro Sordoni, Philip Bachman, Kaheer Suleman, "Crowdsourced QA dataset with natural language questions and multi-word answers", [[pdf](http://openreview.net/pdf?id=ry3iBFqgl)]
 
 #### Philip Blair
 * [Automated Generation of Multilingual Clusters for the Evaluation of Distributed Representations](http://openreview.net/forum?id=SkuqA_cgx), Philip Blair, Yuval Merhav, Joel Barry, "Applying simple heuristics to the Wikidata entity graph results in a high-quality semantic similarity dataset.", [[pdf](http://openreview.net/pdf?id=SkuqA_cgx)]
 
 #### Philip H.S. Torr
-* [Learning to superoptimize programs](http://openreview.net/forum?id=r1rz6U5lg), Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=r1rz6U5lg)]
 * [Structured Interpretation of Deep Generative Models](http://openreview.net/forum?id=HJtN5K9gx), N. Siddharth, Brooks Paige, Alban Desmaison, Jan-Willem van de Meent, Frank Wood, Noah D. Goodman, Pushmeet Kohli, Philip H.S. Torr, "", [[pdf](http://openreview.net/pdf?id=HJtN5K9gx)]
+* [Learning to superoptimize programs](http://openreview.net/forum?id=r1rz6U5lg), Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=r1rz6U5lg)]
 
 #### Philipp Krähenbühl
 * [Adversarial Feature Learning](http://openreview.net/forum?id=BJtNZAFgg), Jeff Donahue, Philipp Krähenbühl, Trevor Darrell, "", [[pdf](http://openreview.net/pdf?id=BJtNZAFgg)]
@@ -3156,15 +3156,15 @@
 * [Structured Sequence Modeling with Graph Convolutional Recurrent Networks](http://openreview.net/forum?id=S19eAF9ee), Youngjoo Seo, Michaël Defferrard, Pierre Vandergheynst, Xavier Bresson, "This paper introduces a neural network to model graph-structured sequences", [[pdf](http://openreview.net/pdf?id=S19eAF9ee)]
 
 #### Pieter Abbeel
-* [Stochastic Neural Networks for Hierarchical Reinforcement Learning](http://openreview.net/forum?id=B1oK8aoxe), Carlos Florensa, Yan Duan, Pieter Abbeel, "We propose a framework for learning a diverse set of skills using stochastic neural networks with minimum supervision, and utilize these skills in a hierarchical architecture to solve challenging tasks with sparse rewards", [[pdf](http://openreview.net/pdf?id=B1oK8aoxe)]
-* [Rotation Plane Doubly Orthogonal Recurrent Neural Networks](http://openreview.net/forum?id=ry_4vpixl), Zoe McCarthy, Andrew Bai, Xi Chen, Pieter Abbeel, "Recurrent equation for RNNs that uses the composition of two orthogonal transitions, one time invariant and one modulated by input, that doesn't suffer from vanishing or exploding gradients.", [[pdf](http://openreview.net/pdf?id=ry_4vpixl)]
 * [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](http://openreview.net/forum?id=SyOvg6jxx), Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, Pieter Abbeel, "We improve exploration in deep reinforcement learning by simply hashing states and assigning bonus rewards according to state counts.", [[pdf](http://openreview.net/pdf?id=SyOvg6jxx)]
-* [Third Person Imitation Learning](http://openreview.net/forum?id=B16dGcqlx), Bradly C Stadie, Pieter Abbeel, Ilya Sutskever, "No", [[pdf](http://openreview.net/pdf?id=B16dGcqlx)]
-* [Generalizing Skills with Semi-Supervised Reinforcement Learning](http://openreview.net/forum?id=ryHlUtqge), Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine, "We propose an algorithm for generalizing a deep neural network policy using "unlabeled" experience collected in MDPs where rewards are not available.", [[pdf](http://openreview.net/pdf?id=ryHlUtqge)]
-* [Learning Visual Servoing with Deep Features and Trust Region Fitted Q-Iteration](http://openreview.net/forum?id=r1YNw6sxg), Alex X. Lee, Sergey Levine, Pieter Abbeel, "We use deep semantic features, learned predictive dynamics, and reinforcement learning to efficiently learn a visual servoing policy that is robust to visual variations.", [[pdf](http://openreview.net/pdf?id=r1YNw6sxg)]
-* [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
 * [Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning](http://openreview.net/forum?id=Hyq4yhile), Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine, "Learning a common feature space between robots with different morphology or actuation to transfer skills.", [[pdf](http://openreview.net/pdf?id=Hyq4yhile)]
+* [Stochastic Neural Networks for Hierarchical Reinforcement Learning](http://openreview.net/forum?id=B1oK8aoxe), Carlos Florensa, Yan Duan, Pieter Abbeel, "We propose a framework for learning a diverse set of skills using stochastic neural networks with minimum supervision, and utilize these skills in a hierarchical architecture to solve challenging tasks with sparse rewards", [[pdf](http://openreview.net/pdf?id=B1oK8aoxe)]
+* [Third Person Imitation Learning](http://openreview.net/forum?id=B16dGcqlx), Bradly C Stadie, Pieter Abbeel, Ilya Sutskever, "No", [[pdf](http://openreview.net/pdf?id=B16dGcqlx)]
 * [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](http://openreview.net/forum?id=HkLXCE9lx), Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel, "We propose to learn a “fast” reinforcement learning algorithm using standard, off-the-shelf (“slow”) reinforcement learning algorithms, where the “fast” version is represented as an RNN, and fast RL happens inside its activations.", [[pdf](http://openreview.net/pdf?id=HkLXCE9lx)]
+* [Rotation Plane Doubly Orthogonal Recurrent Neural Networks](http://openreview.net/forum?id=ry_4vpixl), Zoe McCarthy, Andrew Bai, Xi Chen, Pieter Abbeel, "Recurrent equation for RNNs that uses the composition of two orthogonal transitions, one time invariant and one modulated by input, that doesn't suffer from vanishing or exploding gradients.", [[pdf](http://openreview.net/pdf?id=ry_4vpixl)]
+* [Learning Visual Servoing with Deep Features and Trust Region Fitted Q-Iteration](http://openreview.net/forum?id=r1YNw6sxg), Alex X. Lee, Sergey Levine, Pieter Abbeel, "We use deep semantic features, learned predictive dynamics, and reinforcement learning to efficiently learn a visual servoing policy that is robust to visual variations.", [[pdf](http://openreview.net/pdf?id=r1YNw6sxg)]
+* [Generalizing Skills with Semi-Supervised Reinforcement Learning](http://openreview.net/forum?id=ryHlUtqge), Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine, "We propose an algorithm for generalizing a deep neural network policy using "unlabeled" experience collected in MDPs where rewards are not available.", [[pdf](http://openreview.net/pdf?id=ryHlUtqge)]
+* [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
 
 #### Pietro Perona
 * [Learning recurrent representations for hierarchical behavior modeling](http://openreview.net/forum?id=BkLhzHtlg), Eyrun Eyjolfsdottir, Kristin Branson, Yisong Yue, Pietro Perona, "", [[pdf](http://openreview.net/pdf?id=BkLhzHtlg)]
@@ -3222,19 +3222,19 @@
 * [Locally Connected Convolutional Neural Networks on Graph-Structured Data](http://openreview.net/forum?id=BkIqod5ll), Yotam Hechtlinger, Purvasha Chakravarti, Jining Qin, "A generalization of CNNs to standard regression and classification problems by using random walk on graph-structure of data.", [[pdf](http://openreview.net/pdf?id=BkIqod5ll)]
 
 #### Pushmeet Kohli
-* [Learning Continuous Semantic Representations of Symbolic Expressions](http://openreview.net/forum?id=B1vRTeqxg), Miltiadis Allamanis, Pankajan Chanthirasegaran, Pushmeet Kohli, Charles Sutton, "Assign continuous vectors to logical and algebraic symbolic expressions in such a way that semantically equivalent, but syntactically diverse expressions are assigned to identical (or highly similar) continuous vectors.", [[pdf](http://openreview.net/pdf?id=B1vRTeqxg)]
-* [Support Regularized Sparse Coding and Its Fast Encoder](http://openreview.net/forum?id=HkljfjFee), Yingzhen Yang, Jiahui Yu, Pushmeet Kohli, Jianchao Yang, Thomas S. Huang, "We present Support Regularized Sparse Coding (SRSC) to improve the regular sparse coding, and propose a feed-forward neural network termed Deep Support Regularized Sparse Coding (Deep-SRSC) as its fast encoder.", [[pdf](http://openreview.net/pdf?id=HkljfjFee)]
+* [Communicating Hierarchical Neural Controllers for Learning Zero-shot Task Generalization](http://openreview.net/forum?id=SJttqw5ge), Junhyuk Oh, Satinder Singh, Honglak Lee, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=SJttqw5ge)]
 * [Memory-augmented Attention Modelling for Videos](http://openreview.net/forum?id=SkJeEtclx), Rasool Fakoor, Abdel-rahman Mohamed, Margaret Mitchell, Sing Bing Kang, Pushmeet Kohli, "We propose a novel memory-based attention model for video description", [[pdf](http://openreview.net/pdf?id=SkJeEtclx)]
+* [Learning Continuous Semantic Representations of Symbolic Expressions](http://openreview.net/forum?id=B1vRTeqxg), Miltiadis Allamanis, Pankajan Chanthirasegaran, Pushmeet Kohli, Charles Sutton, "Assign continuous vectors to logical and algebraic symbolic expressions in such a way that semantically equivalent, but syntactically diverse expressions are assigned to identical (or highly similar) continuous vectors.", [[pdf](http://openreview.net/pdf?id=B1vRTeqxg)]
+* [Structured Interpretation of Deep Generative Models](http://openreview.net/forum?id=HJtN5K9gx), N. Siddharth, Brooks Paige, Alban Desmaison, Jan-Willem van de Meent, Frank Wood, Noah D. Goodman, Pushmeet Kohli, Philip H.S. Torr, "", [[pdf](http://openreview.net/pdf?id=HJtN5K9gx)]
 * [Neuro-Symbolic Program Synthesis](http://openreview.net/forum?id=rJ0JwFcex), Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli, "A neural architecture for learning programs in a domain-specific language that are consistent with a given set of input-output examples", [[pdf](http://openreview.net/pdf?id=rJ0JwFcex)]
 * [Learning to superoptimize programs](http://openreview.net/forum?id=r1rz6U5lg), Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=r1rz6U5lg)]
-* [Structured Interpretation of Deep Generative Models](http://openreview.net/forum?id=HJtN5K9gx), N. Siddharth, Brooks Paige, Alban Desmaison, Jan-Willem van de Meent, Frank Wood, Noah D. Goodman, Pushmeet Kohli, Philip H.S. Torr, "", [[pdf](http://openreview.net/pdf?id=HJtN5K9gx)]
-* [Communicating Hierarchical Neural Controllers for Learning Zero-shot Task Generalization](http://openreview.net/forum?id=SJttqw5ge), Junhyuk Oh, Satinder Singh, Honglak Lee, Pushmeet Kohli, "", [[pdf](http://openreview.net/pdf?id=SJttqw5ge)]
+* [Support Regularized Sparse Coding and Its Fast Encoder](http://openreview.net/forum?id=HkljfjFee), Yingzhen Yang, Jiahui Yu, Pushmeet Kohli, Jianchao Yang, Thomas S. Huang, "We present Support Regularized Sparse Coding (SRSC) to improve the regular sparse coding, and propose a feed-forward neural network termed Deep Support Regularized Sparse Coding (Deep-SRSC) as its fast encoder.", [[pdf](http://openreview.net/pdf?id=HkljfjFee)]
 
 ### Q
 
 #### Qiang Liu
-* [Two Methods for Wild Variational Inference](http://openreview.net/forum?id=Sy4tzwqxe), Yihao Feng, Dilin Wang, Qiang Liu, "", [[pdf](http://openreview.net/pdf?id=Sy4tzwqxe)]
 * [Learning to Draw Samples: With Application to Amortized MLE for Generative Adversarial Learning](http://openreview.net/forum?id=H1oRQDqlg), Dilin Wang, Qiang Liu, "", [[pdf](http://openreview.net/pdf?id=H1oRQDqlg)]
+* [Two Methods for Wild Variational Inference](http://openreview.net/forum?id=Sy4tzwqxe), Yihao Feng, Dilin Wang, Qiang Liu, "", [[pdf](http://openreview.net/pdf?id=Sy4tzwqxe)]
 
 #### Qing Sun
 * [Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models](http://openreview.net/forum?id=HJV1zP5xg), Ashwin K Vijayakumar, Michael Cogswell, Ramprasaath R. Selvaraju, Qing Sun, Stefan Lee, David Crandall, Dhruv Batra, "We introduce a novel, diversity promoting beam search algorithm that results in significantly improved diversity between decoded sequences as evaluated on multiple sequence generation tasks.", [[pdf](http://openreview.net/pdf?id=HJV1zP5xg)]
@@ -3249,16 +3249,16 @@
 * [Unsupervised Program Induction with Hierarchical Generative Convolutional Neural Networks](http://openreview.net/forum?id=r1ryLtqgl), Qucheng Gong, Yuandong Tian, C. Lawrence Zitnick, "We propose a hierarchical generative convolutional model to create executable programs from input/output pairs, trained with a randomly generated codebase.", [[pdf](http://openreview.net/pdf?id=r1ryLtqgl)]
 
 #### Quoc Le
+* [Neural Architecture Search with Reinforcement Learning](http://openreview.net/forum?id=r1Ue8Hcxg), Barret Zoph, Quoc Le, "", [[pdf](http://openreview.net/pdf?id=r1Ue8Hcxg)]
 * [Latent Sequence Decompositions](http://openreview.net/forum?id=SyQq185lg), William Chan, Yu Zhang, Quoc Le, Navdeep Jaitly, "", [[pdf](http://openreview.net/pdf?id=SyQq185lg)]
 * [ Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](http://openreview.net/forum?id=B1ckMDqlg), Noam Shazeer, *Azalia Mirhoseini, *Krzysztof Maziarz, Andy Davis, Quoc Le, Jeff Dean, "", [[pdf](http://openreview.net/pdf?id=B1ckMDqlg)]
-* [Neural Architecture Search with Reinforcement Learning](http://openreview.net/forum?id=r1Ue8Hcxg), Barret Zoph, Quoc Le, "", [[pdf](http://openreview.net/pdf?id=r1Ue8Hcxg)]
 
 #### Quoc V. Le
-* [HyperNetworks](http://openreview.net/forum?id=rkpACe1lx), David Ha, Andrew Dai, Quoc V. Le, "We train a small network to generate weights for a larger network, and train the system end-to-end.  We apply this approach on both CNN and RNN architectures and obtain near state-of-the-art performance.", [[pdf](http://openreview.net/pdf?id=rkpACe1lx)]
 * [Unsupervised Pretraining for Sequence to Sequence Learning](http://openreview.net/forum?id=H1Gq5Q9el), Prajit Ramachandran, Peter J. Liu, Quoc V. Le, "Pretraining seq2seq models gives large gains in both generalization and optimization on a variety of tasks.", [[pdf](http://openreview.net/pdf?id=H1Gq5Q9el)]
+* [LEARNING A NATURAL LANGUAGE INTERFACE WITH NEURAL PROGRAMMER](http://openreview.net/forum?id=ry2YOrcge), Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, Dario Amodei, "To our knowledge, this paper presents the first weakly supervised, end-to-end neural network model to induce programs on a real-world  dataset.", [[pdf](http://openreview.net/pdf?id=ry2YOrcge)]
 * [Adding Gradient Noise Improves Learning for Very Deep Networks](http://openreview.net/forum?id=rkjZ2Pcxe), Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Lukasz Kaiser, Karol Kurach, Ilya Sutskever, James Martens, "Adding annealed Gaussian noise to the gradient improves training of neural networks in ways complementary to adaptive learning algorithms and the noise introduced by SGD.", [[pdf](http://openreview.net/pdf?id=rkjZ2Pcxe)]
 * [Neural Combinatorial Optimization](http://openreview.net/forum?id=rJY3vK9eg), Irwan Bello*, Hieu Pham*, Quoc V. Le, Mohammad Norouzi, Samy Bengio, "This paper presents a framework to tackle combinatorial optimization problems using neural networks and reinforcement learning.", [[pdf](http://openreview.net/pdf?id=rJY3vK9eg)]
-* [LEARNING A NATURAL LANGUAGE INTERFACE WITH NEURAL PROGRAMMER](http://openreview.net/forum?id=ry2YOrcge), Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, Dario Amodei, "To our knowledge, this paper presents the first weakly supervised, end-to-end neural network model to induce programs on a real-world  dataset.", [[pdf](http://openreview.net/pdf?id=ry2YOrcge)]
+* [HyperNetworks](http://openreview.net/forum?id=rkpACe1lx), David Ha, Andrew Dai, Quoc V. Le, "We train a small network to generate weights for a larger network, and train the system end-to-end.  We apply this approach on both CNN and RNN architectures and obtain near state-of-the-art performance.", [[pdf](http://openreview.net/pdf?id=rkpACe1lx)]
 
 ### R
 
@@ -3306,9 +3306,9 @@
 * [MS MARCO: A Human-Generated MAchine Reading COmprehension Dataset](http://openreview.net/forum?id=Hk1iOLcle), Tri Nguyen, Mir Rosenberg, Xia Song, Jianfeng Gao, Saurabh Tiwary, Rangan Majumder and Li Deng, "A large scale human annotated data set for web-based reading comprehension along with baselines.", [[pdf](http://openreview.net/pdf?id=Hk1iOLcle)]
 
 #### Raquel Urtasun
-* [Efficient Summarization with Read-Again and Copy Mechanism](http://openreview.net/forum?id=HJPmdP9le), Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun, "", [[pdf](http://openreview.net/pdf?id=HJPmdP9le)]
 * [Song From PI: A Musically Plausible Network for Pop Music Generation](http://openreview.net/forum?id=ByBwSPcex), Hang Chu, Raquel Urtasun, Sanja Fidler, "We present a novel hierarchical RNN for generating pop music, where the layers and the structure of the hierarchy encode our prior knowledge about how pop music is composed.", [[pdf](http://openreview.net/pdf?id=ByBwSPcex)]
 * [Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes](http://openreview.net/forum?id=rk5upnsxe), Mengye Ren, Renjie Liao, Raquel Urtasun, Fabian H. Sinz, Richard S. Zemel, "", [[pdf](http://openreview.net/pdf?id=rk5upnsxe)]
+* [Efficient Summarization with Read-Again and Copy Mechanism](http://openreview.net/forum?id=HJPmdP9le), Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun, "", [[pdf](http://openreview.net/pdf?id=HJPmdP9le)]
 
 #### Rasool Fakoor
 * [Memory-augmented Attention Modelling for Videos](http://openreview.net/forum?id=SkJeEtclx), Rasool Fakoor, Abdel-rahman Mohamed, Margaret Mitchell, Sing Bing Kang, Pushmeet Kohli, "We propose a novel memory-based attention model for video description", [[pdf](http://openreview.net/pdf?id=SkJeEtclx)]
@@ -3323,17 +3323,17 @@
 * [Generating Long and Diverse Responses with Neural Conversation Models](http://openreview.net/forum?id=HJDdiT9gl), Louis Shao, Stephan Gouws, Denny Britz, Anna Goldie, Brian Strope, Ray Kurzweil, "We generate high quality and informative open-domain conversation responses using seq2seq model with target-side attention and stochastic beam search with segment-by-segment reranking. ", [[pdf](http://openreview.net/pdf?id=HJDdiT9gl)]
 
 #### Razvan Pascanu
-* [Metacontrol for Adaptive Imagination-Based Optimization](http://openreview.net/forum?id=Bk8BvDqex), Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia, "We present a "metacontroller" neural architecture which can adaptively decide how long to run an model-based online optimization procedure for, and which models to use during the optimization.", [[pdf](http://openreview.net/pdf?id=Bk8BvDqex)]
-* [Local minima in training of deep networks](http://openreview.net/forum?id=Syoiqwcxx), Grzegorz Swirszcz, Wojciech Marian Czarnecki, Razvan Pascanu, "As a contribution to the discussion about error surface and the question why "deep and cheap" learning works so well we present concrete examples of local minima and obstacles arising in the training of deep models.", [[pdf](http://openreview.net/pdf?id=Syoiqwcxx)]
-* [Learning to Navigate in Complex Environments](http://openreview.net/forum?id=SJMGPrcle), Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, Raia Hadsell, "We proposed a deep RL method, augmented with memory and auxiliary learning targets, for training agents to navigate within large and visually rich environments that include frequently changing start and goal locations", [[pdf](http://openreview.net/pdf?id=SJMGPrcle)]
 * [Discovering objects and their relations from entangled scene representations](http://openreview.net/forum?id=Bk2TqVcxe), David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, Peter Battaglia, "", [[pdf](http://openreview.net/pdf?id=Bk2TqVcxe)]
+* [Local minima in training of deep networks](http://openreview.net/forum?id=Syoiqwcxx), Grzegorz Swirszcz, Wojciech Marian Czarnecki, Razvan Pascanu, "As a contribution to the discussion about error surface and the question why "deep and cheap" learning works so well we present concrete examples of local minima and obstacles arising in the training of deep models.", [[pdf](http://openreview.net/pdf?id=Syoiqwcxx)]
+* [Metacontrol for Adaptive Imagination-Based Optimization](http://openreview.net/forum?id=Bk8BvDqex), Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia, "We present a "metacontroller" neural architecture which can adaptively decide how long to run an model-based online optimization procedure for, and which models to use during the optimization.", [[pdf](http://openreview.net/pdf?id=Bk8BvDqex)]
+* [Learning to Navigate in Complex Environments](http://openreview.net/forum?id=SJMGPrcle), Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran, Raia Hadsell, "We proposed a deep RL method, augmented with memory and auxiliary learning targets, for training agents to navigate within large and visually rich environments that include frequently changing start and goal locations", [[pdf](http://openreview.net/pdf?id=SJMGPrcle)]
 
 #### Rein Houthooft
 * [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](http://openreview.net/forum?id=SyOvg6jxx), Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, Pieter Abbeel, "We improve exploration in deep reinforcement learning by simply hashing states and assigning bonus rewards according to state counts.", [[pdf](http://openreview.net/pdf?id=SyOvg6jxx)]
 
 #### Remi Munos
-* [PGQ: Combining policy gradient and Q-learning](http://openreview.net/forum?id=B1kJ6H9ex), Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih, "We combine a policy gradient style update with a Q-learning style update into a single RL algorithm we call PGQ.", [[pdf](http://openreview.net/pdf?id=B1kJ6H9ex)]
 * [Sample Efficient Actor-Critic with  Experience Replay](http://openreview.net/forum?id=HyM25Mqel), Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas, "Prepared for ICLR 2017.", [[pdf](http://openreview.net/pdf?id=HyM25Mqel)]
+* [PGQ: Combining policy gradient and Q-learning](http://openreview.net/forum?id=B1kJ6H9ex), Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih, "We combine a policy gradient style update with a Q-learning style update into a single RL algorithm we call PGQ.", [[pdf](http://openreview.net/pdf?id=B1kJ6H9ex)]
 
 #### Renjie Liao
 * [Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes](http://openreview.net/forum?id=rk5upnsxe), Mengye Ren, Renjie Liao, Raquel Urtasun, Fabian H. Sinz, Richard S. Zemel, "", [[pdf](http://openreview.net/pdf?id=rk5upnsxe)]
@@ -3342,8 +3342,8 @@
 * [Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](http://openreview.net/forum?id=r10FA8Kxg), Gregor Urban, Krzysztof J. Geras, Samira Ebrahimi Kahou, Ozlem Aslan, Shengjie Wang, Abdelrahman Mohamed, Matthai Philipose, Matt Richardson, Rich Caruana, "This paper provides the first empirical demonstration that deep convolutional models really need to be both deep and convolutional, even when trained with model distillation and heavy hyperparameter optimization.", [[pdf](http://openreview.net/pdf?id=r10FA8Kxg)]
 
 #### Richard E. Turner
-* [Tuning Recurrent Neural Networks with Reinforcement Learning](http://openreview.net/forum?id=BJ8fyHceg), Natasha Jaques, Shixiang Gu, Richard E. Turner, Douglas Eck, "RL Tuner is a method for refining an LSTM trained on data by using RL to impose desired behaviors, while maintaining good predictive properties learned from data.", [[pdf](http://openreview.net/pdf?id=BJ8fyHceg)]
 * [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](http://openreview.net/forum?id=SJ3rcZcxl), Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine, "We propose Q-Prop, a novel policy gradient method with an off-policy critic as control variate, that is more sample efficient than TRPO-GAE and more stable than DDPG, the state-of-the-art on-policy and off-policy methods.", [[pdf](http://openreview.net/pdf?id=SJ3rcZcxl)]
+* [Tuning Recurrent Neural Networks with Reinforcement Learning](http://openreview.net/forum?id=BJ8fyHceg), Natasha Jaques, Shixiang Gu, Richard E. Turner, Douglas Eck, "RL Tuner is a method for refining an LSTM trained on data by using RL to impose desired behaviors, while maintaining good predictive properties learned from data.", [[pdf](http://openreview.net/pdf?id=BJ8fyHceg)]
 
 #### Richard Goodwin
 * [Representation Stability as a Regularizer for Neural Network Transfer Learning](http://openreview.net/forum?id=HyenWc5gx), Matthew Riemer, Elham Khabiri, Richard Goodwin, "We propose a novel general purpose regularizer to address catastrophic forgetting in neural network sequential transfer learning.", [[pdf](http://openreview.net/pdf?id=HyenWc5gx)]
@@ -3355,16 +3355,16 @@
 * [Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes](http://openreview.net/forum?id=rk5upnsxe), Mengye Ren, Renjie Liao, Raquel Urtasun, Fabian H. Sinz, Richard S. Zemel, "", [[pdf](http://openreview.net/pdf?id=rk5upnsxe)]
 
 #### Richard Shin
+* [Making Neural Programming Architectures Generalize via Recursion](http://openreview.net/forum?id=BkbY4psgg), Jonathon Cai, Richard Shin, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=BkbY4psgg)]
 * [Neural Code Completion](http://openreview.net/forum?id=rJbPBt9lg), Xin Wang, Chang Liu, Richard Shin, Joseph E. Gonzalez, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=rJbPBt9lg)]
 * [Tree-Structured Variational Autoencoder](http://openreview.net/forum?id=Hy0L4t5el), Richard Shin, Alexander A. Alemi, Geoffrey Irving, Oriol Vinyals, "", [[pdf](http://openreview.net/pdf?id=Hy0L4t5el)]
-* [Making Neural Programming Architectures Generalize via Recursion](http://openreview.net/forum?id=BkbY4psgg), Jonathon Cai, Richard Shin, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=BkbY4psgg)]
 
 #### Richard Socher
-* [Dynamic Coattention Networks For Question Answering](http://openreview.net/forum?id=rJeKjwvclx), Caiming Xiong, Victor Zhong, Richard Socher, "An end-to-end dynamic neural network model for question answering that achieves the state of the art and best leaderboard performance on the Stanford QA dataset.", [[pdf](http://openreview.net/pdf?id=rJeKjwvclx)]
-* [Pointer Sentinel Mixture Models](http://openreview.net/forum?id=Byj72udxe), Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher, "Pointer sentinel mixture models provide a method to combine a traditional vocabulary softmax with a pointer network, providing state of the art results in language modeling on PTB and the newly introduced WikiText with few extra parameters.", [[pdf](http://openreview.net/pdf?id=Byj72udxe)]
-* [Quasi-Recurrent Neural Networks](http://openreview.net/forum?id=H1zJ-v5xl), James Bradbury, Stephen Merity, Caiming Xiong, Richard Socher, "QRNNs, composed of convolutions and a recurrent pooling function, outperform LSTMs on a variety of sequence tasks and are up to 16 times faster.", [[pdf](http://openreview.net/pdf?id=H1zJ-v5xl)]
 * [A Way out of the Odyssey: Analyzing and Combining Recent Insights for LSTMs](http://openreview.net/forum?id=rJsiFTYex), Shayne Longpre, Sabeek Pradhan, Caiming Xiong, Richard Socher, "Relatively simple augmentations to the LSTM, such as Monte Carlo test time averaging, deep vector averaging, and residual connections, can yield massive accuracy improvements on text classification datasets.", [[pdf](http://openreview.net/pdf?id=rJsiFTYex)]
+* [Pointer Sentinel Mixture Models](http://openreview.net/forum?id=Byj72udxe), Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher, "Pointer sentinel mixture models provide a method to combine a traditional vocabulary softmax with a pointer network, providing state of the art results in language modeling on PTB and the newly introduced WikiText with few extra parameters.", [[pdf](http://openreview.net/pdf?id=Byj72udxe)]
 * [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](http://openreview.net/forum?id=SJZAb5cel), Kazuma Hashimoto, Caiming Xiong, Yoshimasa Tsuruoka, Richard Socher, "A single deep multi-task learning model for five different NLP tasks.", [[pdf](http://openreview.net/pdf?id=SJZAb5cel)]
+* [Quasi-Recurrent Neural Networks](http://openreview.net/forum?id=H1zJ-v5xl), James Bradbury, Stephen Merity, Caiming Xiong, Richard Socher, "QRNNs, composed of convolutions and a recurrent pooling function, outperform LSTMs on a variety of sequence tasks and are up to 16 times faster.", [[pdf](http://openreview.net/pdf?id=H1zJ-v5xl)]
+* [Dynamic Coattention Networks For Question Answering](http://openreview.net/forum?id=rJeKjwvclx), Caiming Xiong, Victor Zhong, Richard Socher, "An end-to-end dynamic neural network model for question answering that achieves the state of the art and best leaderboard performance on the Stanford QA dataset.", [[pdf](http://openreview.net/pdf?id=rJeKjwvclx)]
 * [Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling](http://openreview.net/forum?id=r1aPbsFle), Hakan Inan, Khashayar Khosravi, Richard Socher, "", [[pdf](http://openreview.net/pdf?id=r1aPbsFle)]
 
 #### Richard Vuduc
@@ -3399,8 +3399,8 @@
 * [Sequence to Sequence Transduction with Hard Monotonic Attention](http://openreview.net/forum?id=HkyYqU9lx), Roee Aharoni, Yoav Goldberg, "Sequence to sequence learning with a hard attention mechanism that works better than soft attention models on monotonically aligned sequences", [[pdf](http://openreview.net/pdf?id=HkyYqU9lx)]
 
 #### Roger Grosse
-* [On the Quantitative Analysis of Decoder-Based Generative Models](http://openreview.net/forum?id=B1M8JF9xx), Yuhuai Wu, Yuri Burda, Ruslan Salakhutdinov, Roger Grosse, "We propose to use Annealed Importance Sampling to evaluate decoder-based generative network, and investigate various properties of these models.", [[pdf](http://openreview.net/pdf?id=B1M8JF9xx)]
 * [Distributed Second-Order Optimization using Kronecker-Factored Approximations](http://openreview.net/forum?id=SkkTMpjex), Jimmy Ba, Roger Grosse, James Martens, "Distributed K-FAC provides 2x speed up to training the state-of-the-art ImageNet models.", [[pdf](http://openreview.net/pdf?id=SkkTMpjex)]
+* [On the Quantitative Analysis of Decoder-Based Generative Models](http://openreview.net/forum?id=B1M8JF9xx), Yuhuai Wu, Yuri Burda, Ruslan Salakhutdinov, Roger Grosse, "We propose to use Annealed Importance Sampling to evaluate decoder-based generative network, and investigate various properties of these models.", [[pdf](http://openreview.net/pdf?id=B1M8JF9xx)]
 
 #### Rogerio Feris
 * [Generative Adversarial Networks as Variational Training of Energy Based Models](http://openreview.net/forum?id=ry7O1ssex), Shuangfei Zhai, Yu Cheng, Rogerio Feris, Zhongfei Zhang, "", [[pdf](http://openreview.net/pdf?id=ry7O1ssex)]
@@ -3455,9 +3455,9 @@
 
 #### Ruslan Salakhutdinov
 * [Gated-Attention Readers for Text Comprehension](http://openreview.net/forum?id=HkcdHtqlx), Bhuwan Dhingra, Hanxiao Liu, Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov, "", [[pdf](http://openreview.net/pdf?id=HkcdHtqlx)]
-* [Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks](http://openreview.net/forum?id=ByxpMd9lx), Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen, "", [[pdf](http://openreview.net/pdf?id=ByxpMd9lx)]
-* [On the Quantitative Analysis of Decoder-Based Generative Models](http://openreview.net/forum?id=B1M8JF9xx), Yuhuai Wu, Yuri Burda, Ruslan Salakhutdinov, Roger Grosse, "We propose to use Annealed Importance Sampling to evaluate decoder-based generative network, and investigate various properties of these models.", [[pdf](http://openreview.net/pdf?id=B1M8JF9xx)]
 * [Words or Characters? Fine-grained Gating for Reading Comprehension](http://openreview.net/forum?id=B1hdzd5lg), Zhilin Yang, Bhuwan Dhingra, Ye Yuan, Junjie Hu, William W. Cohen, Ruslan Salakhutdinov, "", [[pdf](http://openreview.net/pdf?id=B1hdzd5lg)]
+* [On the Quantitative Analysis of Decoder-Based Generative Models](http://openreview.net/forum?id=B1M8JF9xx), Yuhuai Wu, Yuri Burda, Ruslan Salakhutdinov, Roger Grosse, "We propose to use Annealed Importance Sampling to evaluate decoder-based generative network, and investigate various properties of these models.", [[pdf](http://openreview.net/pdf?id=B1M8JF9xx)]
+* [Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks](http://openreview.net/forum?id=ByxpMd9lx), Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen, "", [[pdf](http://openreview.net/pdf?id=ByxpMd9lx)]
 
 #### Ryan Lowe
 * [Towards an automatic Turing test: Learning to evaluate dialogue responses](http://openreview.net/forum?id=HJ5PIaseg), Ryan Lowe, Michael Noseworthy, Iulian V. Serban, Nicolas Angelard-Gontier, Yoshua Bengio, Joelle Pineau, "We propose a model for evaluating dialogue responses that correlates significantly with human judgement at the utterance-level and system-level.", [[pdf](http://openreview.net/pdf?id=HJ5PIaseg)]
@@ -3512,13 +3512,13 @@
 * [Temporal Ensembling for Semi-Supervised Learning](http://openreview.net/forum?id=BJ6oOfqge), Samuli Laine, Timo Aila, "", [[pdf](http://openreview.net/pdf?id=BJ6oOfqge)]
 
 #### Samy Bengio
-* [Revisiting Distributed Synchronous SGD](http://openreview.net/forum?id=HyAddcLge), Jianmin Chen, Xinghao Pan, Rajat Monga, Samy Bengio, Rafal Jozefowicz, "We proposed distributed synchronous stochastic optimization with backup workers, and show that it converge faster and to better test accuracies.", [[pdf](http://openreview.net/pdf?id=HyAddcLge)]
-* [Neural Combinatorial Optimization](http://openreview.net/forum?id=rJY3vK9eg), Irwan Bello*, Hieu Pham*, Quoc V. Le, Mohammad Norouzi, Samy Bengio, "This paper presents a framework to tackle combinatorial optimization problems using neural networks and reinforcement learning.", [[pdf](http://openreview.net/pdf?id=rJY3vK9eg)]
-* [Adversarial Machine Learning at Scale](http://openreview.net/forum?id=BJm4T4Kgx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=BJm4T4Kgx)]
-* [Density estimation using Real NVP](http://openreview.net/forum?id=HkpbnH9lx), Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio, "Efficient invertible neural networks for density estimation and generation", [[pdf](http://openreview.net/pdf?id=HkpbnH9lx)]
-* [Learning to Remember Rare Events](http://openreview.net/forum?id=SJTQLdqlg), Lukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio, "We introduce a memory module for life-long learning that adds one-shot learning capability to any supervised neural network.", [[pdf](http://openreview.net/pdf?id=SJTQLdqlg)]
-* [Adversarial examples in the physical world](http://openreview.net/forum?id=S1OufnIlx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=S1OufnIlx)]
 * [Understanding deep learning requires rethinking generalization](http://openreview.net/forum?id=Sy8gdB9xx), Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals, "Through extensive systematic experiments, we show how the traditional approaches fail to explain why large neural networks generalize well in practice, and why understanding deep learning requires rethinking generalization.", [[pdf](http://openreview.net/pdf?id=Sy8gdB9xx)]
+* [Learning to Remember Rare Events](http://openreview.net/forum?id=SJTQLdqlg), Lukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio, "We introduce a memory module for life-long learning that adds one-shot learning capability to any supervised neural network.", [[pdf](http://openreview.net/pdf?id=SJTQLdqlg)]
+* [Neural Combinatorial Optimization](http://openreview.net/forum?id=rJY3vK9eg), Irwan Bello*, Hieu Pham*, Quoc V. Le, Mohammad Norouzi, Samy Bengio, "This paper presents a framework to tackle combinatorial optimization problems using neural networks and reinforcement learning.", [[pdf](http://openreview.net/pdf?id=rJY3vK9eg)]
+* [Revisiting Distributed Synchronous SGD](http://openreview.net/forum?id=HyAddcLge), Jianmin Chen, Xinghao Pan, Rajat Monga, Samy Bengio, Rafal Jozefowicz, "We proposed distributed synchronous stochastic optimization with backup workers, and show that it converge faster and to better test accuracies.", [[pdf](http://openreview.net/pdf?id=HyAddcLge)]
+* [Adversarial examples in the physical world](http://openreview.net/forum?id=S1OufnIlx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=S1OufnIlx)]
+* [Density estimation using Real NVP](http://openreview.net/forum?id=HkpbnH9lx), Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio, "Efficient invertible neural networks for density estimation and generation", [[pdf](http://openreview.net/pdf?id=HkpbnH9lx)]
+* [Adversarial Machine Learning at Scale](http://openreview.net/forum?id=BJm4T4Kgx), Alexey Kurakin, Ian J. Goodfellow, Samy Bengio, "", [[pdf](http://openreview.net/pdf?id=BJm4T4Kgx)]
 
 #### Sangheum Hwang
 * [Semantic Noise Modeling for Better Representation Learning](http://openreview.net/forum?id=SyCSsUDee), Hyo-Eun Kim, Sangheum Hwang, Kyunghyun Cho, "A novel latent space modeling method to learn better representation", [[pdf](http://openreview.net/pdf?id=SyCSsUDee)]
@@ -3527,8 +3527,8 @@
 * [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](http://openreview.net/forum?id=HJy_5Mcll), Adam Paszke, Abhishek Chaurasia, Sangpil Kim, Eugenio Culurciello, "", [[pdf](http://openreview.net/pdf?id=HJy_5Mcll)]
 
 #### Sanja Fidler
-* [Efficient Summarization with Read-Again and Copy Mechanism](http://openreview.net/forum?id=HJPmdP9le), Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun, "", [[pdf](http://openreview.net/pdf?id=HJPmdP9le)]
 * [Song From PI: A Musically Plausible Network for Pop Music Generation](http://openreview.net/forum?id=ByBwSPcex), Hang Chu, Raquel Urtasun, Sanja Fidler, "We present a novel hierarchical RNN for generating pop music, where the layers and the structure of the hierarchy encode our prior knowledge about how pop music is composed.", [[pdf](http://openreview.net/pdf?id=ByBwSPcex)]
+* [Efficient Summarization with Read-Again and Copy Mechanism](http://openreview.net/forum?id=HJPmdP9le), Wenyuan Zeng, Wenjie Luo, Sanja Fidler, Raquel Urtasun, "", [[pdf](http://openreview.net/pdf?id=HJPmdP9le)]
 
 #### Sanjay Ganapathy
 * [DyVEDeep: Dynamic Variable Effort Deep Neural Networks](http://openreview.net/forum?id=BJmCKBqgl), Sanjay Ganapathy, Swagath Venkataramani, Balaraman Ravindran, Anand Raghunathan, "", [[pdf](http://openreview.net/pdf?id=BJmCKBqgl)]
@@ -3563,8 +3563,8 @@
 * [Multi-Label Learning using Tensor Decomposition for Large Text Corpora](http://openreview.net/forum?id=BkyQ7ssge), Sayantan Dasgupta, "We showed how to use tensor decomposition technique on a generative latent variable model for multi-label learning in text corpora. A preliminary version has been accepted in a NIPS workshop", [[pdf](http://openreview.net/pdf?id=BkyQ7ssge)]
 
 #### Sayeh Sharify
-* [Tartan: Accelerating Fully-Connected and Convolutional Layers in Deep Learning Networks by Exploiting Numerical Precision Variability](http://openreview.net/forum?id=Hy-lMNqex), Alberto Delmás Lascorz, Sayeh Sharify, Andreas Moshovos, "A hardware accelerator whose execution time for Fully-Connected and Convolutional Layers  in CNNs vary inversely proportional with the number of bits used to represent the input activations and/or weights.", [[pdf](http://openreview.net/pdf?id=Hy-lMNqex)]
 * [Bit-Pragmatic Deep Neural Network Computing](http://openreview.net/forum?id=By14kuqxx), Jorge Albericio, Patrick Judd, Alberto Delmas, Sayeh Sharify, Andreas Moshovos, "A hardware accelerator for DNNs whose execution time for convolutional layers is proportional to the number of activation *bits* that are 1.", [[pdf](http://openreview.net/pdf?id=By14kuqxx)]
+* [Tartan: Accelerating Fully-Connected and Convolutional Layers in Deep Learning Networks by Exploiting Numerical Precision Variability](http://openreview.net/forum?id=Hy-lMNqex), Alberto Delmás Lascorz, Sayeh Sharify, Andreas Moshovos, "A hardware accelerator whose execution time for Fully-Connected and Convolutional Layers  in CNNs vary inversely proportional with the number of bits used to represent the input activations and/or weights.", [[pdf](http://openreview.net/pdf?id=Hy-lMNqex)]
 
 #### Scott Cohen
 * [Progressive Attention Networks for Visual Attribute Prediction](http://openreview.net/forum?id=HyEeMu_xx), Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han, "Progressive attention model that accurately attends to the target objects of various scales and shapes through multiple CNN layers.", [[pdf](http://openreview.net/pdf?id=HyEeMu_xx)]
@@ -3585,9 +3585,9 @@
 * [Classless Association using Neural Networks](http://openreview.net/forum?id=ryh_8f9lg), Federico Raue, Sebastian Palacio, Andreas Dengel, Marcus Liwicki, "Learning based on the relation between two instances of the same unknown class", [[pdf](http://openreview.net/pdf?id=ryh_8f9lg)]
 
 #### Sebastian Riedel
+* [Learning Python Code Suggestion with a Sparse Pointer Network](http://openreview.net/forum?id=r1kQkVFgl), Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel, "We augment a neural language model with a pointer network for code suggestion that is specialized to referring to predefined groups of identifiers", [[pdf](http://openreview.net/pdf?id=r1kQkVFgl)]
 * [Frustratingly Short Attention Spans in Neural Language Modeling](http://openreview.net/forum?id=ByIAPUcee), Michał Daniluk, Tim Rocktäschel, Johannes Welbl, Sebastian Riedel, "We investigate various memory-augmented neural language models and compare them against state-of-the-art architectures.", [[pdf](http://openreview.net/pdf?id=ByIAPUcee)]
 * [Programming With a Differentiable Forth Interpreter](http://openreview.net/forum?id=HkJq1Ocxl), Matko Bošnjak, Tim Rocktäschel, Jason Naradowsky, Sebastian Riedel, "This paper presents the first neural implementation of an abstract machine for an actual language, allowing programmers to inject prior procedural knowledge into neural architectures in a straightforward manner.", [[pdf](http://openreview.net/pdf?id=HkJq1Ocxl)]
-* [Learning Python Code Suggestion with a Sparse Pointer Network](http://openreview.net/forum?id=r1kQkVFgl), Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel, "We augment a neural language model with a pointer network for code suggestion that is specialized to referring to predefined groups of identifiers", [[pdf](http://openreview.net/pdf?id=r1kQkVFgl)]
 
 #### Sebastian Ruder
 * [Knowledge Adaptation: Teaching to Adapt](http://openreview.net/forum?id=rJRhzzKxl), Sebastian Ruder, Parsa Ghaffari, John G. Breslin, "We propose a teacher-student framework for domain adaptation together with a novel confidence measure that achieves state-of-the-art results on single-source and multi-source adaptation on a standard sentiment analysis benchmark.", [[pdf](http://openreview.net/pdf?id=rJRhzzKxl)]
@@ -3611,13 +3611,13 @@
 * [Fast Adaptation in Generative Models with Generative Matching Networks](http://openreview.net/forum?id=HyCRyS9gx), Sergey Bartunov, Dmitry P. Vetrov, "A nonparametric conditional generative model with fast small-shot adaptation", [[pdf](http://openreview.net/pdf?id=HyCRyS9gx)]
 
 #### Sergey Levine
-* [EPOpt: Learning Robust Neural Network Policies Using Model Ensembles](http://openreview.net/forum?id=SyWvgP5el), Aravind Rajeswaran, Sarvjeet Ghotra, Balaraman Ravindran, Sergey Levine, "An ensemble optimization approach to help transfer neural network policies from simulated domains to real-world target domains.", [[pdf](http://openreview.net/pdf?id=SyWvgP5el)]
-* [Generalizing Skills with Semi-Supervised Reinforcement Learning](http://openreview.net/forum?id=ryHlUtqge), Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine, "We propose an algorithm for generalizing a deep neural network policy using "unlabeled" experience collected in MDPs where rewards are not available.", [[pdf](http://openreview.net/pdf?id=ryHlUtqge)]
-* [Unsupervised Perceptual Rewards for Imitation Learning](http://openreview.net/forum?id=Bkul3t9ee), Pierre Sermanet, Kelvin Xu, Sergey Levine, "Real robots learn new tasks from observing a few human demonstrations.", [[pdf](http://openreview.net/pdf?id=Bkul3t9ee)]
-* [Learning Visual Servoing with Deep Features and Trust Region Fitted Q-Iteration](http://openreview.net/forum?id=r1YNw6sxg), Alex X. Lee, Sergey Levine, Pieter Abbeel, "We use deep semantic features, learned predictive dynamics, and reinforcement learning to efficiently learn a visual servoing policy that is robust to visual variations.", [[pdf](http://openreview.net/pdf?id=r1YNw6sxg)]
-* [Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning](http://openreview.net/forum?id=Hyq4yhile), Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine, "Learning a common feature space between robots with different morphology or actuation to transfer skills.", [[pdf](http://openreview.net/pdf?id=Hyq4yhile)]
-* [Modular Multitask Reinforcement Learning with Policy Sketches](http://openreview.net/forum?id=H1kjdOYlx), Jacob Andreas, Dan Klein, Sergey Levine, "Learning multitask deep hierarchical policies with guidance from symbolic policy sketches", [[pdf](http://openreview.net/pdf?id=H1kjdOYlx)]
 * [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](http://openreview.net/forum?id=SJ3rcZcxl), Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine, "We propose Q-Prop, a novel policy gradient method with an off-policy critic as control variate, that is more sample efficient than TRPO-GAE and more stable than DDPG, the state-of-the-art on-policy and off-policy methods.", [[pdf](http://openreview.net/pdf?id=SJ3rcZcxl)]
+* [Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning](http://openreview.net/forum?id=Hyq4yhile), Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine, "Learning a common feature space between robots with different morphology or actuation to transfer skills.", [[pdf](http://openreview.net/pdf?id=Hyq4yhile)]
+* [Learning Visual Servoing with Deep Features and Trust Region Fitted Q-Iteration](http://openreview.net/forum?id=r1YNw6sxg), Alex X. Lee, Sergey Levine, Pieter Abbeel, "We use deep semantic features, learned predictive dynamics, and reinforcement learning to efficiently learn a visual servoing policy that is robust to visual variations.", [[pdf](http://openreview.net/pdf?id=r1YNw6sxg)]
+* [Modular Multitask Reinforcement Learning with Policy Sketches](http://openreview.net/forum?id=H1kjdOYlx), Jacob Andreas, Dan Klein, Sergey Levine, "Learning multitask deep hierarchical policies with guidance from symbolic policy sketches", [[pdf](http://openreview.net/pdf?id=H1kjdOYlx)]
+* [Unsupervised Perceptual Rewards for Imitation Learning](http://openreview.net/forum?id=Bkul3t9ee), Pierre Sermanet, Kelvin Xu, Sergey Levine, "Real robots learn new tasks from observing a few human demonstrations.", [[pdf](http://openreview.net/pdf?id=Bkul3t9ee)]
+* [Generalizing Skills with Semi-Supervised Reinforcement Learning](http://openreview.net/forum?id=ryHlUtqge), Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine, "We propose an algorithm for generalizing a deep neural network policy using "unlabeled" experience collected in MDPs where rewards are not available.", [[pdf](http://openreview.net/pdf?id=ryHlUtqge)]
+* [EPOpt: Learning Robust Neural Network Policies Using Model Ensembles](http://openreview.net/forum?id=SyWvgP5el), Aravind Rajeswaran, Sarvjeet Ghotra, Balaraman Ravindran, Sergey Levine, "An ensemble optimization approach to help transfer neural network policies from simulated domains to real-world target domains.", [[pdf](http://openreview.net/pdf?id=SyWvgP5el)]
 
 #### Sergey Zagoruyko
 * [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](http://openreview.net/forum?id=Sks9_ajex), Sergey Zagoruyko, Nikos Komodakis, "", [[pdf](http://openreview.net/pdf?id=Sks9_ajex)]
@@ -3635,9 +3635,9 @@
 * [Playing SNES in the Retro Learning Environment](http://openreview.net/forum?id=HysBZSqlx), Nadav Bhonker, Shai Rozenberg, Itay Hubara, "Investigating Deep Reinforcement Learning algorithms in a new framework based on the SNES game console", [[pdf](http://openreview.net/pdf?id=HysBZSqlx)]
 
 #### Shakir Mohamed
-* [Recurrent Environment Simulators](http://openreview.net/forum?id=B1s6xvqlx), Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed, "", [[pdf](http://openreview.net/pdf?id=B1s6xvqlx)]
-* [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](http://openreview.net/forum?id=Sy2fzU9gl), Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner, "We introduce beta-VAE, a new state-of-the-art framework for automated discovery of interpretable factorised latent representations from raw image data in a completely unsupervised manner.", [[pdf](http://openreview.net/pdf?id=Sy2fzU9gl)]
 * [Learning in Implicit Generative Models](http://openreview.net/forum?id=B16Jem9xe), Shakir Mohamed, Balaji Lakshminarayanan, "Showing connections between GANs, ABC, ratio estimation and other approaches for learning in deep generative models.", [[pdf](http://openreview.net/pdf?id=B16Jem9xe)]
+* [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](http://openreview.net/forum?id=Sy2fzU9gl), Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner, "We introduce beta-VAE, a new state-of-the-art framework for automated discovery of interpretable factorised latent representations from raw image data in a completely unsupervised manner.", [[pdf](http://openreview.net/pdf?id=Sy2fzU9gl)]
+* [Recurrent Environment Simulators](http://openreview.net/forum?id=B1s6xvqlx), Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed, "", [[pdf](http://openreview.net/pdf?id=B1s6xvqlx)]
 
 #### Sham Kakade
 * [Learning Features of Music From Scratch](http://openreview.net/forum?id=rkFBJv9gg), John Thickstun, Zaid Harchaoui, Sham Kakade, "We introduce a new large-scale music dataset, define a multi-label classification task, and benchmark machine learning architectures on this task.", [[pdf](http://openreview.net/pdf?id=rkFBJv9gg)]
@@ -3665,8 +3665,8 @@
 * [Deep Symbolic Representation Learning for Heterogeneous Time-series Classification](http://openreview.net/forum?id=Hy8X3aKee), Shengdong Zhang, Soheil Bahrampour, Naveen Ramakrishnan, Mohak Shah, "", [[pdf](http://openreview.net/pdf?id=Hy8X3aKee)]
 
 #### Shengjie Wang
-* [Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](http://openreview.net/forum?id=r10FA8Kxg), Gregor Urban, Krzysztof J. Geras, Samira Ebrahimi Kahou, Ozlem Aslan, Shengjie Wang, Abdelrahman Mohamed, Matthai Philipose, Matt Richardson, Rich Caruana, "This paper provides the first empirical demonstration that deep convolutional models really need to be both deep and convolutional, even when trained with model distillation and heavy hyperparameter optimization.", [[pdf](http://openreview.net/pdf?id=r10FA8Kxg)]
 * [Training Compressed Fully-Connected Networks with a Density-Diversity Penalty](http://openreview.net/forum?id=Hku9NK5lx), Shengjie Wang, Haoran Cai, Jeff Bilmes, William Noble, "We propose a new ''density-diversity penalty'' to fully-connected layers to get significantly high sparsity and low diversity trained matrices, while keeping the performance the same.", [[pdf](http://openreview.net/pdf?id=Hku9NK5lx)]
+* [Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](http://openreview.net/forum?id=r10FA8Kxg), Gregor Urban, Krzysztof J. Geras, Samira Ebrahimi Kahou, Ozlem Aslan, Shengjie Wang, Abdelrahman Mohamed, Matthai Philipose, Matt Richardson, Rich Caruana, "This paper provides the first empirical demonstration that deep convolutional models really need to be both deep and convolutional, even when trained with model distillation and heavy hyperparameter optimization.", [[pdf](http://openreview.net/pdf?id=r10FA8Kxg)]
 
 #### Shengshuo Lu
 * [Rethinking Numerical Representations for Deep Neural Networks](http://openreview.net/forum?id=BJ_MGwqlg), Parker Hill, Babak Zamirai, Shengshuo Lu, Yu-Wei Chao, Michael Laurenzano, Mehrzad Samadi, Marios Papaefthymiou, Scott Mahlke, Thomas Wenisch, Jia Deng, Lingjia Tang, Jason Mars, "We find that the optimal numerical representation for large-scale DNNs is very different than the small-scale ones that are used in current DNN hardware research.", [[pdf](http://openreview.net/pdf?id=BJ_MGwqlg)]
@@ -3691,9 +3691,9 @@
 * [Simple Black-Box Adversarial Perturbations for Deep Networks](http://openreview.net/forum?id=SJCscQcge), Nina Narodytska, Shiva Kasiviswanathan, "Simple, but highly effective, adversarial attacks on deep neural networks even in the absence of any internal knowledge about the network", [[pdf](http://openreview.net/pdf?id=SJCscQcge)]
 
 #### Shixiang Gu
-* [Tuning Recurrent Neural Networks with Reinforcement Learning](http://openreview.net/forum?id=BJ8fyHceg), Natasha Jaques, Shixiang Gu, Richard E. Turner, Douglas Eck, "RL Tuner is a method for refining an LSTM trained on data by using RL to impose desired behaviors, while maintaining good predictive properties learned from data.", [[pdf](http://openreview.net/pdf?id=BJ8fyHceg)]
-* [Categorical Reparameterization with Gumbel-Softmax](http://openreview.net/forum?id=rkE3y85ee), Eric Jang, Shixiang Gu, Ben Poole, "Simple, differentiable sampling mechanism for categorical variables that can be trained in neural nets via standard backprop.", [[pdf](http://openreview.net/pdf?id=rkE3y85ee)]
 * [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](http://openreview.net/forum?id=SJ3rcZcxl), Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine, "We propose Q-Prop, a novel policy gradient method with an off-policy critic as control variate, that is more sample efficient than TRPO-GAE and more stable than DDPG, the state-of-the-art on-policy and off-policy methods.", [[pdf](http://openreview.net/pdf?id=SJ3rcZcxl)]
+* [Categorical Reparameterization with Gumbel-Softmax](http://openreview.net/forum?id=rkE3y85ee), Eric Jang, Shixiang Gu, Ben Poole, "Simple, differentiable sampling mechanism for categorical variables that can be trained in neural nets via standard backprop.", [[pdf](http://openreview.net/pdf?id=rkE3y85ee)]
+* [Tuning Recurrent Neural Networks with Reinforcement Learning](http://openreview.net/forum?id=BJ8fyHceg), Natasha Jaques, Shixiang Gu, Richard E. Turner, Douglas Eck, "RL Tuner is a method for refining an LSTM trained on data by using RL to impose desired behaviors, while maintaining good predictive properties learned from data.", [[pdf](http://openreview.net/pdf?id=BJ8fyHceg)]
 
 #### Shiyu Liang
 * [Why Deep Neural Networks for Function Approximation?](http://openreview.net/forum?id=SkpSlKIel), Shiyu Liang, R. Srikant, "", [[pdf](http://openreview.net/pdf?id=SkpSlKIel)]
@@ -3758,8 +3758,8 @@
 * [Making Stochastic Neural Networks from Deterministic Ones](http://openreview.net/forum?id=B1akgy9xx), Kimin Lee, Jaehyung Kim, Song Chong, Jinwoo Shin, "", [[pdf](http://openreview.net/pdf?id=B1akgy9xx)]
 
 #### Song Han
-* [Trained Ternary Quantization](http://openreview.net/forum?id=S1_pAu9xl), Chenzhuo Zhu, Song Han, Huizi Mao, William J. Dally, "Ternary Neural Network with accuracy close to or even higher than the full-precision one", [[pdf](http://openreview.net/pdf?id=S1_pAu9xl)]
 * [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](http://openreview.net/forum?id=S1xh5sYgx), Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, Kurt Keutzer, "Small CNN models", [[pdf](http://openreview.net/pdf?id=S1xh5sYgx)]
+* [Trained Ternary Quantization](http://openreview.net/forum?id=S1_pAu9xl), Chenzhuo Zhu, Song Han, Huizi Mao, William J. Dally, "Ternary Neural Network with accuracy close to or even higher than the full-precision one", [[pdf](http://openreview.net/pdf?id=S1_pAu9xl)]
 * [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](http://openreview.net/forum?id=HyoST_9xl), Song Han, Jeff Pool, Sharan Narang, Huizi Mao, Enhao Gong, Shijian Tang, Erich Elsen, Peter Vajda, Manohar Paluri, John Tran, Bryan Catanzaro, William J. Dally, "DSD effectively achieves superior optimization performance on a wide range of deep neural networks.", [[pdf](http://openreview.net/pdf?id=HyoST_9xl)]
 
 #### Song-Chun Zhu
@@ -3772,8 +3772,8 @@
 * [SampleRNN: An Unconditional End-to-End Neural Audio Generation Model](http://openreview.net/forum?id=SkxKPDv5xl), Soroush Mehri, Kundan Kumar, Ishaan Gulrajani, Rithesh Kumar, Shubham Jain, Jose Manuel Rodriguez Sotelo, Aaron Courville, Yoshua Bengio, "Novel model for unconditional audio generation task using hierarchical multi-scale RNNs and autoregressive MLP.", [[pdf](http://openreview.net/pdf?id=SkxKPDv5xl)]
 
 #### Soumith Chintala
-* [Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement](http://openreview.net/forum?id=r1LXit5ee), Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, Soumith Chintala, "We propose a new reinforcement learning algorithm based on zero order optimization, that we evaluate on StarCraft micromanagement scenarios.", [[pdf](http://openreview.net/pdf?id=r1LXit5ee)]
 * [Transformation-based Models of Video Sequences](http://openreview.net/forum?id=HkxAAvcxx), Joost van Amersfoort, Anitha Kannan, Marc'Aurelio Ranzato, Arthur Szlam, Du Tran, Soumith Chintala, "Predict next frames of a video sequence by modelling transformations", [[pdf](http://openreview.net/pdf?id=HkxAAvcxx)]
+* [Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement](http://openreview.net/forum?id=r1LXit5ee), Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, Soumith Chintala, "We propose a new reinforcement learning algorithm based on zero order optimization, that we evaluate on StarCraft micromanagement scenarios.", [[pdf](http://openreview.net/pdf?id=r1LXit5ee)]
 
 #### Soumyajit De
 * [Generative Models and Model Criticism via Optimized Maximum Mean Discrepancy](http://openreview.net/forum?id=HJWHIKqgl), Dougal J. Sutherland, Hsiao-Yu Tung, Heiko Strathmann, Soumyajit De, Aaditya Ramdas, Alex Smola, Arthur Gretton, "A way to optimize the power of an MMD test, to use it for evaluating generative models and training GANs", [[pdf](http://openreview.net/pdf?id=HJWHIKqgl)]
@@ -3833,8 +3833,8 @@
 * [Geometry of Polysemy](http://openreview.net/forum?id=HJpfMIFll), Jiaqi Mu, Suma Bhat, Pramod Viswanath, "", [[pdf](http://openreview.net/pdf?id=HJpfMIFll)]
 
 #### Sumit Chopra
-* [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
 * [Dialogue Learning With Human-in-the-Loop](http://openreview.net/forum?id=HJgXCV9xx), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "we explore a reinforcement learning setting for dialogue where the bot improves its abilities using reward-based or textual feedback", [[pdf](http://openreview.net/pdf?id=HJgXCV9xx)]
+* [Learning through Dialogue Interactions](http://openreview.net/forum?id=rkE8pVcle), Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston, "We investigate how a bot can benefit from interacting with users and asking questions.", [[pdf](http://openreview.net/pdf?id=rkE8pVcle)]
 
 #### Sungjin Ahn
 * [Hierarchical Multiscale Recurrent Neural Networks](http://openreview.net/forum?id=S1di0sfgl), Junyoung Chung, Sungjin Ahn, Yoshua Bengio, "Propose a recurrent neural network architecture that can discover the underlying hierarchical structure in the temporal data.", [[pdf](http://openreview.net/pdf?id=S1di0sfgl)]
@@ -3909,8 +3909,8 @@
 * [Boosting Image Captioning with Attributes](http://openreview.net/forum?id=BkdpaH9ll), Ting Yao, Yingwei Pan, Yehao Li, Zhaofan Qiu, Tao Mei, "Boosting Image Captioning with Attributes", [[pdf](http://openreview.net/pdf?id=BkdpaH9ll)]
 
 #### Tao Qin
-* [An Actor-critic Algorithm for Learning Rate Learning](http://openreview.net/forum?id=Sy7m72Ogg), Chang Xu, Tao Qin, Gang Wang, Tie-Yan Liu, "We propose an algorithm to automatically learn learning rates using actor-critic methods from reinforcement learning.", [[pdf](http://openreview.net/pdf?id=Sy7m72Ogg)]
 * [Neural Data Filter for Bootstrapping Stochastic Gradient Descent](http://openreview.net/forum?id=SyJNmVqgg), Yang Fan, Fei Tian, Tao Qin, Tie-Yan Liu, "We propose a reinforcement learning based teacher-student framework for filtering training data to boost SGD convergence.", [[pdf](http://openreview.net/pdf?id=SyJNmVqgg)]
+* [An Actor-critic Algorithm for Learning Rate Learning](http://openreview.net/forum?id=Sy7m72Ogg), Chang Xu, Tao Qin, Gang Wang, Tie-Yan Liu, "We propose an algorithm to automatically learn learning rates using actor-critic methods from reinforcement learning.", [[pdf](http://openreview.net/pdf?id=Sy7m72Ogg)]
 
 #### Tao Wei
 * [Modularized Morphing of Neural Networks](http://openreview.net/forum?id=BJRIA3Fgg), Tao Wei, Changhu Wang, Chang Wen Chen, "", [[pdf](http://openreview.net/pdf?id=BJRIA3Fgg)]
@@ -3919,15 +3919,15 @@
 * [Development of JavaScript-based deep learning platform and application to distributed training](http://openreview.net/forum?id=r1xUYDYgg), Masatoshi Hidaka, Ken Miura, Tatsuya Harada, "Development of JavaScript-based matrix library and deep learning library which uses GPGPU. VGGNet is trained distributedly using web browsers.", [[pdf](http://openreview.net/pdf?id=r1xUYDYgg)]
 
 #### Tegan Maharaj
-* [Semi-Supervised Detection of Extreme Weather Events in Large Climate Datasets](http://openreview.net/forum?id=SJ_QCYqle), Evan Racah, Christopher Beckham, Tegan Maharaj, Prabhat, Christopher Pal, "Semi-supervised 3D CNN's improve bounding box detection of weather events in climate simulations compared to supervised approaches.", [[pdf](http://openreview.net/pdf?id=SJ_QCYqle)]
 * [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
+* [Semi-Supervised Detection of Extreme Weather Events in Large Climate Datasets](http://openreview.net/forum?id=SJ_QCYqle), Evan Racah, Christopher Beckham, Tegan Maharaj, Prabhat, Christopher Pal, "Semi-supervised 3D CNN's improve bounding box detection of weather events in climate simulations compared to supervised approaches.", [[pdf](http://openreview.net/pdf?id=SJ_QCYqle)]
 
 #### Tejas D Kulkarni
 * [Learning to Perform Physics Experiments via Deep Reinforcement Learning](http://openreview.net/forum?id=r1nTpv9eg), Misha Denil, Pulkit Agrawal, Tejas D Kulkarni, Tom Erez, Peter Battaglia, Nando de Freitas, "We train agents to conduct experiments in interactive simulated physical environments.", [[pdf](http://openreview.net/pdf?id=r1nTpv9eg)]
 
 #### Tengyu Ma
-* [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](http://openreview.net/forum?id=SyK00v5xx), Sanjeev Arora, Yingyu Liang, Tengyu Ma, "A simple unsupervised method for sentence embedding that can get results comparable to sophisticated models like RNN's and LSTM's", [[pdf](http://openreview.net/pdf?id=SyK00v5xx)]
 * [Identity Matters in Deep Learning](http://openreview.net/forum?id=ryxB0Rtxx), Moritz Hardt, Tengyu Ma, "Emerging theory explaining residual networks alongside new empirical progress", [[pdf](http://openreview.net/pdf?id=ryxB0Rtxx)]
+* [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](http://openreview.net/forum?id=SyK00v5xx), Sanjeev Arora, Yingyu Liang, Tengyu Ma, "A simple unsupervised method for sentence embedding that can get results comparable to sophisticated models like RNN's and LSTM's", [[pdf](http://openreview.net/pdf?id=SyK00v5xx)]
 
 #### Tero Karras
 * [Pruning Convolutional Neural Networks for Resource Efficient Inference](http://openreview.net/forum?id=SJGCiw5gl), Pavlo Molchanov, Stephen Tyree, Tero Karras, Timo Aila, Jan Kautz, "New approach for removing unnecessary conv neurons from network. Work is focused on how to estimate importance fast and efficiently by Taylor expantion.", [[pdf](http://openreview.net/pdf?id=SJGCiw5gl)]
@@ -4002,8 +4002,8 @@
 * [Cat2Vec: Learning Distributed Representation of Multi-field Categorical Data](http://openreview.net/forum?id=HyNxRZ9xg), Ying Wen, Jun Wang, Tianyao Chen, Weinan Zhang, "an unsupervised pairwise interaction model to learning the distributed representation of multi-field categorical data", [[pdf](http://openreview.net/pdf?id=HyNxRZ9xg)]
 
 #### Tie-Yan Liu
-* [An Actor-critic Algorithm for Learning Rate Learning](http://openreview.net/forum?id=Sy7m72Ogg), Chang Xu, Tao Qin, Gang Wang, Tie-Yan Liu, "We propose an algorithm to automatically learn learning rates using actor-critic methods from reinforcement learning.", [[pdf](http://openreview.net/pdf?id=Sy7m72Ogg)]
 * [Neural Data Filter for Bootstrapping Stochastic Gradient Descent](http://openreview.net/forum?id=SyJNmVqgg), Yang Fan, Fei Tian, Tao Qin, Tie-Yan Liu, "We propose a reinforcement learning based teacher-student framework for filtering training data to boost SGD convergence.", [[pdf](http://openreview.net/pdf?id=SyJNmVqgg)]
+* [An Actor-critic Algorithm for Learning Rate Learning](http://openreview.net/forum?id=Sy7m72Ogg), Chang Xu, Tao Qin, Gang Wang, Tie-Yan Liu, "We propose an algorithm to automatically learn learning rates using actor-critic methods from reinforcement learning.", [[pdf](http://openreview.net/pdf?id=Sy7m72Ogg)]
 
 #### Tieniu Tan
 * [What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?](http://openreview.net/forum?id=SJNDWNOlg), Jiedong Hao, Jing Dong, Wei Wang, Tieniu Tan, "", [[pdf](http://openreview.net/pdf?id=SJNDWNOlg)]
@@ -4025,17 +4025,17 @@
 * [RenderGAN: Generating Realistic Labeled Data](http://openreview.net/forum?id=BkGakb9lx), Leon Sixt, Benjamin Wild, Tim Landgraf, "We embed a 3D model in the GAN framework to generate realistic, labeled data.", [[pdf](http://openreview.net/pdf?id=BkGakb9lx)]
 
 #### Tim Rocktäschel
+* [Learning Python Code Suggestion with a Sparse Pointer Network](http://openreview.net/forum?id=r1kQkVFgl), Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel, "We augment a neural language model with a pointer network for code suggestion that is specialized to referring to predefined groups of identifiers", [[pdf](http://openreview.net/pdf?id=r1kQkVFgl)]
 * [Frustratingly Short Attention Spans in Neural Language Modeling](http://openreview.net/forum?id=ByIAPUcee), Michał Daniluk, Tim Rocktäschel, Johannes Welbl, Sebastian Riedel, "We investigate various memory-augmented neural language models and compare them against state-of-the-art architectures.", [[pdf](http://openreview.net/pdf?id=ByIAPUcee)]
 * [Programming With a Differentiable Forth Interpreter](http://openreview.net/forum?id=HkJq1Ocxl), Matko Bošnjak, Tim Rocktäschel, Jason Naradowsky, Sebastian Riedel, "This paper presents the first neural implementation of an abstract machine for an actual language, allowing programmers to inject prior procedural knowledge into neural architectures in a straightforward manner.", [[pdf](http://openreview.net/pdf?id=HkJq1Ocxl)]
-* [Learning Python Code Suggestion with a Sparse Pointer Network](http://openreview.net/forum?id=r1kQkVFgl), Avishkar Bhoopchand, Tim Rocktäschel, Earl Barr, Sebastian Riedel, "We augment a neural language model with a pointer network for code suggestion that is specialized to referring to predefined groups of identifiers", [[pdf](http://openreview.net/pdf?id=r1kQkVFgl)]
 
 #### Tim Salimans
 * [PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications](http://openreview.net/forum?id=BJrFC6ceg), Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma, Yaroslav Bulatov, "A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications", [[pdf](http://openreview.net/pdf?id=BJrFC6ceg)]
 * [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
 
 #### Timo Aila
-* [Temporal Ensembling for Semi-Supervised Learning](http://openreview.net/forum?id=BJ6oOfqge), Samuli Laine, Timo Aila, "", [[pdf](http://openreview.net/pdf?id=BJ6oOfqge)]
 * [Pruning Convolutional Neural Networks for Resource Efficient Inference](http://openreview.net/forum?id=SJGCiw5gl), Pavlo Molchanov, Stephen Tyree, Tero Karras, Timo Aila, Jan Kautz, "New approach for removing unnecessary conv neurons from network. Work is focused on how to estimate importance fast and efficiently by Taylor expantion.", [[pdf](http://openreview.net/pdf?id=SJGCiw5gl)]
+* [Temporal Ensembling for Semi-Supervised Learning](http://openreview.net/forum?id=BJ6oOfqge), Samuli Laine, Timo Aila, "", [[pdf](http://openreview.net/pdf?id=BJ6oOfqge)]
 
 #### Timothee LESORT
 * [Unsupervised Deep Learning of State Representation Using Robotic Priors ](http://openreview.net/forum?id=Bkp_y7qxe), Timothee LESORT, David FILLIAT, "This paper introduces a method for training a deep neural network to learn a  representation of a robot's environment state using a priori knowledge.", [[pdf](http://openreview.net/pdf?id=Bkp_y7qxe)]
@@ -4044,8 +4044,8 @@
 * [Deep Biaffine Attention for Neural Dependency Parsing](http://openreview.net/forum?id=Hk95PK9le), Timothy Dozat, Christopher D. Manning, "", [[pdf](http://openreview.net/pdf?id=Hk95PK9le)]
 
 #### Timothy Lillicrap
-* [Discovering objects and their relations from entangled scene representations](http://openreview.net/forum?id=Bk2TqVcxe), David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, Peter Battaglia, "", [[pdf](http://openreview.net/pdf?id=Bk2TqVcxe)]
 * [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](http://openreview.net/forum?id=SJ3rcZcxl), Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine, "We propose Q-Prop, a novel policy gradient method with an off-policy critic as control variate, that is more sample efficient than TRPO-GAE and more stable than DDPG, the state-of-the-art on-policy and off-policy methods.", [[pdf](http://openreview.net/pdf?id=SJ3rcZcxl)]
+* [Discovering objects and their relations from entangled scene representations](http://openreview.net/forum?id=Bk2TqVcxe), David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, Peter Battaglia, "", [[pdf](http://openreview.net/pdf?id=Bk2TqVcxe)]
 
 #### Timothy M. Hospedales
 * [Deep Multi-task Representation Learning: A Tensor Factorisation Approach](http://openreview.net/forum?id=SkhU2fcll), Yongxin Yang, Timothy M. Hospedales, "A multi-task representation learning framework that learns cross-task sharing structure at every layer in a deep network.", [[pdf](http://openreview.net/pdf?id=SkhU2fcll)]
@@ -4063,8 +4063,8 @@
 * [Learning Recurrent Span Representations for Extractive Question Answering](http://openreview.net/forum?id=HkIQH7qel), Kenton Lee, Tom Kwiatkowksi, Ankur Parikh, Dipanjan Das, "We present a globally normalized architecture for extractive question answering that contains explicit representations of all possible answer spans.", [[pdf](http://openreview.net/pdf?id=HkIQH7qel)]
 
 #### Tom Schaul
-* [The Predictron: End-To-End Learning and Planning](http://openreview.net/forum?id=BkJsCIcgl), David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, Thomas Degris, "", [[pdf](http://openreview.net/pdf?id=BkJsCIcgl)]
 * [Reinforcement Learning with Unsupervised Auxiliary Tasks](http://openreview.net/forum?id=SJ6yPD5xg), Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu, "", [[pdf](http://openreview.net/pdf?id=SJ6yPD5xg)]
+* [The Predictron: End-To-End Learning and Planning](http://openreview.net/forum?id=BkJsCIcgl), David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, Thomas Degris, "", [[pdf](http://openreview.net/pdf?id=BkJsCIcgl)]
 
 #### Tom White
 * [Sampling Generative Networks: Notes on a Few Effective Techniques](http://openreview.net/forum?id=SypU81Ole), Tom White, "Demonstrates improved techniques for interpolation and deriving attribute vectors in latent spaces applicable to both VAE and GAN models.", [[pdf](http://openreview.net/pdf?id=SypU81Ole)]
@@ -4131,8 +4131,8 @@
 * [Recursive Regression with Neural Networks: Approximating the HJI PDE Solution](http://openreview.net/forum?id=HJTXaw9gx), Vicenç Rubies Royo, "A neural network that learns an approximation to a function by generating its own regression points", [[pdf](http://openreview.net/pdf?id=HJTXaw9gx)]
 
 #### Victor Bapst
-* [Sample Efficient Actor-Critic with  Experience Replay](http://openreview.net/forum?id=HyM25Mqel), Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas, "Prepared for ICLR 2017.", [[pdf](http://openreview.net/pdf?id=HyM25Mqel)]
 * [Generating Interpretable Images with Controllable Structure](http://openreview.net/forum?id=Hyvw0L9el), Scott Reed, Aäron van den Oord, Nal Kalchbrenner, Victor Bapst, Matt Botvinick, Nando de Freitas, "Autoregressive text-to-image synthesis with controllable spatial structure.", [[pdf](http://openreview.net/pdf?id=Hyvw0L9el)]
+* [Sample Efficient Actor-Critic with  Experience Replay](http://openreview.net/forum?id=HyM25Mqel), Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas, "Prepared for ICLR 2017.", [[pdf](http://openreview.net/pdf?id=HyM25Mqel)]
 
 #### Victor Zhong
 * [Dynamic Coattention Networks For Question Answering](http://openreview.net/forum?id=rJeKjwvclx), Caiming Xiong, Victor Zhong, Richard Socher, "An end-to-end dynamic neural network model for question answering that achieves the state of the art and best leaderboard performance on the Stanford QA dataset.", [[pdf](http://openreview.net/pdf?id=rJeKjwvclx)]
@@ -4163,9 +4163,9 @@
 * [On Detecting Adversarial Perturbations](http://openreview.net/forum?id=SJzCSf9xg), Jan Hendrik Metzen, Tim Genewein, Volker Fischer, Bastian Bischoff, "We present and evaluate an approach for detecting adversarial perturbations in images based on attaching a small subnetwork to a deep neural network that is trained specifically to detect adversarial perturbations.", [[pdf](http://openreview.net/pdf?id=SJzCSf9xg)]
 
 #### Volodymyr Mnih
-* [PGQ: Combining policy gradient and Q-learning](http://openreview.net/forum?id=B1kJ6H9ex), Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih, "We combine a policy gradient style update with a Q-learning style update into a single RL algorithm we call PGQ.", [[pdf](http://openreview.net/pdf?id=B1kJ6H9ex)]
-* [Sample Efficient Actor-Critic with  Experience Replay](http://openreview.net/forum?id=HyM25Mqel), Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas, "Prepared for ICLR 2017.", [[pdf](http://openreview.net/pdf?id=HyM25Mqel)]
 * [Reinforcement Learning with Unsupervised Auxiliary Tasks](http://openreview.net/forum?id=SJ6yPD5xg), Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu, "", [[pdf](http://openreview.net/pdf?id=SJ6yPD5xg)]
+* [Sample Efficient Actor-Critic with  Experience Replay](http://openreview.net/forum?id=HyM25Mqel), Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas, "Prepared for ICLR 2017.", [[pdf](http://openreview.net/pdf?id=HyM25Mqel)]
+* [PGQ: Combining policy gradient and Q-learning](http://openreview.net/forum?id=B1kJ6H9ex), Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih, "We combine a policy gradient style update with a Q-learning style update into a single RL algorithm we call PGQ.", [[pdf](http://openreview.net/pdf?id=B1kJ6H9ex)]
 
 ### W
 
@@ -4177,8 +4177,8 @@
 * [GRAM: Graph-based Attention Model for Healthcare Representation Learning](http://openreview.net/forum?id=SkgewU5ll), Edward Choi, Mohammad Taha Bahadori, Le Song, Walter F. Stewart, Jimeng Sun, "We propose a novel attention mechanism on graphs to learn representations for medical concepts from both data and medical ontologies to cope with insufficient data volume.", [[pdf](http://openreview.net/pdf?id=SkgewU5ll)]
 
 #### Wang Ling
-* [Learning to Compose Words into Sentences with Reinforcement Learning](http://openreview.net/forum?id=Skvgqgqxe), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling, "", [[pdf](http://openreview.net/pdf?id=Skvgqgqxe)]
 * [Reference-Aware Language Models](http://openreview.net/forum?id=ByG8A7cee), Zichao Yang, Phil Blunsom, Chris Dyer, Wang Ling, "reference-aware language models", [[pdf](http://openreview.net/pdf?id=ByG8A7cee)]
+* [Learning to Compose Words into Sentences with Reinforcement Learning](http://openreview.net/forum?id=Skvgqgqxe), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling, "", [[pdf](http://openreview.net/pdf?id=Skvgqgqxe)]
 
 #### Wanjia He
 * [Multi-view Recurrent Neural Acoustic Word Embeddings](http://openreview.net/forum?id=rJxDkvqee), Wanjia He, Weiran Wang, Karen Livescu, "", [[pdf](http://openreview.net/pdf?id=rJxDkvqee)]
@@ -4209,8 +4209,8 @@
 * [Cat2Vec: Learning Distributed Representation of Multi-field Categorical Data](http://openreview.net/forum?id=HyNxRZ9xg), Ying Wen, Jun Wang, Tianyao Chen, Weinan Zhang, "an unsupervised pairwise interaction model to learning the distributed representation of multi-field categorical data", [[pdf](http://openreview.net/pdf?id=HyNxRZ9xg)]
 
 #### Weiran Wang
-* [Multi-view Recurrent Neural Acoustic Word Embeddings](http://openreview.net/forum?id=rJxDkvqee), Wanjia He, Weiran Wang, Karen Livescu, "", [[pdf](http://openreview.net/pdf?id=rJxDkvqee)]
 * [Deep Variational Canonical Correlation Analysis](http://openreview.net/forum?id=H1Heentlx), Weiran Wang, Xinchen Yan, Honglak Lee, Karen Livescu, "A deep generative model for multi-view representation learning", [[pdf](http://openreview.net/pdf?id=H1Heentlx)]
+* [Multi-view Recurrent Neural Acoustic Word Embeddings](http://openreview.net/forum?id=rJxDkvqee), Wanjia He, Weiran Wang, Karen Livescu, "", [[pdf](http://openreview.net/pdf?id=rJxDkvqee)]
 
 #### Weizhu Chen
 * [ReasoNet: Learning to Stop Reading in Machine Comprehension](http://openreview.net/forum?id=BJlxmAKlg), Yelong Shen, Po-Sen Huang, Jianfeng Gao, Weizhu Chen, "ReasoNet Reader for machine reading and comprehension", [[pdf](http://openreview.net/pdf?id=BJlxmAKlg)]
@@ -4244,8 +4244,8 @@
 * [Latent Sequence Decompositions](http://openreview.net/forum?id=SyQq185lg), William Chan, Yu Zhang, Quoc Le, Navdeep Jaitly, "", [[pdf](http://openreview.net/pdf?id=SyQq185lg)]
 
 #### William J. Dally
-* [Trained Ternary Quantization](http://openreview.net/forum?id=S1_pAu9xl), Chenzhuo Zhu, Song Han, Huizi Mao, William J. Dally, "Ternary Neural Network with accuracy close to or even higher than the full-precision one", [[pdf](http://openreview.net/pdf?id=S1_pAu9xl)]
 * [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](http://openreview.net/forum?id=S1xh5sYgx), Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, Kurt Keutzer, "Small CNN models", [[pdf](http://openreview.net/pdf?id=S1xh5sYgx)]
+* [Trained Ternary Quantization](http://openreview.net/forum?id=S1_pAu9xl), Chenzhuo Zhu, Song Han, Huizi Mao, William J. Dally, "Ternary Neural Network with accuracy close to or even higher than the full-precision one", [[pdf](http://openreview.net/pdf?id=S1_pAu9xl)]
 * [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](http://openreview.net/forum?id=HyoST_9xl), Song Han, Jeff Pool, Sharan Narang, Huizi Mao, Enhao Gong, Shijian Tang, Erich Elsen, Peter Vajda, Manohar Paluri, John Tran, Bryan Catanzaro, William J. Dally, "DSD effectively achieves superior optimization performance on a wide range of deep neural networks.", [[pdf](http://openreview.net/pdf?id=HyoST_9xl)]
 
 #### William Lotter
@@ -4256,15 +4256,15 @@
 
 #### William W. Cohen
 * [Gated-Attention Readers for Text Comprehension](http://openreview.net/forum?id=HkcdHtqlx), Bhuwan Dhingra, Hanxiao Liu, Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov, "", [[pdf](http://openreview.net/pdf?id=HkcdHtqlx)]
-* [Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks](http://openreview.net/forum?id=ByxpMd9lx), Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen, "", [[pdf](http://openreview.net/pdf?id=ByxpMd9lx)]
 * [Words or Characters? Fine-grained Gating for Reading Comprehension](http://openreview.net/forum?id=B1hdzd5lg), Zhilin Yang, Bhuwan Dhingra, Ye Yuan, Junjie Hu, William W. Cohen, Ruslan Salakhutdinov, "", [[pdf](http://openreview.net/pdf?id=B1hdzd5lg)]
+* [Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks](http://openreview.net/forum?id=ByxpMd9lx), Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen, "", [[pdf](http://openreview.net/pdf?id=ByxpMd9lx)]
 
 #### Wilson Hsu
 * [Online Structure Learning for Sum-Product Networks](http://openreview.net/forum?id=S1QefL5ge), Wilson Hsu, Agastya Kalra, Pascal Poupart, "This paper describes the first online structure learning technique for continuous SPNs with Gaussian leaves.", [[pdf](http://openreview.net/pdf?id=S1QefL5ge)]
 
 #### Wojciech Marian Czarnecki
-* [Local minima in training of deep networks](http://openreview.net/forum?id=Syoiqwcxx), Grzegorz Swirszcz, Wojciech Marian Czarnecki, Razvan Pascanu, "As a contribution to the discussion about error surface and the question why "deep and cheap" learning works so well we present concrete examples of local minima and obstacles arising in the training of deep models.", [[pdf](http://openreview.net/pdf?id=Syoiqwcxx)]
 * [Reinforcement Learning with Unsupervised Auxiliary Tasks](http://openreview.net/forum?id=SJ6yPD5xg), Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu, "", [[pdf](http://openreview.net/pdf?id=SJ6yPD5xg)]
+* [Local minima in training of deep networks](http://openreview.net/forum?id=Syoiqwcxx), Grzegorz Swirszcz, Wojciech Marian Czarnecki, Razvan Pascanu, "As a contribution to the discussion about error surface and the question why "deep and cheap" learning works so well we present concrete examples of local minima and obstacles arising in the training of deep models.", [[pdf](http://openreview.net/pdf?id=Syoiqwcxx)]
 
 #### Wojciech Zaremba
 * [Extensions and Limitations of the Neural GPU](http://openreview.net/forum?id=ryjp1c9xg), Eric Price, Wojciech Zaremba, Ilya Sutskever, "", [[pdf](http://openreview.net/pdf?id=ryjp1c9xg)]
@@ -4284,11 +4284,11 @@
 * [Regularizing CNNs with Locally Constrained Decorrelations](http://openreview.net/forum?id=ByOvsIqeg), Pau Rodríguez, Jordi Gonzàlez, Guillem Cucurull, Josep M. Gonfaus, Xavier Roca, "We show that that models regularized with local feature decorrelation have lower overfitting.", [[pdf](http://openreview.net/pdf?id=ByOvsIqeg)]
 
 #### Xi Chen
-* [Rotation Plane Doubly Orthogonal Recurrent Neural Networks](http://openreview.net/forum?id=ry_4vpixl), Zoe McCarthy, Andrew Bai, Xi Chen, Pieter Abbeel, "Recurrent equation for RNNs that uses the composition of two orthogonal transitions, one time invariant and one modulated by input, that doesn't suffer from vanishing or exploding gradients.", [[pdf](http://openreview.net/pdf?id=ry_4vpixl)]
 * [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](http://openreview.net/forum?id=SyOvg6jxx), Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, Pieter Abbeel, "We improve exploration in deep reinforcement learning by simply hashing states and assigning bonus rewards according to state counts.", [[pdf](http://openreview.net/pdf?id=SyOvg6jxx)]
 * [PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications](http://openreview.net/forum?id=BJrFC6ceg), Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma, Yaroslav Bulatov, "A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications", [[pdf](http://openreview.net/pdf?id=BJrFC6ceg)]
-* [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
 * [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](http://openreview.net/forum?id=HkLXCE9lx), Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel, "We propose to learn a “fast” reinforcement learning algorithm using standard, off-the-shelf (“slow”) reinforcement learning algorithms, where the “fast” version is represented as an RNN, and fast RL happens inside its activations.", [[pdf](http://openreview.net/pdf?id=HkLXCE9lx)]
+* [Rotation Plane Doubly Orthogonal Recurrent Neural Networks](http://openreview.net/forum?id=ry_4vpixl), Zoe McCarthy, Andrew Bai, Xi Chen, Pieter Abbeel, "Recurrent equation for RNNs that uses the composition of two orthogonal transitions, one time invariant and one modulated by input, that doesn't suffer from vanishing or exploding gradients.", [[pdf](http://openreview.net/pdf?id=ry_4vpixl)]
+* [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
 
 #### Xia Song
 * [Multitask Regularization for Semantic Vector Representation of Phrases](http://openreview.net/forum?id=HyE81pKxl), Xia Song, Saurabh Tiwary \& Rangan Majumdar, "Multi-task training based regularization for better vector representation of natural language text", [[pdf](http://openreview.net/pdf?id=HyE81pKxl)]
@@ -4334,8 +4334,8 @@
 * [Neural Code Completion](http://openreview.net/forum?id=rJbPBt9lg), Xin Wang, Chang Liu, Richard Shin, Joseph E. Gonzalez, Dawn Song, "", [[pdf](http://openreview.net/pdf?id=rJbPBt9lg)]
 
 #### Xin Zheng
-* [CHARACTER-AWARE RESIDUAL NETWORK FOR SENTENCE REPRESENTATION](http://openreview.net/forum?id=SyAtIi9lx), Xin Zheng, Zhenzhou Wu, "", [[pdf](http://openreview.net/pdf?id=SyAtIi9lx)]
 * [Character-aware Attention Residual Network for Sentence Representation](http://openreview.net/forum?id=H1Go7Koex), Xin Zheng, Zhenzhou Wu, "We propose a character-aware attention residual network for short text representation.", [[pdf](http://openreview.net/pdf?id=H1Go7Koex)]
+* [CHARACTER-AWARE RESIDUAL NETWORK FOR SENTENCE REPRESENTATION](http://openreview.net/forum?id=SyAtIi9lx), Xin Zheng, Zhenzhou Wu, "", [[pdf](http://openreview.net/pdf?id=SyAtIi9lx)]
 
 #### Xinchen Yan
 * [Deep Variational Canonical Correlation Analysis](http://openreview.net/forum?id=H1Heentlx), Weiran Wang, Xinchen Yan, Honglak Lee, Karen Livescu, "A deep generative model for multi-view representation learning", [[pdf](http://openreview.net/pdf?id=H1Heentlx)]
@@ -4380,10 +4380,10 @@
 * [Dynamic Partition Models](http://openreview.net/forum?id=BJ46w6Ule), Marc Goessling, Yali Amit, "Learning of compact binary representations through partitioning of the variables", [[pdf](http://openreview.net/pdf?id=BJ46w6Ule)]
 
 #### Yan Duan
-* [Stochastic Neural Networks for Hierarchical Reinforcement Learning](http://openreview.net/forum?id=B1oK8aoxe), Carlos Florensa, Yan Duan, Pieter Abbeel, "We propose a framework for learning a diverse set of skills using stochastic neural networks with minimum supervision, and utilize these skills in a hierarchical architecture to solve challenging tasks with sparse rewards", [[pdf](http://openreview.net/pdf?id=B1oK8aoxe)]
 * [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](http://openreview.net/forum?id=SyOvg6jxx), Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi Chen, Yan Duan, John Schulman, Filip De Turck, Pieter Abbeel, "We improve exploration in deep reinforcement learning by simply hashing states and assigning bonus rewards according to state counts.", [[pdf](http://openreview.net/pdf?id=SyOvg6jxx)]
-* [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
+* [Stochastic Neural Networks for Hierarchical Reinforcement Learning](http://openreview.net/forum?id=B1oK8aoxe), Carlos Florensa, Yan Duan, Pieter Abbeel, "We propose a framework for learning a diverse set of skills using stochastic neural networks with minimum supervision, and utilize these skills in a hierarchical architecture to solve challenging tasks with sparse rewards", [[pdf](http://openreview.net/pdf?id=B1oK8aoxe)]
 * [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](http://openreview.net/forum?id=HkLXCE9lx), Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel, "We propose to learn a “fast” reinforcement learning algorithm using standard, off-the-shelf (“slow”) reinforcement learning algorithms, where the “fast” version is represented as an RNN, and fast RL happens inside its activations.", [[pdf](http://openreview.net/pdf?id=HkLXCE9lx)]
+* [Variational Lossy Autoencoder](http://openreview.net/forum?id=BysvGP5ee), Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel, "A VAE that provably learns global structure of images with a local PixelCNN decoder.", [[pdf](http://openreview.net/pdf?id=BysvGP5ee)]
 
 #### Yan Liu
 * [Variational Recurrent Adversarial Deep Domain Adaptation](http://openreview.net/forum?id=rk9eAFcxg), Sanjay Purushotham, Wilka Carvalho, Tanachat Nilanon, Yan Liu, "We propose Variational Recurrent Adversarial Deep Domain Adaptation approach to capture and transfer temporal latent dependencies in multivariate time-series data", [[pdf](http://openreview.net/pdf?id=rk9eAFcxg)]
@@ -4423,11 +4423,11 @@
 * [Epitomic Variational Autoencoders](http://openreview.net/forum?id=Bk3F5Y9lx), Serena Yeung, Anitha Kannan, Yann Dauphin, Li Fei-Fei, "We introduce an extension of variational autoencoders that learns multiple shared latent subspaces to address the issue of model capacity underutilization.", [[pdf](http://openreview.net/pdf?id=Bk3F5Y9lx)]
 
 #### Yann LeCun
-* [Energy-based Generative Adversarial Networks](http://openreview.net/forum?id=ryh9pmcee), Junbo Zhao, Michael Mathieu, Yann LeCun, "We introduce the "Energy-based Generative Adversarial Network" (EBGAN) model.", [[pdf](http://openreview.net/pdf?id=ryh9pmcee)]
 * [Universality in halting time](http://openreview.net/forum?id=HyET6tYex), Levent Sagun, Thomas Trogdon, Yann LeCun, "Normalized halting time distributions are independent of the input data distribution.", [[pdf](http://openreview.net/pdf?id=HyET6tYex)]
-* [Tracking the World State with Recurrent Entity Networks](http://openreview.net/forum?id=rJTKKKqeg), Mikael Henaff, Jason Weston, Arthur Szlam, Antoine Bordes, Yann LeCun, "A new memory-augmented model which learns to track the world state, obtaining SOTA on the bAbI tasks amongst other results.", [[pdf](http://openreview.net/pdf?id=rJTKKKqeg)]
+* [Energy-based Generative Adversarial Networks](http://openreview.net/forum?id=ryh9pmcee), Junbo Zhao, Michael Mathieu, Yann LeCun, "We introduce the "Energy-based Generative Adversarial Network" (EBGAN) model.", [[pdf](http://openreview.net/pdf?id=ryh9pmcee)]
 * [Singularity of the Hessian in Deep Learning](http://openreview.net/forum?id=B186cP9gx), Levent Sagun, Leon Bottou, Yann LeCun, "The eigenvalues of the Hessian of loss functions in deep learning are singular, extremely singular.", [[pdf](http://openreview.net/pdf?id=B186cP9gx)]
 * [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](http://openreview.net/forum?id=B1YfAfcgl), Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, "This paper focuses on developing new optimization tools for deep learning that are tailored to exploit the local geometric properties of the objective function.", [[pdf](http://openreview.net/pdf?id=B1YfAfcgl)]
+* [Tracking the World State with Recurrent Entity Networks](http://openreview.net/forum?id=rJTKKKqeg), Mikael Henaff, Jason Weston, Arthur Szlam, Antoine Bordes, Yann LeCun, "A new memory-augmented model which learns to track the world state, obtaining SOTA on the bAbI tasks amongst other results.", [[pdf](http://openreview.net/pdf?id=rJTKKKqeg)]
 
 #### Yann N. Dauphin
 * [A Convolutional Encoder Model for Neural Machine Translation](http://openreview.net/forum?id=BJAA4wKxg), Jonas Gehring, Michael Auli, David Grangier, Yann N. Dauphin, "Investigate encoder models for translation and demonstrate that convolutions can outperform LSTMs as encoders.", [[pdf](http://openreview.net/pdf?id=BJAA4wKxg)]
@@ -4517,8 +4517,8 @@
 * [Snapshot Ensembles: Train 1, Get M for Free](http://openreview.net/forum?id=BJYwwY9ll), Gao Huang, Yixuan Li, Geoff Pleiss, Zhuang Liu, John E. Hopcroft, Kilian Q. Weinberger, "", [[pdf](http://openreview.net/pdf?id=BJYwwY9ll)]
 
 #### Yoav Goldberg
-* [Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](http://openreview.net/forum?id=BJh6Ztuxl), Yossi Adi, Einat Kermany, Yonatan Belinkov, Ofer Lavi, Yoav Goldberg, "A method for analyzing sentence embeddings on a fine-grained level using auxiliary prediction tasks", [[pdf](http://openreview.net/pdf?id=BJh6Ztuxl)]
 * [Sequence to Sequence Transduction with Hard Monotonic Attention](http://openreview.net/forum?id=HkyYqU9lx), Roee Aharoni, Yoav Goldberg, "Sequence to sequence learning with a hard attention mechanism that works better than soft attention models on monotonically aligned sequences", [[pdf](http://openreview.net/pdf?id=HkyYqU9lx)]
+* [Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](http://openreview.net/forum?id=BJh6Ztuxl), Yossi Adi, Einat Kermany, Yonatan Belinkov, Ofer Lavi, Yoav Goldberg, "A method for analyzing sentence embeddings on a fine-grained level using auxiliary prediction tasks", [[pdf](http://openreview.net/pdf?id=BJh6Ztuxl)]
 
 #### Yonatan Belinkov
 * [Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](http://openreview.net/forum?id=BJh6Ztuxl), Yossi Adi, Einat Kermany, Yonatan Belinkov, Ofer Lavi, Yoav Goldberg, "A method for analyzing sentence embeddings on a fine-grained level using auxiliary prediction tasks", [[pdf](http://openreview.net/pdf?id=BJh6Ztuxl)]
@@ -4548,22 +4548,22 @@
 * [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](http://openreview.net/forum?id=SJZAb5cel), Kazuma Hashimoto, Caiming Xiong, Yoshimasa Tsuruoka, Richard Socher, "A single deep multi-task learning model for five different NLP tasks.", [[pdf](http://openreview.net/pdf?id=SJZAb5cel)]
 
 #### Yoshua Bengio
+* [Improving Generative Adversarial Networks with Denoising Feature Matching](http://openreview.net/forum?id=S1X7nhsxl), David Warde-Farley, Yoshua Bengio, "Use a denoiser trained on discriminator features to train better generators.", [[pdf](http://openreview.net/pdf?id=S1X7nhsxl)]
 * [Hierarchical Multiscale Recurrent Neural Networks](http://openreview.net/forum?id=S1di0sfgl), Junyoung Chung, Sungjin Ahn, Yoshua Bengio, "Propose a recurrent neural network architecture that can discover the underlying hierarchical structure in the temporal data.", [[pdf](http://openreview.net/pdf?id=S1di0sfgl)]
+* [Understanding intermediate layers using linear classifier probes](http://openreview.net/forum?id=ryF7rTqgl), Guillaume Alain, Yoshua Bengio, "New useful concept of information to understand deep learning.", [[pdf](http://openreview.net/pdf?id=ryF7rTqgl)]
+* [The Variational Walkback Algorithm](http://openreview.net/forum?id=rkpdnIqlx), Anirudh Goyal, Nan Rosemary Ke, Alex Lamb, Yoshua Bengio, "A new algorithm for training undirected graphical models.", [[pdf](http://openreview.net/pdf?id=rkpdnIqlx)]
+* [Towards an automatic Turing test: Learning to evaluate dialogue responses](http://openreview.net/forum?id=HJ5PIaseg), Ryan Lowe, Michael Noseworthy, Iulian V. Serban, Nicolas Angelard-Gontier, Yoshua Bengio, Joelle Pineau, "We propose a model for evaluating dialogue responses that correlates significantly with human judgement at the utterance-level and system-level.", [[pdf](http://openreview.net/pdf?id=HJ5PIaseg)]
 * [Mollifying Networks](http://openreview.net/forum?id=r1G4z8cge), Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio, "We are proposing a new continuation method for neural networks, that starts from optimizing a convex objective function and gradually during the training the function evolves into more non-convex function.", [[pdf](http://openreview.net/pdf?id=r1G4z8cge)]
+* [A SELF-ATTENTIVE SENTENCE EMBEDDING](http://openreview.net/forum?id=BJC_jUqxe), Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio, "a new model for extracting an interpretable sentence embedding by introducing self-attention.", [[pdf](http://openreview.net/pdf?id=BJC_jUqxe)]
 * [Hierarchical Memory Networks](http://openreview.net/forum?id=BJ0Ee8cxx), Sarath Chandar, Sungjin Ahn, Hugo Larochelle, Pascal Vincent, Gerald Tesauro, Yoshua Bengio, "We propose a hierarchical memory organization strategy for efficient memory access in memory networks with large memory.", [[pdf](http://openreview.net/pdf?id=BJ0Ee8cxx)]
 * [A Neural Knowledge Language Model](http://openreview.net/forum?id=BJwFrvOeg), Sungjin Ahn, Heeyoul Choi, Tanel Parnamaa, Yoshua Bengio, "A neural recurrent language model which can extract knowledge from a knowledge base to generate knowledge related words such as person names, locations, years, etc.", [[pdf](http://openreview.net/pdf?id=BJwFrvOeg)]
-* [Towards an automatic Turing test: Learning to evaluate dialogue responses](http://openreview.net/forum?id=HJ5PIaseg), Ryan Lowe, Michael Noseworthy, Iulian V. Serban, Nicolas Angelard-Gontier, Yoshua Bengio, Joelle Pineau, "We propose a model for evaluating dialogue responses that correlates significantly with human judgement at the utterance-level and system-level.", [[pdf](http://openreview.net/pdf?id=HJ5PIaseg)]
 * [Diet Networks: Thin Parameters for Fat Genomics](http://openreview.net/forum?id=Sk-oDY9ge), Adriana Romero, Pierre Luc Carrier, Akram Erraqabi, Tristan Sylvain, Alex Auvolat, Etienne Dejoie, Marc-André Legault, Julie G. Hussin, Yoshua Bengio, "Drastically reducing the number of parameters, when the number of input features is orders of magnitude larger than the number of training examples, such as in genomics.", [[pdf](http://openreview.net/pdf?id=Sk-oDY9ge)]
-* [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
 * [SampleRNN: An Unconditional End-to-End Neural Audio Generation Model](http://openreview.net/forum?id=SkxKPDv5xl), Soroush Mehri, Kundan Kumar, Ishaan Gulrajani, Rithesh Kumar, Shubham Jain, Jose Manuel Rodriguez Sotelo, Aaron Courville, Yoshua Bengio, "Novel model for unconditional audio generation task using hierarchical multi-scale RNNs and autoregressive MLP.", [[pdf](http://openreview.net/pdf?id=SkxKPDv5xl)]
-* [Understanding intermediate layers using linear classifier probes](http://openreview.net/forum?id=ryF7rTqgl), Guillaume Alain, Yoshua Bengio, "New useful concept of information to understand deep learning.", [[pdf](http://openreview.net/pdf?id=ryF7rTqgl)]
 * [Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations](http://openreview.net/forum?id=rJqBEPcxe), David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh  Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal, "Zoneout is like dropout (for RNNs) but uses identity masks instead of zero masks", [[pdf](http://openreview.net/pdf?id=rJqBEPcxe)]
-* [A SELF-ATTENTIVE SENTENCE EMBEDDING](http://openreview.net/forum?id=BJC_jUqxe), Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio, "a new model for extracting an interpretable sentence embedding by introducing self-attention.", [[pdf](http://openreview.net/pdf?id=BJC_jUqxe)]
-* [Generalizable Features From Unsupervised Learning](http://openreview.net/forum?id=rJ6DhP5xe), Mehdi Mirza, Aaron Courville, Yoshua Bengio, "Using generated data from a next frame predictor model to make a supervised model generalize better to unseen distributions.  ", [[pdf](http://openreview.net/pdf?id=rJ6DhP5xe)]
-* [The Variational Walkback Algorithm](http://openreview.net/forum?id=rkpdnIqlx), Anirudh Goyal, Nan Rosemary Ke, Alex Lamb, Yoshua Bengio, "A new algorithm for training undirected graphical models.", [[pdf](http://openreview.net/pdf?id=rkpdnIqlx)]
-* [Mode Regularized Generative Adversarial Networks](http://openreview.net/forum?id=HJKkY35le), Tong Che, Yanran Li, Athul Jacob, Yoshua Bengio, Wenjie Li, "", [[pdf](http://openreview.net/pdf?id=HJKkY35le)]
-* [Improving Generative Adversarial Networks with Denoising Feature Matching](http://openreview.net/forum?id=S1X7nhsxl), David Warde-Farley, Yoshua Bengio, "Use a denoiser trained on discriminator features to train better generators.", [[pdf](http://openreview.net/pdf?id=S1X7nhsxl)]
 * [Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes](http://openreview.net/forum?id=BkSmc8qll), Caglar Gulcehre, Sarath Chandar, Kyunghyun Cho, Yoshua Bengio, "We propose a new type of Neural Turing Machine, which is simpler than the original model and achieves better results than the baselines on non-trivial tasks. ", [[pdf](http://openreview.net/pdf?id=BkSmc8qll)]
+* [Mode Regularized Generative Adversarial Networks](http://openreview.net/forum?id=HJKkY35le), Tong Che, Yanran Li, Athul Jacob, Yoshua Bengio, Wenjie Li, "", [[pdf](http://openreview.net/pdf?id=HJKkY35le)]
+* [Generalizable Features From Unsupervised Learning](http://openreview.net/forum?id=rJ6DhP5xe), Mehdi Mirza, Aaron Courville, Yoshua Bengio, "Using generated data from a next frame predictor model to make a supervised model generalize better to unseen distributions.  ", [[pdf](http://openreview.net/pdf?id=rJ6DhP5xe)]
+* [An Actor-Critic Algorithm for Sequence Prediction](http://openreview.net/forum?id=SJDaqqveg), Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio, "Adapting Actor-Critic methods from reinforcement learning to structured prediction", [[pdf](http://openreview.net/pdf?id=SJDaqqveg)]
 
 #### Yossi Adi
 * [Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks](http://openreview.net/forum?id=BJh6Ztuxl), Yossi Adi, Einat Kermany, Yonatan Belinkov, Ofer Lavi, Yoav Goldberg, "A method for analyzing sentence embeddings on a fine-grained level using auxiliary prediction tasks", [[pdf](http://openreview.net/pdf?id=BJh6Ztuxl)]
@@ -4584,8 +4584,8 @@
 * [Deep Neural Networks and the Tree of Life](http://openreview.net/forum?id=r17RD2oxe), Yan Wang, Kun He, John E. Hopcroft, Yu Sun, "Provideing a potential solution to the important problem of constructing a biology evolutionary tree; Giving insight into the representations produced by deep neural networks", [[pdf](http://openreview.net/pdf?id=r17RD2oxe)]
 
 #### Yu Zhang
-* [Latent Sequence Decompositions](http://openreview.net/forum?id=SyQq185lg), William Chan, Yu Zhang, Quoc Le, Navdeep Jaitly, "", [[pdf](http://openreview.net/pdf?id=SyQq185lg)]
 * [OMG: Orthogonal Method of Grouping With Application of K-Shot Learning](http://openreview.net/forum?id=S1HcOI5le), Haoqi Fan, Yu Zhang, Kris M. Kitani, "", [[pdf](http://openreview.net/pdf?id=S1HcOI5le)]
+* [Latent Sequence Decompositions](http://openreview.net/forum?id=SyQq185lg), William Chan, Yu Zhang, Quoc Le, Navdeep Jaitly, "", [[pdf](http://openreview.net/pdf?id=SyQq185lg)]
 
 #### Yu-Wei Chao
 * [Rethinking Numerical Representations for Deep Neural Networks](http://openreview.net/forum?id=BJ_MGwqlg), Parker Hill, Babak Zamirai, Shengshuo Lu, Yu-Wei Chao, Michael Laurenzano, Mehrzad Samadi, Marios Papaefthymiou, Scott Mahlke, Thomas Wenisch, Jia Deng, Lingjia Tang, Jason Mars, "We find that the optimal numerical representation for large-scale DNNs is very different than the small-scale ones that are used in current DNN hardware research.", [[pdf](http://openreview.net/pdf?id=BJ_MGwqlg)]
@@ -4597,8 +4597,8 @@
 * [Training Long Short-Term Memory With Sparsified Stochastic Gradient Descent](http://openreview.net/forum?id=HJWzXsKxx), Maohua Zhu, Minsoo Rhu, Jason Clemons, Stephen W. Keckler, Yuan Xie, "A simple yet effective technique to induce considerable amount of sparsity in LSTM training", [[pdf](http://openreview.net/pdf?id=HJWzXsKxx)]
 
 #### Yuandong Tian
-* [Symmetry-Breaking Convergence Analysis of Certain Two-layered Neural Networks with ReLU nonlinearity](http://openreview.net/forum?id=Hk85q85ee), Yuandong Tian, "In this paper, we use dynamical system to analyze the nonlinear weight dynamics of two-layered bias-free ReLU networks.", [[pdf](http://openreview.net/pdf?id=Hk85q85ee)]
 * [Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning](http://openreview.net/forum?id=Hk3mPK5gg), Yuxin Wu, Yuandong Tian, "We propose a novel framework for training vision-based agent for First-Person Shooter (FPS) Game, Doom, using actor-critic model and curriculum training. ", [[pdf](http://openreview.net/pdf?id=Hk3mPK5gg)]
+* [Symmetry-Breaking Convergence Analysis of Certain Two-layered Neural Networks with ReLU nonlinearity](http://openreview.net/forum?id=Hk85q85ee), Yuandong Tian, "In this paper, we use dynamical system to analyze the nonlinear weight dynamics of two-layered bias-free ReLU networks.", [[pdf](http://openreview.net/pdf?id=Hk85q85ee)]
 * [Unsupervised Program Induction with Hierarchical Generative Convolutional Neural Networks](http://openreview.net/forum?id=r1ryLtqgl), Qucheng Gong, Yuandong Tian, C. Lawrence Zitnick, "We propose a hierarchical generative convolutional model to create executable programs from input/output pairs, trained with a randomly generated codebase.", [[pdf](http://openreview.net/pdf?id=r1ryLtqgl)]
 
 #### Yuanjun Gao *
@@ -4637,9 +4637,9 @@
 * [Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights](http://openreview.net/forum?id=HyQJ-mclg), Aojun Zhou, Anbang Yao, Yiwen Guo, Lin Xu, Yurong Chen, "This paper presents INQ, targeting to efficiently transform any pre-trained full-precision convolutional neural network (CNN) model into a low-precision version whose connection weights are constrained to be either powers of two or zero.", [[pdf](http://openreview.net/pdf?id=HyQJ-mclg)]
 
 #### Yutaka Matsuo
-* [Joint Multimodal Learning with Deep Generative Models](http://openreview.net/forum?id=Hk8rlUqge), Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=Hk8rlUqge)]
 * [Multiagent System for Layer Free Network](http://openreview.net/forum?id=B1PA8fqeg), Hiroki Kurotaki, Kotaro Nakayama, Yutaka Matsuo, "We propose a multiagent system that have feed-forward networks as its subset but free from layer scheme.", [[pdf](http://openreview.net/pdf?id=B1PA8fqeg)]
 * [b-GAN: Unified Framework of Generative Adversarial Networks](http://openreview.net/forum?id=S1JG13oee), Masatosi Uehara, Issei Sato, Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "New Unified Framework of Generative Adversarial Networks using Bregman divergence beyond f-GAN", [[pdf](http://openreview.net/pdf?id=S1JG13oee)]
+* [Joint Multimodal Learning with Deep Generative Models](http://openreview.net/forum?id=Hk8rlUqge), Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=Hk8rlUqge)]
 * [Neural Machine Translation with Latent Semantic of Image and Text](http://openreview.net/forum?id=B1G9tvcgx), Joji Toyama, Masanori Misono, Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo, "", [[pdf](http://openreview.net/pdf?id=B1G9tvcgx)]
 
 #### Yuting Hu
@@ -4696,8 +4696,8 @@
 * [Collaborative Deep Embedding via Dual Networks](http://openreview.net/forum?id=r1w7Jdqxl), Yilei Xiong, Dahua Lin, Haoying Niu, JIefeng Cheng, Zhenguo Li, "", [[pdf](http://openreview.net/pdf?id=r1w7Jdqxl)]
 
 #### Zhenzhou Wu
-* [CHARACTER-AWARE RESIDUAL NETWORK FOR SENTENCE REPRESENTATION](http://openreview.net/forum?id=SyAtIi9lx), Xin Zheng, Zhenzhou Wu, "", [[pdf](http://openreview.net/pdf?id=SyAtIi9lx)]
 * [Character-aware Attention Residual Network for Sentence Representation](http://openreview.net/forum?id=H1Go7Koex), Xin Zheng, Zhenzhou Wu, "We propose a character-aware attention residual network for short text representation.", [[pdf](http://openreview.net/pdf?id=H1Go7Koex)]
+* [CHARACTER-AWARE RESIDUAL NETWORK FOR SENTENCE REPRESENTATION](http://openreview.net/forum?id=SyAtIi9lx), Xin Zheng, Zhenzhou Wu, "", [[pdf](http://openreview.net/pdf?id=SyAtIi9lx)]
 
 #### Zhifan Zhu
 * [HFH: Homologically Functional Hashing for Compressing Deep Neural Networks](http://openreview.net/forum?id=Hyanrrqlg), Lei Shi, Shikun Feng, Zhifan Zhu, "", [[pdf](http://openreview.net/pdf?id=Hyanrrqlg)]
@@ -4713,8 +4713,8 @@
 
 #### Zhilin Yang
 * [Gated-Attention Readers for Text Comprehension](http://openreview.net/forum?id=HkcdHtqlx), Bhuwan Dhingra, Hanxiao Liu, Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov, "", [[pdf](http://openreview.net/pdf?id=HkcdHtqlx)]
-* [Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks](http://openreview.net/forum?id=ByxpMd9lx), Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen, "", [[pdf](http://openreview.net/pdf?id=ByxpMd9lx)]
 * [Words or Characters? Fine-grained Gating for Reading Comprehension](http://openreview.net/forum?id=B1hdzd5lg), Zhilin Yang, Bhuwan Dhingra, Ye Yuan, Junjie Hu, William W. Cohen, Ruslan Salakhutdinov, "", [[pdf](http://openreview.net/pdf?id=B1hdzd5lg)]
+* [Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks](http://openreview.net/forum?id=ByxpMd9lx), Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen, "", [[pdf](http://openreview.net/pdf?id=ByxpMd9lx)]
 
 #### Zhitang Chen
 * [Online Bayesian Transfer Learning for Sequential Data Modeling](http://openreview.net/forum?id=ByqiJIqxg), Priyank Jaini, Zhitang Chen, Pablo Carbajal, Edith Law, Laura Middleton, Kayla Regan, Mike Schaekermann, James Tung, Pascal Poupart, "", [[pdf](http://openreview.net/pdf?id=ByqiJIqxg)]
