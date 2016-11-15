@@ -1,0 +1,5 @@
+name: iclr2017-submission-papers-index
+dependencies:
+- python=3
+- ipython
+- ujson
