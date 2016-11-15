@@ -18,8 +18,8 @@ def make_item_index(key):
     for paper_id in papers:
         for item in papers[paper_id][key]:
             if item not in indexes:
-                indexes[item] = set()
-            indexes[item].add(paper_id)
+                indexes[item] = []
+            indexes[item].append(paper_id)
     return sorted(indexes.items(), key=operator.itemgetter(0))
 
 
@@ -68,7 +68,7 @@ def make_index_markdown(title, indexes, filename=''):
                 f.write('\n### %s\n' % prev_sub_title.upper())
 
             f.write('\n#### %s\n' % c[0])
-            for paper_id in c[1]:
+            for paper_id in sorted(c[1]):
                 f.write('* %s\n' % query_note(paper_id))
 
 
