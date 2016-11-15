@@ -1,5 +1,5 @@
 ## Keywords Index
-[Applications](#applications) [Computer vision](#computer-vision) [Deep learning](#deep-learning) [Games](#games) [Multi-modal learning](#multi-modal-learning) [Natural language processing](#natural-language-processing) [Optimization](#optimization) [Reinforcement learning](#reinforcement-learning) [Semi-supervised learning](#semi-supervised-learning) [Speech](#speech) [Structured prediction](#structured-prediction) [Supervised learning](#supervised-learning) [Theory](#theory) [Transfer learning](#transfer-learning) [Unsupervised learning](#unsupervised-learning) 
+[Applications](#applications), [Computer vision](#computer-vision), [Deep learning](#deep-learning), [Games](#games), [Multi-modal learning](#multi-modal-learning), [Natural language processing](#natural-language-processing), [Optimization](#optimization), [Reinforcement learning](#reinforcement-learning), [Semi-supervised learning](#semi-supervised-learning), [Speech](#speech), [Structured prediction](#structured-prediction), [Supervised learning](#supervised-learning), [Theory](#theory), [Transfer learning](#transfer-learning), [Unsupervised learning](#unsupervised-learning), 
 
 ### A
 

@@ -58,7 +58,7 @@ def make_index_markdown(title, indexes, filename=''):
         f.write('## %s Index\n' % title.capitalize())
 
         for c in char_index:
-            f.write('[%s](#%s) ' % (c.capitalize(), c.lower().replace(' ', '-')))
+            f.write('[%s](#%s), ' % (c.capitalize(), c.lower().replace(' ', '-')))
         f.write('\n')
 
         prev_sub_title = ''
