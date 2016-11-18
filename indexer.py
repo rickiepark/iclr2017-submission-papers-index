@@ -46,15 +46,13 @@ def query_note(id):
            (papers[id]['title'], id, ', '.join(papers[id]['authors']), papers[id]['TL;DR'], id)
 
 
-def make_index_markdown(title, indexes, filename=''):
+def make_index_markdown(title, indexes):
     if title == 'keywords':
         char_index = sorted(set([c[0] for c in indexes]))
     else:
         char_index = sorted(set([c[0][0] for c in indexes]))
 
-    if not filename:
-        filename = title
-    with open('%s.md' % filename, 'w') as f:
+    with open('%s.md' % title, 'w') as f:
         f.write('## %s Index\n' % title.capitalize())
 
         for c in char_index:
@@ -74,6 +72,6 @@ def make_index_markdown(title, indexes, filename=''):
 
 if __name__ == '__main__':
     make_global_index()
-    make_index_markdown('authors', authors_index, 'readme')
+    make_index_markdown('authors', authors_index)
     make_index_markdown('conflicts', conflicts_index)
     make_index_markdown('keywords', keywords_index)
