@@ -1,5 +1,5 @@
 import operator
-import ujson
+import requests
 
 papers = {}
 authors_index = []
@@ -25,8 +25,10 @@ def make_item_index(key):
 
 def make_global_index():
     global authors_index, conflicts_index, keywords_index
-    with open('openreview.txt') as f:
-        notes = ujson.load(f)
+    r = requests.get('https://openreview.net/notes?invitation=ICLR.cc%2F2017%2Fconference%2F-%2Fsubmission&maxtcdate=1485157180909')
+    with open('openreview.txt', 'w') as f:
+        f.write(r.text)
+    notes = r.json()
     for note in notes['notes']:
         papers[note['id']] = {
             'pdf': note['content']['pdf'],
