@@ -1,5 +1,7 @@
 # ICLR 2017 Submssion Papers Index 
 
+Total Papers: 244
+
 #### By Authors([authors.md](authors.md))
 
 * [Yoshua Bengio](authors.md#yoshua-bengio): 10
