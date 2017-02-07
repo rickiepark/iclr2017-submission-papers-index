@@ -27,7 +27,6 @@ Total Papers: 244
 * [Deep learning](keywords.md#deep-learning): 159
 * [Natural language processing](keywords.md#natural-language-processing): 45
 * [Unsupervised Learning](keywords.md#unsupervised-learning): 43
-
 * [Applications](keywords.md#applications): 35
 * [Computer vision](keywords.md#computer-vision): 32
 * [Supervised Learning](keywords.md#supervised-learning): 31
