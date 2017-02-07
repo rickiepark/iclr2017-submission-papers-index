@@ -2,6 +2,7 @@ import operator
 import requests
 
 papers = {}
+decision = {}
 authors_index = []
 conflicts_index = []
 keywords_index = []
@@ -25,18 +26,31 @@ def make_item_index(key):
 
 def make_global_index():
     global authors_index, conflicts_index, keywords_index
-    r = requests.get('https://openreview.net/notes?invitation=ICLR.cc%2F2017%2Fconference%2F-%2Fsubmission&maxtcdate=1485157180909')
+
+    r = requests.get('https://openreview.net/notes?invitation=ICLR.cc%2F2017%2Fconference%2Fpaper.*%2Facceptance')
+    with open('accept.txt', 'w') as f:
+        f.write(r.text)
+    accept = r.json()
+    # accept paper dict index
+    for note in accept['notes']:
+        decision[note['forum']] = note['content']['decision']
+
+    r = requests.get('https://openreview.net/notes?invitation=ICLR.cc%2F2017%2Fconference%2F-%2Fsubmission')
     with open('openreview.txt', 'w') as f:
         f.write(r.text)
     notes = r.json()
+
     for note in notes['notes']:
+        if decision[note['id']] == 'Reject':
+            continue
         papers[note['id']] = {
             'pdf': note['content']['pdf'],
             'conflicts': note['content']['conflicts'],
             'authors': note['content']['authors'],
             'title': note['content']['title'],
             'TL;DR': note['content']['TL;DR'],
-            'keywords': note['content']['keywords']
+            'keywords': note['content']['keywords'],
+            'decision': decision[note['id']]
         }
     authors_index = make_item_index('authors')
     conflicts_index = make_item_index('conflicts')
@@ -44,8 +58,8 @@ def make_global_index():
 
 
 def query_note(id):
-    return '[%s](http://openreview.net/forum?id=%s), %s, "%s", [[pdf](http://openreview.net/pdf?id=%s)]' %\
-           (papers[id]['title'], id, ', '.join(papers[id]['authors']), papers[id]['TL;DR'], id)
+    return '[%s](http://openreview.net/forum?id=%s), %s, "%s", [[pdf](http://openreview.net/pdf?id=%s)], %s' %\
+           (papers[id]['title'], id, ', '.join(papers[id]['authors']), papers[id]['TL;DR'], id, papers[id]['decision'])
 
 
 def make_index_markdown(title, indexes):
